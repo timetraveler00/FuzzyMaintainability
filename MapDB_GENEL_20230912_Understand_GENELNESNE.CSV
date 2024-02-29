@@ -1,0 +1,792 @@
+Kind,Name,SumCyclomatic,AvgCyclomatic,MaxCyclomatic,CountClassDerived,MaxInheritanceTree,CountDeclMethodAll,CountDeclMethod,CountClassCoupled,PercentLackOfCohesion,CountClassBase,MaxEssential
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\AsyncWriteEngine.java",67,3,12,,,,21,,,,6
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Atomic.java",86,2,3,,,,51,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\BTreeKeySerializer.java",129,5,17,,,,28,,,,10
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\BTreeMap.java",605,2,35,,,,256,,,,12
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Bind.java",53,2,5,,,,32,,,,5
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\CC.java",0,0,0,,,,0,,,,0
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Caches.java",73,2,5,,,,46,,,,5
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\CompressLZF.java",23,5,12,,,,5,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\DB.java",197,2,19,,,,92,,,,14
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\DBMaker.java",87,1,21,,,,61,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\DataInput2.java",18,1,1,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\DataOutput2.java",21,1,2,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\EncryptionXTEA.java",22,2,8,,,,9,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Engine.java",16,1,1,,,,16,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\EngineWrapper.java",85,1,3,,,,67,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Fun.java",100,3,17,,,,31,,,,17
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\HTreeMap.java",286,3,18,,,,89,,,,10
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\LongConcurrentHashMap.java",127,3,13,,,,44,,,,10
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\LongConcurrentLRUMap.java",91,2,22,,,,44,,,,9
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\LongHashMap.java",58,2,4,,,,33,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\LongMap.java",15,1,3,,,,13,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Pump.java",49,4,17,,,,14,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Queues.java",70,2,7,,,,37,,,,6
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Serializer.java",24,2,3,,,,16,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\SerializerBase.java",503,11,130,,,,47,,,,54
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\SerializerPojo.java",101,3,8,,,,40,,,,8
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Store.java",43,3,13,,,,17,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\StoreAppend.java",77,2,17,,,,31,,,,9
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\StoreDirect.java",138,3,14,,,,42,,,,7
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\StoreHeap.java",36,2,3,,,,24,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\StoreWAL.java",106,4,10,,,,27,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\TxBlock.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\TxEngine.java",81,2,10,,,,34,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\TxMaker.java",11,3,5,,,,4,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\TxRollbackException.java",0,0,0,,,,0,,,,0
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Utils.java",51,2,3,,,,24,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\main\java\org\mapdb\Volume.java",157,2,9,,,,88,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Bidi_Map.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Cache.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Compression.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Custom_Value.java",13,2,7,,,,7,,,,5
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\DBMakerExtend.java",4,1,2,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Histogram.java",6,3,4,,,,2,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Huge_Insert.java",5,1,1,,,,5,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Lazily_Loaded_Records.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Map_Size_Counter.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\MultiMap.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Pump_InMemory_Import_Then_Save_To_Disk.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\SQL_Auto_Incremental_Unique_Key.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Secondary_Key.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Secondary_Map.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Transactions.java",3,3,3,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\Transactions2.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\TreeMap_Composite_Key.java",7,7,7,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\TreeMap_Performance_Tunning.java",5,5,5,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\_HelloWorld.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\examples\_TempMap.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\AsyncWriteEngineTest.java",14,2,4,,,,7,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\AtomicBooleanTest.java",9,1,2,,,,8,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\AtomicIntegerTest.java",22,1,2,,,,17,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\AtomicLongTest.java",23,1,2,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeKeySerializerTest.java",21,3,5,,,,8,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapExtendTest.java",906,9,125,,,,96,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapLargeValsTest.java",7,1,2,,,,6,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapNavigable2Test.java",45,1,2,,,,34,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapNavigableSubMapExclusiveTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapNavigableSubMapInclusiveTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapNavigableTest.java",18,1,1,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapSubSetTest.java",104,2,3,,,,58,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest.java",35,2,7,,,,17,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest2.java",7,1,2,,,,6,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest3.java",44,3,8,,,,16,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest4.java",176,3,13,,,,58,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest5.java",124,1,2,,,,96,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeMapTest6.java",172,2,27,,,,83,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeSet2Test.java",155,3,27,,,,61,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeSet3Test.java",120,2,3,,,,70,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\BTreeSetTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\CCTest.java",3,3,3,,,,1,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\CacheWeakSoftRefTest.java",6,2,4,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\CompressTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\ConcurrentMapInterfaceTest.java",137,5,7,,,,28,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\DBMakerTest.java",28,1,2,,,,27,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\DBTest.java",7,1,1,,,,7,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\DebugVolume.java",19,1,2,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\EngineTest.java",34,1,4,,,,23,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\EngineWrapper_ImmutabilityCheckEngine.java",3,3,3,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\ExamplesTest.java",18,1,1,,,,18,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\FunTest.java",33,5,9,,,,7,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\HTreeMap2Test.java",68,3,10,,,,26,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\HTreeMap3Test.java",7,1,2,,,,6,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\HTreeSetTest.java",12,1,2,,,,10,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue112Test.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue114Test.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue132Test.java",12,3,5,,,,4,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue148Test.java",19,2,8,,,,8,,,,8
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue150Test.java",20,2,10,,,,9,,,,10
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue154Test.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue157Test.java",6,2,2,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue162Test.java",13,1,4,,,,9,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue164Test.java",16,2,3,,,,10,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue170Test.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue183Test.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue198Test.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue37Test.java",6,6,6,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue41Test.java",39,2,10,,,,17,,,,10
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue69Test.java",8,3,6,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue77Test.java",9,2,2,,,,6,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue78Test.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue86Test.java",11,2,3,,,,7,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue89Test.java",9,1,2,,,,8,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Issue90Test.java",2,2,2,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\IssuesTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\JSR166TestCase.java",1,1,1,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\LoggerVolume.java",23,1,1,,,,23,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\LongConcurrentHashMapTest.java",26,1,2,,,,21,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\LongHashMapTest.java",12,2,3,,,,7,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\MapInterfaceTest.java",256,4,10,,,,68,,,,4
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\MapListenerTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\PumpTest.java",32,3,6,,,,10,,,,5
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\QueuesTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Serialization2Bean.java",33,17,25,,,,2,,,,25
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Serialization2Test.java",4,1,1,,,,4,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\Serialized2DerivedBean.java",29,15,22,,,,2,,,,22
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\SerializerBaseTest.java",84,2,4,,,,49,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\SerializerPojoTest.java",61,1,11,,,,43,,,,9
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\StoreAppendTest.java",7,1,2,,,,5,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\StoreDirectFreeSpaceTest.java",21,2,3,,,,14,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\StoreDirectTest.java",50,2,4,,,,29,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\StoreHeapTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\StoreWALTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\TestFile.java",4,4,4,,,,1,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\TreeMapExtendTest.java",1531,10,129,,,,158,,,,3
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\TxEngineTest.java",9,1,1,,,,9,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\TxMakerTest.java",31,3,5,,,,12,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\UtilsTest.java",10,1,2,,,,7,,,,1
+File,"C:\f1\mapdb-mapdb-0.9.6\src\test\java\org\mapdb\VolumeTest.java",35,2,4,,,,22,,,,1
+Package,"examples",63,1,7,,,,36,,,,5
+Public Class,"examples.Bidi_Map",2,2,2,0,1,1,1,5,0,1,1
+Public Class,"examples.Cache",2,2,2,0,1,1,1,4,0,1,1
+Public Class,"examples.Compression",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"examples.Custom_Value",1,1,1,0,1,1,1,6,0,1,1
+Public Static Class,"examples.Custom_Value.Person",10,2,7,0,1,4,4,0,25,2,5
+Class,"examples.Custom_Value.main.CustomSerializer",2,1,1,0,1,2,2,1,0,3,1
+Public Class,"examples.DBMakerExtend",1,1,1,0,1,1,1,4,0,1,1
+Static Class,"examples.DBMakerExtend.ExtendedDBMaker",3,1,2,0,2,62,2,3,0,1,1
+Public Class,"examples.Histogram",2,2,2,0,1,1,1,4,0,1,1
+Class,"examples.Histogram.main.(Anon_1)",4,4,4,0,1,1,1,0,0,2,4
+Public Class,"examples.Huge_Insert",1,1,1,0,1,1,1,7,0,1,1
+Class,"examples.Huge_Insert.main.(Anon_1)",3,1,1,0,1,3,3,2,33,2,1
+Class,"examples.Huge_Insert.main.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"examples.Lazily_Loaded_Records",1,1,1,0,1,1,1,5,0,1,1
+Public Class,"examples.Map_Size_Counter",1,1,1,0,1,1,1,5,0,1,1
+Public Class,"examples.MultiMap",2,2,2,0,1,1,1,5,0,1,1
+Public Class,"examples.Pump_InMemory_Import_Then_Save_To_Disk",2,2,2,0,1,1,1,5,0,1,1
+Public Class,"examples.SQL_Auto_Incremental_Unique_Key",1,1,1,0,1,1,1,3,0,1,1
+Public Class,"examples.Secondary_Key",1,1,1,0,1,1,1,5,0,1,1
+Class,"examples.Secondary_Key.main.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"examples.Secondary_Map",1,1,1,0,1,1,1,5,0,1,1
+Class,"examples.Secondary_Map.main.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"examples.Transactions",3,3,3,0,1,1,1,4,0,1,1
+Public Class,"examples.Transactions2",1,1,1,0,1,1,1,4,0,1,1
+Class,"examples.Transactions2.main.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"examples.TreeMap_Composite_Key",7,7,7,0,1,1,1,5,0,1,1
+Public Class,"examples.TreeMap_Performance_Tunning",5,5,5,0,1,1,1,2,0,1,1
+Public Class,"examples._HelloWorld",1,1,1,0,1,1,1,3,0,1,1
+Public Class,"examples._TempMap",1,1,1,0,1,1,1,2,0,1,1
+Package,"org",0,0,0,,,,0,,,,0
+Package,"org.mapdb",8449,2,130,,,,2879,,,,54
+Public Class,"org.mapdb.AsyncWriteEngine",57,3,12,0,2,38,19,8,82,2,6
+Protected Static Class,"org.mapdb.AsyncWriteEngine.WriterRunnable",10,5,9,0,1,2,2,1,0,2,6
+TypeVariable,"org.mapdb.AsyncWriteEngine.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.AsyncWriteEngine.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.AsyncWriteEngine.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.AsyncWriteEngine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.AsyncWriteEngine.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.AsyncWriteEngineTest",10,2,4,0,2,5,4,5,25,1,1
+Class,"org.mapdb.AsyncWriteEngineTest.async_commit.(Anon_2)",2,1,1,0,1,2,2,2,0,2,1
+TypeVariable,"org.mapdb.AsyncWriteEngineTest.async_commit.(Anon_2).put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.AsyncWriteEngineTest.async_commit.(Anon_2).update.A",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.AsyncWriteEngineTest.concurrent_updates_test.(for_loop_1).(Anon_1)",2,2,2,0,1,1,1,3,0,2,1
+Public Class,"org.mapdb.Atomic",1,1,1,0,1,1,1,0,0,1,1
+Public Static Class,"org.mapdb.Atomic.Boolean",8,1,3,0,1,6,6,2,33,1,3
+Public Static Class,"org.mapdb.Atomic.Integer",30,1,3,0,2,16,16,2,83,1,3
+Public Static Class,"org.mapdb.Atomic.Long",30,1,3,0,2,16,16,2,83,1,3
+Public Static Class,"org.mapdb.Atomic.String",8,1,3,0,1,6,6,2,33,1,3
+Public Static Generic Class,"org.mapdb.Atomic.Var",9,1,3,0,1,6,6,2,33,1,3
+TypeVariable,"org.mapdb.Atomic.Var.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.AtomicBooleanTest",7,1,1,0,2,7,7,3,50,1,1
+Class,"org.mapdb.AtomicBooleanTest.testCompareAndSetInMultipleThreads.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+Public Class,"org.mapdb.AtomicIntegerTest",20,1,2,0,2,16,16,3,50,1,1
+Class,"org.mapdb.AtomicIntegerTest.testCompareAndSetInMultipleThreads.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+Public Class,"org.mapdb.AtomicLongTest",21,1,2,0,2,17,17,4,52,1,1
+Class,"org.mapdb.AtomicLongTest.testCompareAndSetInMultipleThreads.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+Public Abstract Generic Class,"org.mapdb.BTreeKeySerializer",13,3,7,7,1,4,4,6,100,1,5
+Class,"org.mapdb.BTreeKeySerializer.(Anon_1)",5,2,3,0,1,2,2,1,0,2,1
+Class,"org.mapdb.BTreeKeySerializer.(Anon_2)",5,2,3,0,1,2,2,1,0,2,1
+Class,"org.mapdb.BTreeKeySerializer.(Anon_3)",5,2,3,0,1,2,2,1,0,2,3
+Public Static Class,"org.mapdb.BTreeKeySerializer.BasicKeySerializer",5,1,2,0,2,7,3,1,0,2,1
+TypeVariable,"org.mapdb.BTreeKeySerializer.K",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer",22,4,9,0,2,9,5,4,6,2,6
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.B",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer",32,6,13,0,2,9,5,4,7,2,8
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.C",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer",42,8,17,0,2,9,5,4,8,2,10
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.D",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.BTreeKeySerializerTest",21,2,5,0,1,8,8,14,75,1,1
+Public Generic Class,"org.mapdb.BTreeMap",234,3,35,0,2,65,65,29,93,3,12
+Protected Interface,"org.mapdb.BTreeMap.BNode",6,1,1,2,0,6,6,0,0,0,1
+Static Generic Class,"org.mapdb.BTreeMap.BTreeEntryIterator",4,1,2,0,2,9,3,2,0,2,1
+TypeVariable,"org.mapdb.BTreeMap.BTreeEntryIterator.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.BTreeEntryIterator.V",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Class,"org.mapdb.BTreeMap.BTreeIterator",22,3,8,3,1,6,6,6,44,1,6
+Static Generic Class,"org.mapdb.BTreeMap.BTreeKeyIterator",4,1,2,0,2,9,3,2,0,2,1
+TypeVariable,"org.mapdb.BTreeMap.BTreeKeyIterator.K",0,0,0,0,1,0,0,0,0,1,0
+Static Generic Class,"org.mapdb.BTreeMap.BTreeValueIterator",4,1,2,0,2,9,3,2,0,2,1
+TypeVariable,"org.mapdb.BTreeMap.BTreeValueIterator.V",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Generic Class,"org.mapdb.BTreeMap.DescendingMap",100,2,7,0,2,47,47,3,81,2,4
+Abstract Generic Class,"org.mapdb.BTreeMap.DescendingMap.Iter",5,1,2,3,1,3,3,1,33,2,1
+TypeVariable,"org.mapdb.BTreeMap.DescendingMap.Iter.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.DescendingMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.DescendingMap.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.BTreeMap.DescendingMap.entryIterator.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.mapdb.BTreeMap.DescendingMap.keyIterator.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.mapdb.BTreeMap.DescendingMap.valueIterator.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+Protected Static Class,"org.mapdb.BTreeMap.DirNode",10,1,2,0,1,9,9,0,44,2,1
+Static Generic Class,"org.mapdb.BTreeMap.EntrySet",20,2,5,0,2,10,10,3,30,1,5
+TypeVariable,"org.mapdb.BTreeMap.EntrySet.K1",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.EntrySet.V1",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.EntrySet.toArray.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+Static Generic Class,"org.mapdb.BTreeMap.KeySet",37,1,5,0,2,28,28,4,51,2,5
+TypeVariable,"org.mapdb.BTreeMap.KeySet.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.KeySet.toArray.T",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Class,"org.mapdb.BTreeMap.LeafNode",8,1,1,0,1,8,8,0,58,2,1
+Protected Static Class,"org.mapdb.BTreeMap.NodeSerializer",36,12,24,0,1,3,3,8,6,2,1
+Protected Static Generic Class,"org.mapdb.BTreeMap.SubMap",99,2,7,0,2,47,47,7,73,2,4
+TypeVariable,"org.mapdb.BTreeMap.SubMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.SubMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Class,"org.mapdb.BTreeMap.ValRef",4,1,1,0,1,4,4,0,50,1,1
+Static Generic Class,"org.mapdb.BTreeMap.Values",9,1,2,0,2,8,8,2,25,1,1
+TypeVariable,"org.mapdb.BTreeMap.Values.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.Values.toArray.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMap.toList.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.BTreeMapExtendTest",906,9,125,0,2,96,96,3,78,1,1
+Public Class,"org.mapdb.BTreeMapLargeValsTest",7,1,2,0,4,102,6,7,66,1,1
+Public Class,"org.mapdb.BTreeMapNavigable2Test",45,1,2,2,2,34,34,1,0,1,1
+Public Class,"org.mapdb.BTreeMapNavigableSubMapExclusiveTest",2,1,1,0,3,36,2,0,0,1,1
+Public Class,"org.mapdb.BTreeMapNavigableSubMapInclusiveTest",2,1,1,0,3,36,2,0,0,1,1
+Public Class,"org.mapdb.BTreeMapNavigableTest",18,1,1,0,2,18,18,2,74,1,1
+Public Class,"org.mapdb.BTreeMapSubSetTest",103,1,3,0,3,58,57,2,0,1,1
+Static Class,"org.mapdb.BTreeMapSubSetTest.MyReverseComparator",1,1,1,0,1,1,1,0,0,2,1
+TypeVariable,"org.mapdb.BTreeMapSubSetTest.newNavigableSet.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.BTreeMapTest",35,2,7,0,1,17,17,12,50,1,1
+Public Class,"org.mapdb.BTreeMapTest2",7,1,2,0,4,102,6,7,83,1,1
+Public Class,"org.mapdb.BTreeMapTest3",44,2,8,0,4,112,16,2,0,1,3
+TypeVariable,"org.mapdb.BTreeMapTest3.subListSnapshot.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest3.toList.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.BTreeMapTest4",165,3,13,0,2,51,51,7,59,1,1
+Static Class,"org.mapdb.BTreeMapTest4.IllBehavedCollator",4,1,2,0,2,3,3,0,0,2,1
+Public Static Generic Class,"org.mapdb.BTreeMapTest4.MockComparator",3,3,3,0,1,1,1,0,0,3,3
+TypeVariable,"org.mapdb.BTreeMapTest4.MockComparator.T",0,0,0,0,2,0,0,0,0,1,0
+Public Static Class,"org.mapdb.BTreeMapTest4.ReversedComparator",2,1,1,0,1,2,2,0,0,3,1
+Public Static Class,"org.mapdb.BTreeMapTest4.SpecialNullableComparator",2,2,2,0,1,1,1,0,0,3,1
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.BTreeMapTest4.newBTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.BTreeMapTest5",124,1,2,0,3,97,96,1,0,1,1
+Public Class,"org.mapdb.BTreeMapTest6",145,2,27,0,3,72,71,2,94,1,1
+Class,"org.mapdb.BTreeMapTest6.check.ReferenceSet",27,2,5,0,1,12,12,1,0,1,4
+Public Class,"org.mapdb.BTreeSet2Test",127,2,27,0,3,49,48,4,94,1,1
+Static Class,"org.mapdb.BTreeSet2Test.MyReverseComparator",1,1,1,0,1,1,1,0,0,3,1
+Class,"org.mapdb.BTreeSet2Test.check.ReferenceSet",27,2,5,0,1,12,12,1,0,1,4
+Public Class,"org.mapdb.BTreeSet3Test",119,1,3,0,3,70,69,2,0,1,1
+Static Class,"org.mapdb.BTreeSet3Test.MyReverseComparator",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"org.mapdb.BTreeSetTest",1,1,1,0,2,11,1,3,0,1,1
+Public Class,"org.mapdb.Bind",15,1,3,0,1,10,10,5,0,1,1
+Public Generic Interface,"org.mapdb.Bind.MapListener",1,1,1,5,0,1,1,0,0,0,1
+TypeVariable,"org.mapdb.Bind.MapListener.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.MapListener.V",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Interface,"org.mapdb.Bind.MapWithModificationListener",3,1,1,2,2,3,3,1,0,1,1
+TypeVariable,"org.mapdb.Bind.MapWithModificationListener.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.MapWithModificationListener.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.findSecondaryKeys.(Anon_5)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.mapdb.Bind.findSecondaryKeys.(Anon_5).iterator.(Anon_6)",3,1,1,0,1,3,3,2,0,2,1
+TypeVariable,"org.mapdb.Bind.findSecondaryKeys.K1",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findSecondaryKeys.K2",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals2.B",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.findVals3.(Anon_7)",2,2,2,0,1,1,1,2,0,2,1
+Class,"org.mapdb.Bind.findVals3.(Anon_7).iterator.(Anon_8)",3,1,1,0,1,3,3,2,0,2,1
+TypeVariable,"org.mapdb.Bind.findVals3.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals3.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals3.C",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.findVals4.(Anon_9)",3,3,3,0,1,1,1,2,0,2,1
+Class,"org.mapdb.Bind.findVals4.(Anon_9).iterator.(Anon_10)",3,1,1,0,1,3,3,2,0,2,1
+TypeVariable,"org.mapdb.Bind.findVals4.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals4.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals4.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.findVals4.D",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.histogram.(Anon_11)",9,4,5,0,1,2,2,2,0,2,5
+TypeVariable,"org.mapdb.Bind.histogram.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.histogram.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.histogram.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.mapInverse.(Anon_4)",1,1,1,0,1,1,1,1,0,2,1
+TypeVariable,"org.mapdb.Bind.mapInverse.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.mapInverse.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.secondaryKey.(Anon_3)",4,4,4,0,1,1,1,3,0,2,4
+TypeVariable,"org.mapdb.Bind.secondaryKey.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.secondaryKey.K2",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.secondaryKey.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.secondaryValue.(Anon_2)",2,2,2,0,1,1,1,2,0,2,1
+TypeVariable,"org.mapdb.Bind.secondaryValue.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.secondaryValue.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Bind.secondaryValue.V2",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Bind.size.(Anon_1)",3,3,3,0,1,1,1,2,0,2,1
+Public Interface,"org.mapdb.CC",0,0,0,0,0,0,0,0,0,0,0
+Public Class,"org.mapdb.CCTest",3,3,3,0,1,1,1,1,0,1,3
+Public Class,"org.mapdb.CacheWeakSoftRefTest",6,2,4,0,1,3,3,5,0,1,1
+Public Class,"org.mapdb.Caches",1,1,1,0,1,1,1,0,0,1,1
+Public Static Class,"org.mapdb.Caches.HardRef",10,1,5,0,3,35,6,4,83,1,3
+TypeVariable,"org.mapdb.Caches.HardRef.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HardRef.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HardRef.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HardRef.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.Caches.HashTable",17,1,4,0,2,29,10,3,64,2,3
+Private Static Class,"org.mapdb.Caches.HashTable.HashItem",1,1,1,0,1,1,1,0,0,1,1
+TypeVariable,"org.mapdb.Caches.HashTable.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HashTable.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HashTable.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HashTable.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.HashTable.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.Caches.LRU",14,1,3,1,2,29,10,4,30,1,1
+TypeVariable,"org.mapdb.Caches.LRU.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.LRU.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.LRU.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.LRU.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.LRU.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.Caches.WeakSoftRef",23,2,5,0,2,30,11,6,65,2,5
+Class,"org.mapdb.Caches.WeakSoftRef.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Protected Interface,"org.mapdb.Caches.WeakSoftRef.CacheItem",2,1,1,2,0,2,2,0,0,0,1
+Protected Static Generic Class,"org.mapdb.Caches.WeakSoftRef.CacheSoftItem",2,1,1,0,2,2,2,0,0,2,1
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.CacheSoftItem.A",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Generic Class,"org.mapdb.Caches.WeakSoftRef.CacheWeakItem",2,1,1,0,2,2,2,0,0,2,1
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.CacheWeakItem.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.putItemIntoCache.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Caches.WeakSoftRef.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.CompressLZF",23,4,12,0,1,5,5,0,72,1,1
+Public Class,"org.mapdb.CompressTest",2,1,1,0,1,2,2,6,0,1,1
+Public Abstract Generic Class,"org.mapdb.ConcurrentMapInterfaceTest",137,4,7,4,3,96,28,0,0,1,3
+TypeVariable,"org.mapdb.ConcurrentMapInterfaceTest.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.ConcurrentMapInterfaceTest.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.DB",156,2,19,0,1,55,55,32,60,1,14
+Public Class,"org.mapdb.DB.BTreeMapMaker",15,1,2,0,1,14,14,6,88,1,1
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.make.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.make.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.makeLongMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.makeOrGet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.makeOrGet.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.makeStringMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.pumpSource.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.pumpSource.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.pumpSource.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeMapMaker.pumpSource.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.DB.BTreeSetMaker",12,1,2,0,1,11,11,2,87,1,1
+TypeVariable,"org.mapdb.DB.BTreeSetMaker.make.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeSetMaker.makeOrGet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.BTreeSetMaker.pumpSource.K",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.DB.HTreeMapMaker",14,1,2,0,1,12,12,4,86,1,1
+TypeVariable,"org.mapdb.DB.HTreeMapMaker.make.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.HTreeMapMaker.make.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.HTreeMapMaker.makeOrGet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.HTreeMapMaker.makeOrGet.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.catGet.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.catGet.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.catPut.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.catPut.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createAtomicVar.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createCircularQueue.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createHashMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createHashSet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createQueue.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createStack.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.createTreeSet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.fillNulls.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.get.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getAtomicVar.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getCircularQueue.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getHashMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getHashMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getHashSet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getQueue.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getStack.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DB.getTreeSet.K",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Class,"org.mapdb.DBMaker",85,1,21,2,1,60,60,24,94,1,1
+TypeVariable,"org.mapdb.DBMaker.DBMakerT",0,0,0,0,2,0,0,0,0,1,0
+Class,"org.mapdb.DBMaker.makeEngine.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+TypeVariable,"org.mapdb.DBMaker.newTempHashMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DBMaker.newTempHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DBMaker.newTempHashSet.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DBMaker.newTempTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DBMaker.newTempTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.DBMaker.newTempTreeSet.K",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.DBMakerTest",28,1,2,0,1,27,27,19,0,1,1
+Public Class,"org.mapdb.DBTest",7,1,1,0,1,7,7,7,21,1,1
+Public Class,"org.mapdb.DataInput2",18,1,1,0,2,18,18,2,36,2,1
+Public Class,"org.mapdb.DataOutput2",21,1,2,0,2,18,18,1,38,2,1
+Public Class,"org.mapdb.DebugVolume",19,1,2,0,2,47,18,1,5,1,1
+Public Class,"org.mapdb.EncryptionXTEA",22,2,8,0,1,9,9,0,68,1,1
+Public Interface,"org.mapdb.Engine",16,1,1,7,0,16,16,2,100,0,1
+TypeVariable,"org.mapdb.Engine.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Engine.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Engine.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Engine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Engine.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Abstract Generic Class,"org.mapdb.EngineTest",34,1,4,3,1,23,23,3,13,1,1
+TypeVariable,"org.mapdb.EngineTest.ENGINE",0,0,0,0,1,0,0,0,0,2,0
+Public Abstract Class,"org.mapdb.EngineWrapper",22,1,2,10,1,19,19,2,78,2,1
+Public Static Class,"org.mapdb.EngineWrapper.DebugEngine",8,1,2,0,2,26,7,2,14,1,1
+Protected Static Class,"org.mapdb.EngineWrapper.DebugEngine.Record",1,1,1,0,1,1,1,0,0,1,1
+TypeVariable,"org.mapdb.EngineWrapper.DebugEngine.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.DebugEngine.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.DebugEngine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.DebugEngine.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine",14,2,3,0,2,25,6,3,16,1,1
+Protected Static Class,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.Item",7,2,3,0,1,3,3,2,11,1,1
+TypeVariable,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.EngineWrapper.ReadOnlyEngine",11,1,1,0,2,30,11,1,0,1,1
+TypeVariable,"org.mapdb.EngineWrapper.ReadOnlyEngine.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ReadOnlyEngine.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ReadOnlyEngine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.ReadOnlyEngine.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper",8,1,3,0,2,25,6,3,66,1,1
+TypeVariable,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.checkSerializer.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper",14,1,1,0,2,33,14,1,0,1,1
+TypeVariable,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.update.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.checkClosed.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.EngineWrapper.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.EngineWrapper_ImmutabilityCheckEngine",3,3,3,0,1,1,1,7,0,1,1
+Public Class,"org.mapdb.ExamplesTest",18,1,1,0,1,18,18,18,0,1,1
+Public Class,"org.mapdb.Fun",8,1,1,0,1,8,8,4,87,1,1
+Class,"org.mapdb.Fun.(Anon_1)",1,1,1,0,1,1,1,0,0,1,1
+Public Generic Interface,"org.mapdb.Fun.Function1",1,1,1,5,0,1,1,0,0,0,1
+TypeVariable,"org.mapdb.Fun.Function1.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Function1.R",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Interface,"org.mapdb.Fun.Function2",1,1,1,4,0,1,1,0,0,0,1
+TypeVariable,"org.mapdb.Fun.Function2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Function2.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Function2.R",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.HI.A",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Interface,"org.mapdb.Fun.Runnable2",1,1,1,0,0,1,1,0,0,0,1
+TypeVariable,"org.mapdb.Fun.Runnable2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Runnable2.B",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Interface,"org.mapdb.Fun.Runnable3",1,1,1,0,0,1,1,0,0,0,1
+TypeVariable,"org.mapdb.Fun.Runnable3.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Runnable3.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Runnable3.C",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.Fun.Tuple2",21,4,9,0,1,5,5,1,33,3,9
+TypeVariable,"org.mapdb.Fun.Tuple2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple2.B",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.Fun.Tuple3",28,5,13,0,1,5,5,1,25,3,13
+TypeVariable,"org.mapdb.Fun.Tuple3.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple3.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple3.C",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.Fun.Tuple4",35,7,17,0,1,5,5,1,19,3,17
+TypeVariable,"org.mapdb.Fun.Tuple4.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple4.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple4.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.Tuple4.D",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Fun.keyExtractor.(Anon_3)",1,1,1,0,1,1,1,2,0,2,1
+TypeVariable,"org.mapdb.Fun.keyExtractor.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.keyExtractor.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Fun.noTransformExtractor.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+TypeVariable,"org.mapdb.Fun.noTransformExtractor.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t2.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t3.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t3.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t3.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t4.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t4.B",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t4.C",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.t4.D",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Fun.valueExtractor.(Anon_4)",1,1,1,0,1,1,1,2,0,2,1
+TypeVariable,"org.mapdb.Fun.valueExtractor.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Fun.valueExtractor.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.FunTest",33,4,9,0,1,7,7,4,57,1,4
+Public Generic Class,"org.mapdb.HTreeMap",183,4,18,4,2,41,41,14,88,3,10
+Class,"org.mapdb.HTreeMap.(Anon_1)",6,3,3,0,1,2,2,3,0,2,1
+Class,"org.mapdb.HTreeMap.(Anon_2)",14,7,10,0,1,2,2,1,0,2,5
+Class,"org.mapdb.HTreeMap.(Anon_3)",4,1,1,0,1,4,4,2,0,2,1
+Class,"org.mapdb.HTreeMap.(Anon_4)",11,1,3,0,1,7,7,2,0,2,3
+Class,"org.mapdb.HTreeMap.Entry2",8,1,3,0,1,6,6,1,0,2,1
+Class,"org.mapdb.HTreeMap.EntryIterator",2,2,2,0,2,8,1,3,0,2,1
+Protected Static Class,"org.mapdb.HTreeMap.ExpireLinkNode",4,1,1,0,1,4,4,1,39,1,1
+Class,"org.mapdb.HTreeMap.ExpireLinkNode.(Anon_5)",4,2,2,0,1,2,2,2,0,2,1
+Protected Static Class,"org.mapdb.HTreeMap.ExpireRunnable",6,3,5,0,1,2,2,3,0,2,3
+Abstract Class,"org.mapdb.HTreeMap.HashIterator",30,4,11,3,1,7,7,3,71,1,9
+TypeVariable,"org.mapdb.HTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.HTreeMap.KeyIterator",2,2,2,0,2,8,1,2,0,2,1
+Protected Class,"org.mapdb.HTreeMap.KeySet",9,1,2,0,2,8,8,3,0,1,1
+Protected Static Generic Class,"org.mapdb.HTreeMap.LinkedNode",1,1,1,0,1,1,1,0,0,1,1
+TypeVariable,"org.mapdb.HTreeMap.LinkedNode.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.HTreeMap.LinkedNode.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.HTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.HTreeMap.ValueIterator",2,2,2,0,2,8,1,2,0,2,1
+Public Class,"org.mapdb.HTreeMap2Test",64,2,10,0,1,22,22,9,80,1,4
+Class,"org.mapdb.HTreeMap2Test.testIteration.(Anon_4)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.mapdb.HTreeMap2Test.test_delete.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.mapdb.HTreeMap2Test.test_hash_collision.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.mapdb.HTreeMap2Test.test_hash_dir_expand.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"org.mapdb.HTreeMap3Test",7,1,2,0,4,102,6,4,83,1,1
+Public Class,"org.mapdb.HTreeSetTest",12,1,2,1,1,10,10,8,53,1,1
+Public Class,"org.mapdb.Issue112Test",1,1,1,0,1,1,1,5,0,1,1
+Public Class,"org.mapdb.Issue114Test",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"org.mapdb.Issue132Test",12,3,5,0,1,4,4,2,0,1,1
+Public Class,"org.mapdb.Issue148Test",6,2,3,0,1,3,3,8,0,1,1
+Public Static Class,"org.mapdb.Issue148Test.CustomValue",11,3,8,0,1,3,3,0,33,2,8
+Public Static Class,"org.mapdb.Issue148Test.CustomValueSerializer",2,1,1,0,1,2,2,1,100,3,1
+Public Class,"org.mapdb.Issue150Test",1,1,1,0,1,1,1,7,0,1,1
+Private Static Class,"org.mapdb.Issue150Test.CustomSerializer",2,1,1,0,1,2,2,1,0,3,1
+Public Static Class,"org.mapdb.Issue150Test.EntityA",17,2,10,0,1,6,6,0,33,2,10
+Public Class,"org.mapdb.Issue154Test",3,1,1,0,1,3,3,5,0,1,1
+Public Class,"org.mapdb.Issue157Test",2,2,2,0,1,1,1,3,0,1,1
+Class,"org.mapdb.Issue157Test.concurrent_BTreeMap.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+Class,"org.mapdb.Issue157Test.concurrent_BTreeMap.(Anon_2)",2,2,2,0,1,1,1,2,0,2,1
+Public Class,"org.mapdb.Issue162Test",4,1,2,0,1,3,3,5,33,1,1
+Public Static Class,"org.mapdb.Issue162Test.MyValue",7,1,4,0,1,4,4,0,0,2,4
+Public Static Class,"org.mapdb.Issue162Test.MyValueSerializer",2,1,1,0,1,2,2,1,0,3,1
+Public Class,"org.mapdb.Issue164Test",3,3,3,0,1,1,1,4,0,1,1
+Public Static Class,"org.mapdb.Issue164Test.Scenario",13,1,3,0,1,9,9,0,66,2,1
+Public Class,"org.mapdb.Issue170Test",2,2,2,0,1,1,1,1,0,1,1
+Public Class,"org.mapdb.Issue183Test",1,1,1,0,1,1,1,5,0,1,1
+Private Static Class,"org.mapdb.Issue183Test.StringSerializer",2,1,1,0,1,2,2,0,100,3,1
+Public Class,"org.mapdb.Issue198Test",2,2,2,0,1,1,1,4,0,1,1
+Public Class,"org.mapdb.Issue37Test",6,6,6,0,1,1,1,2,0,1,1
+Public Class,"org.mapdb.Issue41Test",6,1,2,0,1,4,4,9,50,1,1
+Public Static Class,"org.mapdb.Issue41Test.Key",14,4,10,0,1,3,3,1,33,2,10
+Public Static Class,"org.mapdb.Issue41Test.Key.Serializer",2,1,1,0,1,2,2,3,100,3,1
+Public Static Class,"org.mapdb.Issue41Test.Value",11,2,7,0,1,4,4,1,66,2,7
+Public Static Class,"org.mapdb.Issue41Test.Value.Serializer",2,1,1,0,1,2,2,1,100,3,1
+Class,"org.mapdb.Issue41Test.test1.(for_loop_1).(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.mapdb.Issue41Test.test2.(for_loop_2).(Anon_2)",3,3,3,0,1,1,1,4,0,2,1
+Public Class,"org.mapdb.Issue69Test",8,2,6,0,1,3,3,2,0,1,1
+Public Class,"org.mapdb.Issue77Test",9,1,2,0,1,6,6,3,66,1,1
+Public Class,"org.mapdb.Issue78Test",3,1,1,0,1,3,3,4,0,1,1
+Class,"org.mapdb.Issue78Test.NotSerializable",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.Issue86Test",6,2,3,0,1,3,3,4,0,1,1
+Private Static Class,"org.mapdb.Issue86Test.StringContainer",5,1,2,0,1,4,4,1,25,2,1
+Public Class,"org.mapdb.Issue89Test",9,1,2,0,1,8,8,3,87,1,1
+Public Class,"org.mapdb.Issue90Test",2,2,2,0,1,1,1,8,0,1,1
+Public Class,"org.mapdb.IssuesTest",1,1,1,0,1,1,1,3,0,1,1
+Public Abstract Class,"org.mapdb.JSR166TestCase",1,1,1,5,2,1,1,0,100,1,1
+Public Class,"org.mapdb.LoggerVolume",19,1,1,0,2,48,19,1,75,1,1
+Public Static Class,"org.mapdb.LoggerVolume.Factory",4,1,1,0,1,4,4,2,0,2,1
+Public Generic Class,"org.mapdb.LongConcurrentHashMap",58,3,13,0,2,27,18,5,86,2,10
+Static Generic Class,"org.mapdb.LongConcurrentHashMap.HashEntry",2,1,1,0,1,2,2,0,50,1,1
+TypeVariable,"org.mapdb.LongConcurrentHashMap.HashEntry.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongConcurrentHashMap.HashEntry.newArray.V",0,0,0,0,1,0,0,0,0,1,0
+Abstract Class,"org.mapdb.LongConcurrentHashMap.HashIterator",14,2,8,3,1,5,5,3,60,1,8
+Class,"org.mapdb.LongConcurrentHashMap.KeyIterator",1,1,1,0,2,6,1,1,0,2,1
+Class,"org.mapdb.LongConcurrentHashMap.MapIterator",4,1,2,0,2,8,3,2,33,2,1
+Static Generic Class,"org.mapdb.LongConcurrentHashMap.Segment",47,3,8,0,2,14,14,2,73,2,5
+TypeVariable,"org.mapdb.LongConcurrentHashMap.Segment.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongConcurrentHashMap.Segment.newArray.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongConcurrentHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.LongConcurrentHashMap.ValueIterator",1,1,1,0,2,6,1,2,0,2,1
+Public Class,"org.mapdb.LongConcurrentHashMapTest",26,1,2,0,2,21,21,1,0,1,1
+Public Generic Class,"org.mapdb.LongConcurrentLRUMap",44,3,22,0,2,23,14,5,80,1,9
+Private Static Generic Class,"org.mapdb.LongConcurrentLRUMap.CacheEntry",7,1,3,0,1,5,5,0,55,2,1
+TypeVariable,"org.mapdb.LongConcurrentLRUMap.CacheEntry.V",0,0,0,0,1,0,0,0,0,1,0
+Private Static Generic Class,"org.mapdb.LongConcurrentLRUMap.PQueue",6,1,3,0,2,18,4,1,37,1,3
+TypeVariable,"org.mapdb.LongConcurrentLRUMap.PQueue.V",0,0,0,0,1,0,0,0,0,1,0
+Private Static Abstract Generic Class,"org.mapdb.LongConcurrentLRUMap.PriorityQueue",27,1,6,1,1,14,14,0,52,1,3
+TypeVariable,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongConcurrentLRUMap.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.LongConcurrentLRUMap.longMapIterator.(Anon_2)",4,1,1,0,1,4,4,2,0,2,1
+Class,"org.mapdb.LongConcurrentLRUMap.valuesIterator.(Anon_1)",3,1,1,0,1,3,3,1,0,2,1
+Public Generic Class,"org.mapdb.LongHashMap",36,1,4,1,2,30,21,5,83,2,3
+Private Static Generic Class,"org.mapdb.LongHashMap.AbstractMapIterator",14,2,4,2,1,5,5,2,43,1,4
+TypeVariable,"org.mapdb.LongHashMap.AbstractMapIterator.V",0,0,0,0,1,0,0,0,0,1,0
+Static Generic Class,"org.mapdb.LongHashMap.Entry",1,1,1,0,1,1,1,0,50,1,1
+TypeVariable,"org.mapdb.LongHashMap.Entry.V",0,0,0,0,1,0,0,0,0,1,0
+Private Static Generic Class,"org.mapdb.LongHashMap.EntryIterator",5,1,2,0,2,9,4,2,0,2,1
+TypeVariable,"org.mapdb.LongHashMap.EntryIterator.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongHashMap.V",0,0,0,0,1,0,0,0,0,1,0
+Private Static Generic Class,"org.mapdb.LongHashMap.ValueIterator",2,1,1,0,2,7,2,2,0,2,1
+TypeVariable,"org.mapdb.LongHashMap.ValueIterator.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.LongHashMapTest",11,1,3,0,2,6,6,3,0,1,1
+Class,"org.mapdb.LongHashMapTest.testAll.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Public Abstract Generic Class,"org.mapdb.LongMap",11,1,3,3,1,9,9,1,0,1,1
+Public Generic Interface,"org.mapdb.LongMap.LongMapIterator",4,1,1,3,0,4,4,0,0,0,1
+TypeVariable,"org.mapdb.LongMap.LongMapIterator.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.LongMap.V",0,0,0,0,1,0,0,0,0,1,0
+Public Abstract Generic Class,"org.mapdb.MapInterfaceTest",256,3,10,1,2,68,68,0,87,1,4
+TypeVariable,"org.mapdb.MapInterfaceTest.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.MapInterfaceTest.V",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.MapInterfaceTest.mapEntry.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.MapInterfaceTest.mapEntry.V",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.MapListenerTest",3,1,1,0,1,3,3,5,0,1,1
+Class,"org.mapdb.MapListenerTest.tt.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.mapdb.Pump",37,4,17,0,1,8,8,12,0,1,4
+TypeVariable,"org.mapdb.Pump.arrayList.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Pump.buildTreeMap.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Pump.buildTreeMap.K",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Pump.buildTreeMap.V",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.mapdb.Pump.sort.(Anon_2)",7,2,5,0,1,3,3,1,50,2,3
+Class,"org.mapdb.Pump.sort.(for_loop_5).(Anon_1)",5,1,3,0,1,3,3,2,0,2,1
+TypeVariable,"org.mapdb.Pump.sort.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Pump.sort.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.PumpTest",31,3,6,0,1,9,9,9,77,1,5
+Class,"org.mapdb.PumpTest.build_treemap.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"org.mapdb.Queues",1,1,1,0,1,1,1,0,0,1,1
+Public Static Generic Class,"org.mapdb.Queues.CircularQueue",6,1,2,0,2,22,5,5,46,1,1
+TypeVariable,"org.mapdb.Queues.CircularQueue.E",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.Queues.Queue",14,3,7,0,2,21,4,5,25,1,6
+TypeVariable,"org.mapdb.Queues.Queue.E",0,0,0,0,1,0,0,0,0,1,0
+Public Static Abstract Generic Class,"org.mapdb.Queues.SimpleQueue",20,1,2,3,1,17,17,5,91,2,1
+TypeVariable,"org.mapdb.Queues.SimpleQueue.E",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Generic Class,"org.mapdb.Queues.SimpleQueue.Node",9,3,6,0,1,3,3,0,33,1,5
+TypeVariable,"org.mapdb.Queues.SimpleQueue.Node.E",0,0,0,0,1,0,0,0,0,1,0
+Protected Static Generic Class,"org.mapdb.Queues.SimpleQueue.NodeSerializer",5,1,2,0,1,3,3,2,0,2,1
+TypeVariable,"org.mapdb.Queues.SimpleQueue.NodeSerializer.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Queues.SimpleQueue.toArray.T",0,0,0,0,1,0,0,0,0,1,0
+Public Static Generic Class,"org.mapdb.Queues.Stack",15,3,6,0,2,21,4,5,50,1,5
+TypeVariable,"org.mapdb.Queues.Stack.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.QueuesTest",3,1,1,0,1,3,3,3,0,1,1
+Public Class,"org.mapdb.Serialization2Bean",33,16,25,1,1,2,2,0,12,2,25
+Public Class,"org.mapdb.Serialization2Test",4,1,1,0,2,5,4,9,0,1,1
+Static Class,"org.mapdb.Serialization2Test.AAA",0,0,0,0,1,0,0,0,0,2,0
+Public Class,"org.mapdb.Serialized2DerivedBean",29,14,22,0,2,4,2,0,14,1,22
+Public Generic Interface,"org.mapdb.Serializer",2,1,1,22,0,2,2,1,100,0,1
+Class,"org.mapdb.Serializer.(Anon_1)",3,1,2,0,1,2,2,1,0,2,1
+Class,"org.mapdb.Serializer.(Anon_2)",4,2,2,0,1,2,2,0,0,2,1
+Class,"org.mapdb.Serializer.(Anon_3)",2,1,1,0,1,2,2,0,0,2,1
+Class,"org.mapdb.Serializer.(Anon_4)",3,1,2,0,1,2,2,0,0,2,1
+Class,"org.mapdb.Serializer.(Anon_5)",2,1,1,0,1,2,2,1,0,2,1
+Class,"org.mapdb.Serializer.(Anon_6)",5,2,3,0,1,2,2,0,0,2,1
+Class,"org.mapdb.Serializer.(Anon_7)",3,1,2,0,1,2,2,0,0,2,1
+TypeVariable,"org.mapdb.Serializer.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.SerializerBase",497,11,130,1,1,44,44,14,0,2,54
+Protected Static Generic Class,"org.mapdb.SerializerBase.FastArrayList",6,2,3,0,1,3,3,0,22,1,3
+TypeVariable,"org.mapdb.SerializerBase.FastArrayList.K",0,0,0,0,1,0,0,0,0,1,0
+Protected Interface,"org.mapdb.SerializerBase.Header",0,0,0,0,0,0,0,0,0,0,0
+Protected Interface,"org.mapdb.SerializerBase.HeaderMapDB",0,0,0,0,0,0,0,0,0,0,0
+Static Class,"org.mapdb.SerializerBase.knownSerializable",0,0,0,0,1,0,0,3,0,1,0
+Public Class,"org.mapdb.SerializerBaseTest",83,1,4,1,2,48,48,7,0,1,1
+Public Static Class,"org.mapdb.SerializerBaseTest.SerializerBaseTestWithJUDataStreams",1,1,1,0,3,49,1,1,0,1,1
+TypeVariable,"org.mapdb.SerializerBaseTest.SerializerBaseTestWithJUDataStreams.clone.E",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.SerializerBaseTest.clone.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.SerializerPojo",63,3,8,0,2,62,18,7,89,2,8
+Class,"org.mapdb.SerializerPojo.(Anon_1)",9,4,5,0,1,2,2,4,0,2,3
+Protected Static Class,"org.mapdb.SerializerPojo.ClassInfo",12,1,2,0,1,10,10,1,77,1,1
+Protected Static Class,"org.mapdb.SerializerPojo.FieldInfo",12,2,7,0,1,6,6,0,75,1,3
+Protected Class,"org.mapdb.SerializerPojo.ObjectInputStream2",2,1,1,0,2,2,2,2,0,1,1
+Protected Class,"org.mapdb.SerializerPojo.ObjectOutputStream2",3,1,2,0,2,2,2,2,0,1,1
+TypeVariable,"org.mapdb.SerializerPojo.createInstanceSkippinkConstructor.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.SerializerPojoTest",30,1,2,0,2,28,28,15,60,1,1
+Static Class,"org.mapdb.SerializerPojoTest.Bean1",15,3,11,1,1,5,5,0,73,2,9
+Static Class,"org.mapdb.SerializerPojoTest.Bean2",10,2,6,0,2,9,4,0,62,1,5
+Static Class,"org.mapdb.SerializerPojoTest.Extr",3,1,1,0,1,3,3,0,33,2,1
+Enum Type,"org.mapdb.SerializerPojoTest.Order",2,1,1,0,1,2,2,1,100,1,1
+TypeVariable,"org.mapdb.SerializerPojoTest.outputStreamClone.E",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.mapdb.SerializerPojoTest.test_pojo_reload_TestClass",1,1,1,0,1,1,1,0,0,2,1
+Public Static Class,"org.mapdb.SerializerPojoTest.test_transient",0,0,0,0,1,0,0,0,0,2,0
+Public Abstract Class,"org.mapdb.Store",42,2,13,3,1,16,16,8,85,2,1
+Class,"org.mapdb.Store.Store.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+TypeVariable,"org.mapdb.Store.deserialize.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.Store.serialize.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreAppend",77,2,17,1,2,47,31,13,85,1,9
+TypeVariable,"org.mapdb.StoreAppend.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreAppend.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreAppend.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreAppend.getNoLock.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreAppend.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreAppend.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Class,"org.mapdb.StoreAppendTest",7,1,2,0,2,28,5,9,80,1,1
+TypeVariable,"org.mapdb.StoreAppendTest.E",0,0,0,0,3,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreDirect",138,3,14,3,2,58,42,9,87,1,7
+TypeVariable,"org.mapdb.StoreDirect.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreDirect.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreDirect.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreDirect.get2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreDirect.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreDirect.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreDirectFreeSpaceTest",16,1,3,0,1,11,11,2,75,1,1
+Class,"org.mapdb.StoreDirectFreeSpaceTest.(Anon_1)",5,1,2,0,1,3,3,1,0,2,1
+Public Generic Class,"org.mapdb.StoreDirectTest",50,1,4,1,2,52,29,11,79,1,1
+TypeVariable,"org.mapdb.StoreDirectTest.E",0,0,0,0,3,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreHeap",36,1,3,0,2,40,24,5,75,2,1
+TypeVariable,"org.mapdb.StoreHeap.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreHeap.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreHeap.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreHeap.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreHeap.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreHeapTest",3,1,1,0,2,26,3,1,0,1,1
+Public Class,"org.mapdb.StoreWAL",106,3,10,1,3,85,27,11,84,1,4
+TypeVariable,"org.mapdb.StoreWAL.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreWAL.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreWAL.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreWAL.get2.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreWAL.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.StoreWAL.update.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.StoreWALTest",3,1,1,0,3,55,3,8,66,1,1
+Public Abstract Class,"org.mapdb.TestFile",4,4,4,2,1,1,1,5,25,1,1
+Public Class,"org.mapdb.TreeMapExtendTest",1525,9,129,0,2,156,156,1,79,1,1
+Public Static Generic Class,"org.mapdb.TreeMapExtendTest.MockComparator",3,3,3,0,1,1,1,0,0,3,3
+TypeVariable,"org.mapdb.TreeMapExtendTest.MockComparator.T",0,0,0,0,2,0,0,0,0,1,0
+Class,"org.mapdb.TreeMapExtendTest.testname.(Anon_1)",3,3,3,0,1,1,1,0,0,2,1
+Public Interface,"org.mapdb.TxBlock",1,1,1,4,0,1,1,2,0,0,1
+Public Class,"org.mapdb.TxEngine",39,2,4,0,2,34,15,4,72,1,4
+Public Class,"org.mapdb.TxEngine.TX",42,2,10,0,1,19,19,10,75,2,4
+TypeVariable,"org.mapdb.TxEngine.TX.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.TX.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.TX.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.TX.getNoLock.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.TX.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.TX.update.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.compareAndSwap.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.delete.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.deleteNoLock.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.get.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.put.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.update.A",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.mapdb.TxEngine.updateNoLock.A",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.TxEngineTest",9,1,1,0,1,9,9,9,55,1,1
+Public Class,"org.mapdb.TxMaker",11,2,5,0,1,4,4,5,62,1,3
+Public Class,"org.mapdb.TxMakerTest",17,2,5,0,1,6,6,7,0,1,1
+Class,"org.mapdb.TxMakerTest.cas.(for_loop_6).(Anon_5)",3,3,3,0,1,1,1,2,0,2,1
+Class,"org.mapdb.TxMakerTest.cas.(for_loop_6).(Anon_5).run.(for_loop_7).(Anon_6)",2,2,2,0,1,1,1,5,0,2,1
+Class,"org.mapdb.TxMakerTest.concurrent_tx.(for_loop_1).(Anon_1)",3,3,3,0,1,1,1,2,0,2,1
+Class,"org.mapdb.TxMakerTest.concurrent_tx.(for_loop_1).(Anon_1).run.(for_loop_2).(Anon_2)",2,2,2,0,1,1,1,4,0,2,1
+Class,"org.mapdb.TxMakerTest.increment.(for_loop_4).(Anon_3)",3,3,3,0,1,1,1,2,0,2,1
+Class,"org.mapdb.TxMakerTest.increment.(for_loop_4).(Anon_3).run.(for_loop_5).(Anon_4)",1,1,1,0,1,1,1,5,0,2,1
+Public Class,"org.mapdb.TxRollbackException",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.mapdb.Utils",47,2,3,0,1,22,22,8,98,1,3
+Class,"org.mapdb.Utils.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.mapdb.Utils.(Anon_2)",3,3,3,0,1,1,1,0,0,2,1
+TypeVariable,"org.mapdb.Utils.clone.E",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.mapdb.UtilsTest",8,1,2,0,1,5,5,4,100,1,1
+Class,"org.mapdb.UtilsTest.(Anon_1)",2,1,1,0,1,2,2,0,0,2,1
+TypeVariable,"org.mapdb.UtilsTest.clone.E",0,0,0,0,1,0,0,0,0,1,0
+Public Abstract Class,"org.mapdb.Volume",37,1,3,4,1,29,29,6,100,1,3
+Public Static Abstract Class,"org.mapdb.Volume.ByteBufferVol",28,1,9,2,2,44,15,2,78,1,4
+Public Interface,"org.mapdb.Volume.Factory",3,1,1,3,0,3,3,1,0,0,1
+Public Static Class,"org.mapdb.Volume.FileChannelVol",46,2,4,0,2,50,21,1,87,1,1
+Public Static Class,"org.mapdb.Volume.MappedFileVol",26,3,8,0,3,51,7,1,71,1,1
+Public Static Class,"org.mapdb.Volume.MemoryVol",11,1,3,0,3,51,7,1,57,1,1
+Class,"org.mapdb.Volume.fileFactory.(Anon_1)",3,1,1,0,1,3,3,1,0,2,1
+Class,"org.mapdb.Volume.memoryFactory.(Anon_2)",3,1,1,0,1,3,3,2,0,2,1
+Public Abstract Class,"org.mapdb.VolumeTest",28,1,3,3,1,18,18,8,83,1,1
+Public Static Class,"org.mapdb.VolumeTest.MappedFileVolumeTest",1,1,1,0,2,19,1,3,0,1,1
+Public Static Class,"org.mapdb.VolumeTest.MemoryVolumeTest",1,1,1,0,2,19,1,2,0,1,1
+Public Static Class,"org.mapdb.VolumeTest.RandomAccessVolumeTest",1,1,1,0,2,19,1,3,0,1,1
+Class,"org.mapdb.VolumeTest.concurrent_write.(for_loop_1).(Anon_1)",4,4,4,0,1,1,1,2,0,2,1

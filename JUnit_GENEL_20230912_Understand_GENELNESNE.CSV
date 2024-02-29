@@ -1,0 +1,1174 @@
+Kind,Name,SumCyclomatic,AvgCyclomatic,MaxCyclomatic,CountClassDerived,MaxInheritanceTree,CountDeclMethodAll,CountDeclMethod,CountClassCoupled,PercentLackOfCohesion,CountClassBase,MaxEssential
+File,"C:\f1\JUnit\src\main\java\junit\extensions\ActiveTestSuite.java",11,1,3,,,,9,,,,3
+File,"C:\f1\JUnit\src\main\java\junit\extensions\RepeatedTest.java",7,2,3,,,,4,,,,3
+File,"C:\f1\JUnit\src\main\java\junit\extensions\TestDecorator.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\extensions\TestSetup.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\extensions\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\junit\framework\Assert.java",55,1,4,,,,39,,,,3
+File,"C:\f1\JUnit\src\main\java\junit\framework\AssertionFailedError.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\ComparisonCompactor.java",17,2,3,,,,8,,,,3
+File,"C:\f1\JUnit\src\main\java\junit\framework\ComparisonFailure.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\JUnit4TestAdapter.java",15,1,4,,,,12,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\JUnit4TestAdapterCache.java",14,2,3,,,,8,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\JUnit4TestCaseFacade.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\Protectable.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\Test.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\TestCase.java",21,2,5,,,,13,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\TestFailure.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\TestListener.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\TestResult.java",26,1,4,,,,19,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\framework\TestSuite.java",48,2,7,,,,27,,,,5
+File,"C:\f1\JUnit\src\main\java\junit\framework\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\junit\runner\BaseTestRunner.java",57,2,10,,,,29,,,,9
+File,"C:\f1\JUnit\src\main\java\junit\runner\TestRunListener.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\runner\Version.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\runner\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\junit\textui\ResultPrinter.java",23,1,4,,,,17,,,,1
+File,"C:\f1\JUnit\src\main\java\junit\textui\TestRunner.java",30,2,9,,,,18,,,,3
+File,"C:\f1\JUnit\src\main\java\junit\textui\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\After.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\AfterClass.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\Assert.java",66,1,5,,,,50,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\Assume.java",5,1,2,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\Before.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\BeforeClass.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\ClassRule.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\ComparisonFailure.java",21,2,3,,,,12,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\Ignore.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\Rule.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\Test.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\ParallelComputer.java",14,2,3,,,,9,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\categories\Categories.java",36,2,6,,,,16,,,,6
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\categories\Category.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\max\CouldNotReadCoreException.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\max\MaxCore.java",25,2,5,,,,14,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\max\MaxHistory.java",24,1,4,,,,17,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\results\FailureList.java",4,2,3,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\results\PrintableResult.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\results\ResultMatchers.java",10,1,1,,,,10,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\runners\Enclosed.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\DataPoint.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\DataPoints.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\ParameterSignature.java",19,2,5,,,,12,,,,5
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\ParameterSupplier.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\ParametersSuppliedBy.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\PotentialAssignment.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\Theories.java",36,2,3,,,,24,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\Theory.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\internal\AllMembersSupplier.java",24,2,5,,,,10,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\internal\Assignments.java",19,1,3,,,,14,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\internal\ParameterizedAssertionError.java",8,2,3,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\suppliers\TestedOn.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\experimental\theories\suppliers\TestedOnSupplier.java",2,2,2,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\ArrayComparisonFailure.java",6,2,3,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\AssumptionViolatedException.java",6,2,2,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\ComparisonCriteria.java",13,3,7,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\ExactComparisonCriteria.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\InexactComparisonCriteria.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\JUnitSystem.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\RealSystem.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\TextListener.java",17,1,4,,,,12,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\AllDefaultPossibilitiesBuilder.java",10,1,3,,,,7,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\AnnotatedBuilder.java",6,2,3,,,,3,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\IgnoredBuilder.java",2,2,2,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\IgnoredClassRunner.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\JUnit3Builder.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\JUnit4Builder.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\NullBuilder.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\builders\SuiteMethodBuilder.java",4,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\CombinableMatcher.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\Each.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\IsCollectionContaining.java",11,2,3,,,,7,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\StringContains.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\SubstringMatcher.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\matchers\TypeSafeMatcher.java",9,2,4,,,,6,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\requests\ClassRequest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\requests\FilterRequest.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\requests\SortingRequest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\requests\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\ClassRoadie.java",14,2,5,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\ErrorReportingRunner.java",11,2,4,,,,6,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\FailedBefore.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\InitializationError.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\JUnit38ClassRunner.java",33,2,7,,,,19,,,,5
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\JUnit4ClassRunner.java",27,1,4,,,,20,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\MethodRoadie.java",32,3,7,,,,12,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\MethodValidator.java",17,2,8,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\SuiteMethod.java",4,2,3,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\TestClass.java",23,2,5,,,,12,,,,5
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\TestMethod.java",11,1,2,,,,9,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\model\EachTestNotifier.java",9,1,2,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\model\MultipleFailureException.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\model\ReflectiveCallable.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\rules\RuleFieldValidator.java",15,1,2,,,,11,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\ExpectException.java",6,3,5,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\Fail.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\FailOnTimeout.java",6,2,3,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\InvokeMethod.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\RunAfters.java",5,3,4,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\internal\runners\statements\RunBefores.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\matchers\JUnitMatchers.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\matchers\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\ErrorCollector.java",6,1,2,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\ExpectedException.java",16,1,4,,,,12,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\ExternalResource.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\MethodRule.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\RunRules.java",4,1,2,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\TemporaryFolder.java",10,1,3,,,,8,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\TestName.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\TestRule.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\TestWatcher.java",7,1,2,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\TestWatchman.java",7,1,2,,,,6,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\Timeout.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\rules\Verifier.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Computer.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Describable.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Description.java",33,1,3,,,,23,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\JUnitCore.java",19,1,4,,,,15,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Request.java",13,1,2,,,,12,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Result.java",13,1,1,,,,13,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\RunWith.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\Runner.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\Filter.java",18,1,4,,,,13,,,,4
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\Filterable.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\NoTestsRemainException.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\Sortable.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\Sorter.java",5,1,2,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\manipulation\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\notification\Failure.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\notification\RunListener.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\notification\RunNotifier.java",23,1,3,,,,20,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\notification\StoppedByUserException.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\notification\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\runner\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\AllTests.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\BlockJUnit4ClassRunner.java",45,1,3,,,,31,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\JUnit4.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\Parameterized.java",15,1,3,,,,11,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\ParentRunner.java",50,2,5,,,,32,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\Suite.java",13,1,2,,,,11,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\FrameworkField.java",9,1,1,,,,9,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\FrameworkMember.java",5,2,3,,,,3,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\FrameworkMethod.java",25,2,6,,,,14,,,,5
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\InitializationError.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\MultipleFailureException.java",7,2,3,,,,4,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\RunnerBuilder.java",11,2,3,,,,7,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\RunnerScheduler.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\Statement.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\model\TestClass.java",26,2,5,,,,12,,,,3
+File,"C:\f1\JUnit\src\main\java\org\junit\runners\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\samples\AllTests.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\samples\ListTest.java",10,1,2,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\samples\SimpleTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\samples\money\IMoney.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\samples\money\Money.java",19,1,4,,,,14,,,,4
+File,"C:\f1\JUnit\src\test\java\junit\samples\money\MoneyBag.java",36,2,7,,,,17,,,,7
+File,"C:\f1\JUnit\src\test\java\junit\samples\money\MoneyTest.java",24,1,1,,,,24,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\samples\money\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\samples\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\tests\AllTests.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\WasRun.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\extensions\ActiveTestTest.java",7,1,2,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\extensions\AllTests.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\extensions\ExtensionTest.java",11,1,1,,,,11,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\extensions\RepeatedTestTest.java",7,1,2,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\extensions\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\AllTests.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\AssertTest.java",30,2,2,,,,16,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\ComparisonCompactorTest.java",19,1,1,,,,19,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\ComparisonFailureTest.java",9,2,3,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\DoublePrecisionAssertTest.java",11,2,2,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\Failure.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\FloatAssertTest.java",13,2,2,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\InheritedTestCase.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\NoArgTestCaseTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\NoTestCaseClass.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\NoTestCases.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\NotPublicTestCase.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\NotVoidTestCase.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\OneTestCase.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\OverrideTestCase.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\Success.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\SuiteTest.java",14,1,1,,,,14,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\TestCaseTest.java",33,1,2,,,,32,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\TestImplementorTest.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\TestListenerTest.java",11,1,1,,,,11,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\ThreeTestCases.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\framework\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\tests\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\AllTests.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\BaseTestRunnerTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\StackFilterTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\TextFeedbackTest.java",18,1,2,,,,17,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\TextRunnerSingleMethodTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\TextRunnerTest.java",8,1,3,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\junit\tests\runner\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\samples\ListTest.java",12,1,2,,,,10,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\samples\SimpleTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\samples\money\MoneyTest.java",25,1,1,,,,25,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\samples\money\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\samples\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\AllTests.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\ObjectContractTest.java",5,2,3,,,,3,,,,3
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\TestSystem.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\assertion\AssertionTest.java",91,1,2,,,,65,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\assertion\BothTest.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\assertion\EachTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\assertion\MultipleFailureExceptionTest.java",5,1,2,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\deprecated\JUnit4ClassRunnerTest.java",7,1,1,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\description\AnnotatedDescriptionTest.java",13,1,1,,,,13,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\description\SuiteDescriptionTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\description\TestDescriptionTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\AssumptionTest.java",28,1,3,,,,25,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\AssumptionViolatedExceptionTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\ExperimentalTests.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\MatcherTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\categories\CategoriesAndParameterizedTest.java",10,1,1,,,,10,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\categories\CategoryTest.java",27,1,1,,,,27,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\max\DescriptionTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\max\JUnit38SortingTest.java",8,1,2,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\max\MaxStarterTest.java",34,1,2,,,,33,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\parallel\ParallelClassTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\parallel\ParallelMethodTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\results\PrintableResultTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\results\ResultMatchersTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\BlockJUnit4ClassRunnerOverrideTest.java",10,1,1,,,,10,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\ClassRulesTest.java",10,1,1,,,,10,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\ExpectedExceptionRuleTest.java",27,1,1,,,,27,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\ExternalResourceRuleTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\MethodRulesTest.java",35,1,1,,,,35,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\NameRulesTest.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\RuleFieldValidatorTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\TempFolderRuleTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\TestRuleTest.java",39,1,1,,,,39,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\TimeoutRuleTest.java",5,2,2,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\rules\VerifierRuleTest.java",16,1,1,,,,16,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\AllMembersSupplierTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\ParameterSignatureTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\ParameterizedAssertionErrorTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\Correspondent.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\Guesser.java",22,1,3,,,,16,,,,3
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\GuesserQueue.java",9,1,2,,,,7,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\MethodCall.java",10,1,2,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\ReguessableValue.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\StringableObject.java",5,1,2,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\Stub.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\StubbedTheories.java",9,2,2,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\extendingwithstubs\StubbedTheoriesTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\SuccessfulWithDataPointFields.java",20,1,1,,,,20,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\TheoriesPerformanceTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java",12,1,1,,,,12,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\WhenNoParametersMatch.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\WithDataPointMethod.java",20,1,1,,,,20,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\WithExtendedParameterSources.java",16,1,1,,,,16,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\experimental\theories\runner\WithOnlyTestAnnotations.java",10,1,3,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\AllTestsTest.java",10,1,1,,,,10,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\ClassRequestTest.java",2,1,1,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\ForwardCompatibilityPrintingTest.java",10,1,2,,,,9,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\ForwardCompatibilityTest.java",37,1,1,,,,37,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\InitializationErrorForwardCompatibilityTest.java",13,1,1,,,,13,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\JUnit38ClassRunnerTest.java",9,1,1,,,,9,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\OldTestClassAdaptingListenerTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\OldTests.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\junit3compatibility\SuiteMethodTest.java",17,1,1,,,,17,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\listening\ListenerTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\listening\RunnerTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\listening\TestListenerTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\listening\TextListenerTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\listening\UserStopTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\manipulation\FilterTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\manipulation\FilterableTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\manipulation\SingleMethodTest.java",27,1,1,,,,27,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\manipulation\SortableTest.java",30,1,1,,,,30,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\package-info.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\EnclosedTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\IgnoreClassTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\ParameterizedTestTest.java",30,1,1,,,,30,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\ParentRunnerFilteringTest.java",18,1,2,,,,14,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java",18,1,1,,,,18,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\RunWithTest.java",9,1,1,,,,9,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\SuiteTest.java",18,1,1,,,,18,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\TestClassTest.java",14,1,1,,,,14,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\classes\UseSuiteAsASuperclassTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\core\CommandLineTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\core\JUnitCoreReturnsCorrectExitCodeTest.java",6,1,1,,,,6,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\core\SystemExitTest.java",3,2,2,,,,2,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\AnnotationTest.java",99,1,1,,,,99,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\ExpectedTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\InheritedTestTest.java",4,1,1,,,,4,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\ParameterizedTestMethodTest.java",35,1,2,,,,34,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\TestMethodTest.java",47,1,2,,,,46,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\running\methods\TimeoutTest.java",25,1,3,,,,20,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\BadlyFormedClassesTest.java",8,1,1,,,,8,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\FailedConstructionTest.java",3,1,1,,,,3,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\InaccessibleBaseClassTest.java",1,1,1,,,,1,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\ValidationTest.java",5,1,1,,,,5,,,,1
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\anotherpackage\Sub.java",0,0,0,,,,0,,,,0
+File,"C:\f1\JUnit\src\test\java\org\junit\tests\validation\anotherpackage\Super.java",1,1,1,,,,1,,,,1
+Package,"junit",0,0,0,,,,0,,,,0
+Package,"junit.extensions",29,1,3,,,,24,,,,3
+Public Class,"junit.extensions.ActiveTestSuite",10,1,3,0,2,34,8,1,62,1,3
+Class,"junit.extensions.ActiveTestSuite.runTest.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"junit.extensions.RepeatedTest",7,1,3,0,3,49,4,1,25,1,3
+Public Class,"junit.extensions.TestDecorator",6,1,1,2,2,45,6,1,16,2,1
+Public Class,"junit.extensions.TestSetup",4,1,1,2,3,49,4,2,0,1,1
+Class,"junit.extensions.TestSetup.run.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Package,"junit.framework",221,1,7,,,,151,,,,5
+Public Class,"junit.framework.Assert",55,1,4,2,1,39,39,2,0,1,3
+Public Class,"junit.framework.AssertionFailedError",2,1,1,1,2,2,2,0,100,1,1
+Public Class,"junit.framework.ComparisonCompactor",17,2,3,0,1,8,8,1,59,1,3
+Public Class,"junit.framework.ComparisonFailure",4,1,1,0,3,6,4,1,56,1,1
+Public Class,"junit.framework.JUnit4TestAdapter",15,1,4,0,1,12,12,9,66,5,1
+Public Class,"junit.framework.JUnit4TestAdapterCache",11,2,3,0,2,5,5,7,90,1,1
+Class,"junit.framework.JUnit4TestAdapterCache.getNotifier.(Anon_1)",3,1,1,0,1,3,3,4,0,2,1
+Public Class,"junit.framework.JUnit4TestCaseFacade",5,1,1,0,1,5,5,2,60,3,1
+Public Interface,"junit.framework.Protectable",1,1,1,3,0,1,1,0,0,0,1
+Public Interface,"junit.framework.Test",2,1,1,6,0,2,2,1,0,0,1
+Public Abstract Class,"junit.framework.TestCase",21,1,5,71,2,52,13,1,61,2,1
+Public Class,"junit.framework.TestFailure",7,1,1,0,1,7,7,2,57,1,1
+Public Interface,"junit.framework.TestListener",4,1,1,6,0,4,4,2,0,0,1
+Public Class,"junit.framework.TestResult",25,1,4,0,1,18,18,6,80,1,1
+Class,"junit.framework.TestResult.run.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"junit.framework.TestSuite",47,1,7,1,1,26,26,2,80,2,5
+Class,"junit.framework.TestSuite.warning.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Package,"junit.runner",66,1,10,,,,38,,,,9
+Public Abstract Class,"junit.runner.BaseTestRunner",57,1,10,2,1,29,29,4,94,2,9
+Public Interface,"junit.runner.TestRunListener",6,1,1,0,0,6,6,0,100,0,1
+Public Class,"junit.runner.Version",3,1,1,0,1,3,3,0,0,1,1
+Package,"junit.samples",18,1,2,,,,16,,,,1
+Public Class,"junit.samples.AllTests",2,1,1,0,1,2,2,6,0,1,1
+Public Class,"junit.samples.ListTest",10,1,2,0,3,60,8,2,43,1,1
+Public Class,"junit.samples.SimpleTest",6,1,1,0,3,58,6,2,66,1,1
+Package,"junit.samples.money",87,1,7,,,,63,,,,7
+Public Interface,"junit.samples.money.IMoney",8,1,1,2,0,8,8,2,0,0,1
+Public Class,"junit.samples.money.Money",19,1,4,0,1,14,14,1,78,2,4
+Public Class,"junit.samples.money.MoneyBag",36,2,7,0,1,17,17,1,41,2,7
+Public Class,"junit.samples.money.MoneyTest",24,1,1,0,3,76,24,4,72,1,1
+Package,"junit.tests",3,1,1,,,,3,,,,1
+Public Class,"junit.tests.AllTests",2,1,1,0,1,2,2,6,0,1,1
+Public Class,"junit.tests.WasRun",1,1,1,0,3,53,1,0,0,1,1
+Package,"junit.tests.extensions",27,1,2,,,,25,,,,1
+Public Class,"junit.tests.extensions.ActiveTestTest",6,1,2,0,3,57,5,5,0,1,1
+Public Static Class,"junit.tests.extensions.ActiveTestTest.SuccessTest",1,1,1,0,3,53,1,0,0,1,1
+Public Class,"junit.tests.extensions.AllTests",2,1,1,0,1,2,2,6,0,1,1
+Public Class,"junit.tests.extensions.ExtensionTest",4,1,1,0,3,56,4,5,0,1,1
+Static Class,"junit.tests.extensions.ExtensionTest.TornDown",2,1,1,1,4,51,2,0,50,1,1
+Class,"junit.tests.extensions.ExtensionTest.testRunningErrorInTestSetup.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.extensions.ExtensionTest.testRunningErrorsInTestSetup.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.extensions.ExtensionTest.testRunningErrorsInTestSetup.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.extensions.ExtensionTest.testSetupErrorDontTearDown.(Anon_4)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.extensions.ExtensionTest.testSetupErrorInTestSetup.(Anon_5)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"junit.tests.extensions.RepeatedTestTest",6,1,2,0,3,57,5,4,0,1,1
+Public Static Class,"junit.tests.extensions.RepeatedTestTest.SuccessTest",1,1,1,0,3,53,1,0,0,1,1
+Package,"junit.tests.framework",167,1,3,,,,138,,,,1
+Public Class,"junit.tests.framework.AllTests",2,1,1,0,1,2,2,13,0,1,1
+Public Class,"junit.tests.framework.AssertTest",30,1,2,0,3,68,16,2,0,1,1
+Public Class,"junit.tests.framework.ComparisonCompactorTest",19,1,1,0,3,71,19,1,0,1,1
+Public Class,"junit.tests.framework.ComparisonFailureTest",9,2,3,0,3,56,4,1,0,1,1
+Public Class,"junit.tests.framework.DoublePrecisionAssertTest",11,1,2,0,3,59,7,1,0,1,1
+Public Class,"junit.tests.framework.Failure",1,1,1,0,3,53,1,0,0,1,1
+Public Class,"junit.tests.framework.FloatAssertTest",13,1,2,0,3,60,8,1,0,1,1
+Public Class,"junit.tests.framework.InheritedTestCase",1,1,1,0,4,56,1,0,0,1,1
+Public Class,"junit.tests.framework.NoArgTestCaseTest",1,1,1,0,3,53,1,0,0,1,1
+Public Class,"junit.tests.framework.NoTestCaseClass",1,1,1,0,1,1,1,0,0,1,1
+Public Class,"junit.tests.framework.NoTestCases",1,1,1,0,3,53,1,0,0,1,1
+Public Class,"junit.tests.framework.NotPublicTestCase",2,1,1,0,3,54,2,0,0,1,1
+Public Class,"junit.tests.framework.NotVoidTestCase",2,1,1,0,3,54,2,0,0,1,1
+Public Class,"junit.tests.framework.OneTestCase",3,1,1,2,3,55,3,0,0,1,1
+Public Class,"junit.tests.framework.OverrideTestCase",1,1,1,0,4,56,1,0,0,1,1
+Public Class,"junit.tests.framework.Success",2,1,1,0,3,54,2,0,0,1,1
+Public Class,"junit.tests.framework.SuiteTest",14,1,1,0,3,66,14,11,42,1,1
+Public Class,"junit.tests.framework.TestCaseTest",18,1,2,0,3,69,17,6,0,1,1
+Static Class,"junit.tests.framework.TestCaseTest.TornDown",2,1,1,3,3,54,2,0,50,1,1
+Class,"junit.tests.framework.TestCaseTest.testError.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testErrorTearingDownDoesntMaskErrorRunning.(Anon_9)",2,1,1,0,1,2,2,1,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testExceptionRunningAndTearDown.(Anon_8)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testFailure.(Anon_5)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testNamelessTestCase.(Anon_10)",0,0,0,0,1,0,0,0,0,2,0
+Class,"junit.tests.framework.TestCaseTest.testRunAndTearDownFails.(Anon_2)",2,1,1,0,1,2,2,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testSetupFails.(Anon_3)",2,1,1,0,1,2,2,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testSuccess.(Anon_4)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testTearDownFails.(Anon_6)",2,1,1,0,1,2,2,0,0,2,1
+Class,"junit.tests.framework.TestCaseTest.testTearDownSetupFails.(Anon_7)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"junit.tests.framework.TestImplementorTest",2,1,1,0,3,54,2,2,0,1,1
+Public Static Class,"junit.tests.framework.TestImplementorTest.DoubleTestCase",3,1,1,0,1,3,3,3,66,2,1
+Class,"junit.tests.framework.TestImplementorTest.DoubleTestCase.run.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"junit.tests.framework.TestImplementorTest.TestImplementorTest.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"junit.tests.framework.TestListenerTest",8,1,1,0,3,60,8,2,57,2,1
+Class,"junit.tests.framework.TestListenerTest.testError.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestListenerTest.testFailure.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.framework.TestListenerTest.testStartStop.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"junit.tests.framework.ThreeTestCases",3,1,1,0,3,55,3,0,0,1,1
+Package,"junit.tests.runner",42,1,3,,,,39,,,,1
+Public Class,"junit.tests.runner.AllTests",3,1,1,0,1,3,3,8,0,1,1
+Public Class,"junit.tests.runner.BaseTestRunnerTest",2,1,1,0,3,54,2,3,0,1,1
+Public Static Class,"junit.tests.runner.BaseTestRunnerTest.DoesntExtendTestCase",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"junit.tests.runner.BaseTestRunnerTest.MockRunner",4,1,1,0,2,33,4,1,75,1,1
+Public Static Class,"junit.tests.runner.BaseTestRunnerTest.NonStatic",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"junit.tests.runner.StackFilterTest",2,1,1,0,3,54,2,1,0,1,1
+Public Class,"junit.tests.runner.TextFeedbackTest",9,1,2,0,3,60,8,4,25,1,1
+Static Class,"junit.tests.runner.TextFeedbackTest.TestResultPrinter",2,1,1,2,2,19,2,0,0,1,1
+Class,"junit.tests.runner.TextFeedbackTest.testError.(Anon_6)",1,1,1,0,1,1,1,1,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testError.(Anon_7)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testFailure.(Anon_4)",1,1,1,0,1,1,1,1,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testFailure.(Anon_5)",1,1,1,0,1,1,1,1,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testOneTest.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testTwoTests.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Class,"junit.tests.runner.TextFeedbackTest.testTwoTests.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Public Class,"junit.tests.runner.TextRunnerSingleMethodTest",1,1,1,0,3,53,1,2,0,1,1
+Public Static Class,"junit.tests.runner.TextRunnerSingleMethodTest.InvocationTest",2,1,1,0,3,54,2,1,0,1,1
+Public Class,"junit.tests.runner.TextRunnerTest",7,1,3,0,3,57,5,3,0,1,1
+Class,"junit.tests.runner.TextRunnerTest.testRunReturnsResult.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Package,"junit.textui",53,1,9,,,,35,,,,3
+Public Class,"junit.textui.ResultPrinter",23,1,4,2,1,17,17,5,91,2,1
+Public Class,"junit.textui.TestRunner",30,1,9,0,2,47,18,6,88,1,3
+Package,"org",0,0,0,,,,0,,,,0
+Package,"org.junit",96,1,5,,,,70,,,,3
+Public Annotation,"org.junit.After",0,0,0,0,0,0,0,0,0,0,0
+Public Annotation,"org.junit.AfterClass",0,0,0,0,0,0,0,0,0,0,0
+Public Class,"org.junit.Assert",66,1,5,0,1,50,50,5,0,1,3
+TypeVariable,"org.junit.Assert.assertThat.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.Assert.assertThat.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.Assume",5,1,2,0,1,4,4,2,0,1,1
+TypeVariable,"org.junit.Assume.assumeThat.T",0,0,0,0,1,0,0,0,0,1,0
+Public Annotation,"org.junit.Before",0,0,0,0,0,0,0,0,0,0,0
+Public Annotation,"org.junit.BeforeClass",0,0,0,0,0,0,0,0,0,0,0
+Public Annotation,"org.junit.ClassRule",0,0,0,0,0,0,0,0,0,0,0
+Public Class,"org.junit.ComparisonFailure",4,1,1,0,2,4,4,1,56,1,1
+Private Static Class,"org.junit.ComparisonFailure.ComparisonCompactor",17,2,3,0,1,8,8,1,59,1,3
+Public Annotation,"org.junit.Ignore",1,1,1,1,0,1,1,0,0,0,1
+Public Annotation,"org.junit.Rule",0,0,0,0,0,0,0,0,0,0,0
+Public Annotation,"org.junit.Test",2,1,1,0,0,2,2,1,0,0,1
+Static Class,"org.junit.Test.None",1,1,1,0,2,1,1,0,100,1,1
+Package,"org.junit.experimental",14,1,3,,,,9,,,,1
+Public Class,"org.junit.experimental.ParallelComputer",9,1,2,0,2,9,6,4,66,1,1
+Class,"org.junit.experimental.ParallelComputer.parallelize.(Anon_1)",4,2,3,0,1,2,2,0,25,2,1
+Class,"org.junit.experimental.ParallelComputer.parallelize.(Anon_1).schedule.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+TypeVariable,"org.junit.experimental.ParallelComputer.parallelize.T",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.experimental.categories",37,2,6,,,,17,,,,6
+Public Class,"org.junit.experimental.categories.Categories",15,2,3,0,4,46,6,8,0,1,3
+Public Static Class,"org.junit.experimental.categories.Categories.CategoryFilter",19,2,6,0,2,13,8,2,68,1,6
+Public Annotation,"org.junit.experimental.categories.Categories.ExcludeCategory",1,1,1,0,0,1,1,0,0,0,1
+Public Annotation,"org.junit.experimental.categories.Categories.IncludeCategory",1,1,1,0,0,1,1,0,0,0,1
+Public Annotation,"org.junit.experimental.categories.Category",1,1,1,0,0,1,1,0,0,0,1
+Package,"org.junit.experimental.max",50,1,5,,,,32,,,,4
+Public Class,"org.junit.experimental.max.CouldNotReadCoreException",1,1,1,0,2,1,1,0,100,1,1
+Public Class,"org.junit.experimental.max.MaxCore",23,1,5,0,1,13,13,10,76,1,4
+Class,"org.junit.experimental.max.MaxCore.constructLeafRequest.(Anon_1)",2,2,2,0,1,1,1,4,0,2,1
+Class,"org.junit.experimental.max.MaxCore.constructLeafRequest.(Anon_1).getRunner.(Anon_2)",0,0,0,0,1,0,0,0,0,2,0
+Public Class,"org.junit.experimental.max.MaxHistory",14,1,3,0,1,11,11,5,84,2,3
+Private Class,"org.junit.experimental.max.MaxHistory.RememberingListener",4,1,1,0,2,11,4,4,62,1,1
+Private Class,"org.junit.experimental.max.MaxHistory.TestComparator",6,3,4,0,1,2,2,2,0,2,3
+Package,"org.junit.experimental.results",20,1,3,,,,18,,,,1
+Class,"org.junit.experimental.results.FailureList",4,2,3,0,1,2,2,3,0,1,1
+Public Class,"org.junit.experimental.results.PrintableResult",6,1,1,0,1,6,6,5,50,1,1
+Public Class,"org.junit.experimental.results.ResultMatchers",4,1,1,0,1,4,4,0,0,1,1
+Class,"org.junit.experimental.results.ResultMatchers.failureCountIs.(Anon_1)",2,1,1,0,1,2,2,2,0,2,1
+Class,"org.junit.experimental.results.ResultMatchers.hasFailureContaining.(Anon_3)",2,1,1,0,1,2,2,1,0,2,1
+Class,"org.junit.experimental.results.ResultMatchers.hasSingleFailureContaining.(Anon_2)",2,1,1,0,1,2,2,1,0,2,1
+Package,"org.junit.experimental.runners",1,1,1,,,,1,,,,1
+Public Class,"org.junit.experimental.runners.Enclosed",1,1,1,0,4,41,1,1,0,1,1
+Package,"org.junit.experimental.theories",64,1,5,,,,45,,,,5
+Public Annotation,"org.junit.experimental.theories.DataPoint",0,0,0,0,0,0,0,0,0,0,0
+Public Annotation,"org.junit.experimental.theories.DataPoints",0,0,0,0,0,0,0,0,0,0,0
+Public Class,"org.junit.experimental.theories.ParameterSignature",19,1,5,0,1,12,12,0,75,1,5
+TypeVariable,"org.junit.experimental.theories.ParameterSignature.findDeepAnnotation.T",0,0,0,0,2,0,0,0,0,1,0
+TypeVariable,"org.junit.experimental.theories.ParameterSignature.findDeepAnnotation.T",0,0,0,0,2,0,0,0,0,1,0
+TypeVariable,"org.junit.experimental.theories.ParameterSignature.getAnnotation.T",0,0,0,0,2,0,0,0,0,1,0
+Public Abstract Class,"org.junit.experimental.theories.ParameterSupplier",1,1,1,2,1,1,1,1,0,1,1
+Public Annotation,"org.junit.experimental.theories.ParametersSuppliedBy",1,1,1,0,0,1,1,0,0,0,1
+Public Abstract Class,"org.junit.experimental.theories.PotentialAssignment",3,1,1,3,1,3,3,1,0,1,1
+Public Static Class,"org.junit.experimental.theories.PotentialAssignment.CouldNotGenerateValueException",0,0,0,0,2,0,0,0,0,1,0
+Class,"org.junit.experimental.theories.PotentialAssignment.forValue.(Anon_1)",3,1,1,0,1,3,3,1,0,2,1
+Public Class,"org.junit.experimental.theories.Theories",11,1,3,1,4,67,7,7,0,1,1
+Public Static Class,"org.junit.experimental.theories.Theories.TheoryAnchor",16,1,2,1,2,12,11,9,75,1,1
+Class,"org.junit.experimental.theories.Theories.TheoryAnchor.methodCompletesWithParameters.(Anon_3)",2,2,2,0,1,1,1,4,0,2,1
+Class,"org.junit.experimental.theories.Theories.TheoryAnchor.runWithCompleteAssignment.(Anon_1)",4,1,1,0,1,4,4,5,0,2,1
+Class,"org.junit.experimental.theories.Theories.TheoryAnchor.runWithCompleteAssignment.(Anon_1).methodBlock.(Anon_2)",3,3,3,0,1,1,1,4,0,2,1
+Public Annotation,"org.junit.experimental.theories.Theory",1,1,1,0,0,1,1,0,0,0,1
+Package,"org.junit.experimental.theories.internal",51,1,5,,,,29,,,,4
+Public Class,"org.junit.experimental.theories.internal.AllMembersSupplier",18,2,5,0,2,8,7,7,42,1,3
+Static Class,"org.junit.experimental.theories.internal.AllMembersSupplier.MethodParameterValue",6,2,4,0,2,6,3,2,0,1,4
+Public Class,"org.junit.experimental.theories.internal.Assignments",19,1,3,0,1,14,14,7,66,1,1
+Public Class,"org.junit.experimental.theories.internal.ParameterizedAssertionError",8,1,3,0,2,5,5,0,100,1,1
+Package,"org.junit.experimental.theories.suppliers",3,1,2,,,,2,,,,1
+Public Annotation,"org.junit.experimental.theories.suppliers.TestedOn",1,1,1,0,0,1,1,0,0,0,1
+Public Class,"org.junit.experimental.theories.suppliers.TestedOnSupplier",2,2,2,0,2,2,1,3,0,1,1
+Package,"org.junit.internal",50,1,7,,,,31,,,,1
+Public Class,"org.junit.internal.ArrayComparisonFailure",6,1,3,0,2,4,4,0,62,1,1
+Public Class,"org.junit.internal.AssumptionViolatedException",6,1,2,0,2,4,4,0,66,2,1
+Public Abstract Class,"org.junit.internal.ComparisonCriteria",13,3,7,2,1,4,4,2,0,1,1
+Public Class,"org.junit.internal.ExactComparisonCriteria",1,1,1,0,2,5,1,1,0,1,1
+Public Class,"org.junit.internal.InexactComparisonCriteria",3,1,2,0,2,6,2,1,0,1,1
+Public Interface,"org.junit.internal.JUnitSystem",2,1,1,2,0,2,2,0,0,0,1
+Public Class,"org.junit.internal.RealSystem",2,1,1,0,1,2,2,0,0,2,1
+Public Class,"org.junit.internal.TextListener",17,1,4,0,2,19,12,4,58,1,1
+Package,"org.junit.internal.builders",30,1,3,,,,20,,,,3
+Public Class,"org.junit.internal.builders.AllDefaultPossibilitiesBuilder",10,1,3,0,2,14,7,7,71,1,3
+Public Class,"org.junit.internal.builders.AnnotatedBuilder",6,2,3,0,2,10,3,3,50,1,3
+Public Class,"org.junit.internal.builders.IgnoredBuilder",2,2,2,0,2,8,1,3,0,1,1
+Public Class,"org.junit.internal.builders.IgnoredClassRunner",3,1,1,0,2,6,3,2,33,1,1
+Public Class,"org.junit.internal.builders.JUnit3Builder",3,1,2,0,2,9,2,3,0,1,1
+Public Class,"org.junit.internal.builders.JUnit4Builder",1,1,1,0,2,8,1,2,0,1,1
+Public Class,"org.junit.internal.builders.NullBuilder",1,1,1,0,2,8,1,1,0,1,1
+Public Class,"org.junit.internal.builders.SuiteMethodBuilder",4,2,2,0,2,9,2,2,0,1,1
+Package,"org.junit.internal.matchers",37,1,4,,,,30,,,,4
+Public Generic Class,"org.junit.internal.matchers.CombinableMatcher",5,1,1,0,2,5,5,0,0,1,1
+TypeVariable,"org.junit.internal.matchers.CombinableMatcher.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.internal.matchers.Each",1,1,1,0,1,1,1,0,0,1,1
+Class,"org.junit.internal.matchers.Each.each.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+TypeVariable,"org.junit.internal.matchers.Each.each.T",0,0,0,0,1,0,0,0,0,1,0
+Public Generic Class,"org.junit.internal.matchers.IsCollectionContaining",11,1,3,0,3,13,7,0,57,1,3
+TypeVariable,"org.junit.internal.matchers.IsCollectionContaining.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.internal.matchers.IsCollectionContaining.hasItem.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.internal.matchers.IsCollectionContaining.hasItem.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.internal.matchers.IsCollectionContaining.hasItems.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.internal.matchers.IsCollectionContaining.hasItems.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.internal.matchers.StringContains",4,1,1,0,4,15,4,0,0,1,1
+Public Abstract Class,"org.junit.internal.matchers.SubstringMatcher",5,1,1,1,3,11,5,0,60,1,1
+Public Abstract Generic Class,"org.junit.internal.matchers.TypeSafeMatcher",9,1,4,8,2,6,6,0,50,1,4
+TypeVariable,"org.junit.internal.matchers.TypeSafeMatcher.T",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.internal.requests",8,1,2,,,,7,,,,1
+Public Class,"org.junit.internal.requests.ClassRequest",3,1,1,0,2,14,3,3,33,1,1
+Public Class,"org.junit.internal.requests.FilterRequest",3,1,2,0,2,13,2,4,0,1,1
+Public Class,"org.junit.internal.requests.SortingRequest",2,1,1,0,2,13,2,2,0,1,1
+Package,"org.junit.internal.runners",176,1,8,,,,97,,,,5
+Public Class,"org.junit.internal.runners.ClassRoadie",14,2,5,0,1,6,6,6,62,1,1
+Public Class,"org.junit.internal.runners.ErrorReportingRunner",11,1,4,0,2,9,6,5,50,1,4
+Class,"org.junit.internal.runners.FailedBefore",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.junit.internal.runners.InitializationError",4,1,1,0,2,4,4,0,75,1,1
+Public Class,"org.junit.internal.runners.JUnit38ClassRunner",23,2,7,1,2,14,11,12,81,3,5
+Private Class,"org.junit.internal.runners.JUnit38ClassRunner.OldTestClassAdaptingListener",10,1,2,0,1,8,8,7,50,2,1
+Public Class,"org.junit.internal.runners.JUnit4ClassRunner",25,1,4,0,2,21,18,12,66,3,1
+Class,"org.junit.internal.runners.JUnit4ClassRunner.run.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.junit.internal.runners.JUnit4ClassRunner.sort.(Anon_2)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"org.junit.internal.runners.MethodRoadie",26,2,7,0,1,9,9,6,58,1,4
+Class,"org.junit.internal.runners.MethodRoadie.runTest.(Anon_3)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.junit.internal.runners.MethodRoadie.runWithTimeout.(Anon_1)",4,4,4,0,1,1,1,1,0,2,1
+Class,"org.junit.internal.runners.MethodRoadie.runWithTimeout.(Anon_1).run.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.internal.runners.MethodValidator",17,2,8,0,1,7,7,7,35,1,1
+Public Class,"org.junit.internal.runners.SuiteMethod",4,2,3,1,3,16,2,1,0,1,1
+Public Class,"org.junit.internal.runners.TestClass",23,1,5,0,1,12,12,4,58,1,5
+Public Class,"org.junit.internal.runners.TestMethod",11,1,2,0,1,9,9,6,55,1,1
+Package,"org.junit.internal.runners.model",13,1,2,,,,10,,,,1
+Public Class,"org.junit.internal.runners.model.EachTestNotifier",9,1,2,0,1,7,7,5,14,1,1
+Public Class,"org.junit.internal.runners.model.MultipleFailureException",1,1,1,0,3,5,1,0,100,1,1
+Public Abstract Class,"org.junit.internal.runners.model.ReflectiveCallable",3,1,2,2,1,2,2,0,0,1,1
+Package,"org.junit.internal.runners.rules",15,1,2,,,,11,,,,1
+Public Enum Type,"org.junit.internal.runners.rules.RuleFieldValidator",15,1,2,0,1,11,11,6,88,1,1
+Package,"org.junit.internal.runners.statements",24,1,5,,,,13,,,,1
+Public Class,"org.junit.internal.runners.statements.ExpectException",6,3,5,0,2,3,2,1,0,1,1
+Public Class,"org.junit.internal.runners.statements.Fail",2,1,1,0,2,3,2,0,0,1,1
+Public Class,"org.junit.internal.runners.statements.FailOnTimeout",4,2,3,0,2,3,2,0,37,1,1
+Class,"org.junit.internal.runners.statements.FailOnTimeout.evaluate.(Anon_1)",2,2,2,0,1,1,1,2,0,2,1
+Public Class,"org.junit.internal.runners.statements.InvokeMethod",2,1,1,0,2,3,2,1,0,1,1
+Public Class,"org.junit.internal.runners.statements.RunAfters",5,2,4,0,2,3,2,2,0,1,1
+Public Class,"org.junit.internal.runners.statements.RunBefores",3,1,2,0,2,3,2,1,0,1,1
+Package,"org.junit.matchers",8,1,1,,,,8,,,,1
+Public Class,"org.junit.matchers.JUnitMatchers",8,1,1,0,1,8,8,4,0,1,1
+TypeVariable,"org.junit.matchers.JUnitMatchers.both.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.either.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.everyItem.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.hasItem.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.hasItem.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.hasItems.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.matchers.JUnitMatchers.hasItems.T",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.rules",64,1,4,,,,54,,,,1
+Public Class,"org.junit.rules.ErrorCollector",5,1,2,0,2,6,4,1,50,1,1
+Class,"org.junit.rules.ErrorCollector.checkThat.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+TypeVariable,"org.junit.rules.ErrorCollector.checkThat.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.rules.ExpectedException",9,1,2,0,1,8,8,5,87,2,1
+Private Class,"org.junit.rules.ExpectedException.ExpectedExceptionStatement",5,2,4,0,2,3,2,2,0,1,1
+Class,"org.junit.rules.ExpectedException.hasMessage.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Abstract Class,"org.junit.rules.ExternalResource",4,1,1,3,1,4,4,2,0,2,1
+Class,"org.junit.rules.ExternalResource.statement.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Interface,"org.junit.rules.MethodRule",1,1,1,6,0,1,1,2,0,0,1
+Public Class,"org.junit.rules.RunRules",4,1,2,0,2,4,3,2,33,1,1
+Public Class,"org.junit.rules.TemporaryFolder",10,1,3,0,2,12,8,0,37,1,1
+Public Class,"org.junit.rules.TestName",2,1,1,0,2,7,2,1,0,1,1
+Public Interface,"org.junit.rules.TestRule",1,1,1,12,0,1,1,2,0,0,1
+Public Abstract Class,"org.junit.rules.TestWatcher",5,1,1,4,1,5,5,2,0,2,1
+Class,"org.junit.rules.TestWatcher.apply.(Anon_1)",2,2,2,0,1,1,1,1,0,2,1
+Public Class,"org.junit.rules.TestWatchman",5,1,1,3,1,5,5,2,0,2,1
+Class,"org.junit.rules.TestWatchman.apply.(Anon_1)",2,2,2,0,1,1,1,1,0,2,1
+Public Class,"org.junit.rules.Timeout",2,1,1,0,1,2,2,3,0,2,1
+Public Class,"org.junit.rules.Verifier",2,1,1,2,1,2,2,2,0,2,1
+Class,"org.junit.rules.Verifier.apply.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Package,"org.junit.runner",87,1,4,,,,72,,,,3
+Public Class,"org.junit.runner.Computer",3,1,1,1,1,3,3,4,0,1,1
+Class,"org.junit.runner.Computer.getSuite.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Interface,"org.junit.runner.Describable",1,1,1,3,0,1,1,1,0,0,1
+Public Class,"org.junit.runner.Description",33,1,3,0,1,23,23,0,92,1,3
+TypeVariable,"org.junit.runner.Description.getAnnotation.T",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.junit.runner.JUnitCore",19,1,4,0,1,15,15,14,73,1,1
+Public Abstract Class,"org.junit.runner.Request",12,1,2,5,1,11,11,11,0,1,1
+Class,"org.junit.runner.Request.runner.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.runner.Result",7,1,1,0,1,7,7,3,85,1,1
+Private Class,"org.junit.runner.Result.Listener",6,1,1,0,2,13,6,3,0,1,1
+Public Annotation,"org.junit.runner.RunWith",1,1,1,0,0,1,1,0,0,0,1
+Public Abstract Class,"org.junit.runner.Runner",3,1,1,10,1,3,3,2,0,2,1
+Package,"org.junit.runner.manipulation",25,1,4,,,,19,,,,4
+Public Abstract Class,"org.junit.runner.manipulation.Filter",7,1,2,11,1,5,5,3,80,1,1
+Class,"org.junit.runner.manipulation.Filter.(Anon_1)",4,1,1,0,1,4,4,2,0,2,1
+Class,"org.junit.runner.manipulation.Filter.intersect.(Anon_3)",2,1,1,0,1,2,2,1,0,2,1
+Class,"org.junit.runner.manipulation.Filter.matchMethodDescription.(Anon_2)",5,2,4,0,1,2,2,1,0,2,4
+Public Interface,"org.junit.runner.manipulation.Filterable",1,1,1,4,0,1,1,2,0,0,1
+Public Class,"org.junit.runner.manipulation.NoTestsRemainException",0,0,0,0,2,0,0,0,0,1,0
+Public Interface,"org.junit.runner.manipulation.Sortable",1,1,1,4,0,1,1,1,0,0,1
+Public Class,"org.junit.runner.manipulation.Sorter",4,1,2,0,1,3,3,2,66,2,1
+Class,"org.junit.runner.manipulation.Sorter.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Package,"org.junit.runner.notification",37,1,3,,,,34,,,,1
+Public Class,"org.junit.runner.notification.Failure",7,1,1,0,1,7,7,1,57,1,1
+Public Class,"org.junit.runner.notification.RunListener",7,1,1,11,1,7,7,3,0,1,1
+Public Class,"org.junit.runner.notification.RunNotifier",12,1,2,0,1,11,11,6,77,1,1
+Private Abstract Class,"org.junit.runner.notification.RunNotifier.SafeNotifier",4,2,3,7,1,2,2,4,0,1,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestAssumptionFailed.(Anon_5)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestFailure.(Anon_4)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestFinished.(Anon_7)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestIgnored.(Anon_6)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestRunFinished.(Anon_2)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestRunStarted.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runner.notification.RunNotifier.fireTestStarted.(Anon_3)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"org.junit.runner.notification.StoppedByUserException",0,0,0,0,2,0,0,0,0,1,0
+Package,"org.junit.runners",125,1,5,,,,87,,,,3
+Public Class,"org.junit.runners.AllTests",1,1,1,0,4,17,1,0,0,1,1
+Public Class,"org.junit.runners.BlockJUnit4ClassRunner",44,1,3,7,3,60,30,23,0,1,1
+Class,"org.junit.runners.BlockJUnit4ClassRunner.methodBlock.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.runners.JUnit4",1,1,1,0,4,61,1,1,0,1,1
+Public Class,"org.junit.runners.Parameterized",7,1,3,1,4,44,4,4,50,1,3
+Public Annotation,"org.junit.runners.Parameterized.Parameters",0,0,0,0,0,0,0,0,0,0,0
+Private Class,"org.junit.runners.Parameterized.TestClassRunnerForParameters",8,1,2,0,4,67,7,6,57,1,1
+Public Abstract Generic Class,"org.junit.runners.ParentRunner",45,1,5,2,2,30,27,21,88,3,1
+Class,"org.junit.runners.ParentRunner.(Anon_1)",2,1,1,0,1,2,2,0,0,2,1
+TypeVariable,"org.junit.runners.ParentRunner.T",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.junit.runners.ParentRunner.childrenInvoker.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.junit.runners.ParentRunner.comparator.(Anon_4)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.runners.ParentRunner.runChildren.(for_loop_2).(Anon_3)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.runners.Suite",12,1,2,6,3,40,10,6,80,1,1
+Public Annotation,"org.junit.runners.Suite.SuiteClasses",1,1,1,0,0,1,1,0,0,0,1
+Package,"org.junit.runners.model",90,1,6,,,,56,,,,5
+Public Class,"org.junit.runners.model.FrameworkField",9,1,1,0,2,12,9,0,22,1,1
+Abstract Generic Class,"org.junit.runners.model.FrameworkMember",5,1,3,4,1,3,3,0,0,1,3
+TypeVariable,"org.junit.runners.model.FrameworkMember.T",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.junit.runners.model.FrameworkMethod",24,1,6,0,2,16,13,1,15,1,5
+TypeVariable,"org.junit.runners.model.FrameworkMethod.getAnnotation.T",0,0,0,0,2,0,0,0,0,1,0
+Class,"org.junit.runners.model.FrameworkMethod.invokeExplosively.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.runners.model.InitializationError",4,1,1,0,2,4,4,0,75,1,1
+Public Class,"org.junit.runners.model.MultipleFailureException",7,1,3,1,2,4,4,1,62,1,1
+Public Abstract Class,"org.junit.runners.model.RunnerBuilder",11,1,3,8,1,7,7,3,71,1,1
+Public Interface,"org.junit.runners.model.RunnerScheduler",2,1,1,3,0,2,2,0,0,0,1
+Public Abstract Class,"org.junit.runners.model.Statement",1,1,1,24,1,1,1,0,0,1,1
+Public Class,"org.junit.runners.model.TestClass",26,2,5,0,1,12,12,6,75,1,3
+TypeVariable,"org.junit.runners.model.TestClass.addToAnnotationLists.T",0,0,0,0,2,0,0,0,0,1,0
+TypeVariable,"org.junit.runners.model.TestClass.getAnnotatedFieldValues.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.runners.model.TestClass.getAnnotatedMembers.T",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.samples",16,1,2,,,,14,,,,1
+Public Class,"org.junit.samples.ListTest",12,1,2,0,1,10,10,8,63,1,1
+Public Class,"org.junit.samples.SimpleTest",4,1,1,0,1,4,4,5,75,1,1
+Package,"org.junit.samples.money",25,1,1,,,,25,,,,1
+Public Class,"org.junit.samples.money.MoneyTest",25,1,1,0,1,25,25,8,74,1,1
+Package,"org.junit.tests",10,1,3,,,,8,,,,3
+Public Class,"org.junit.tests.AllTests",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"org.junit.tests.ObjectContractTest",5,1,3,0,1,3,3,7,100,1,3
+Public Class,"org.junit.tests.TestSystem",4,1,1,0,1,4,4,0,58,2,1
+Package,"org.junit.tests.assertion",104,1,2,,,,77,,,,1
+Public Class,"org.junit.tests.assertion.AssertionTest",91,1,2,0,1,65,65,4,0,1,1
+Public Class,"org.junit.tests.assertion.BothTest",7,1,1,0,1,7,7,7,100,1,1
+TypeVariable,"org.junit.tests.assertion.BothTest.descriptionIsSensible.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.tests.assertion.BothTest.threeAndsWork.T",0,0,0,0,1,0,0,0,0,1,0
+TypeVariable,"org.junit.tests.assertion.BothTest.threeOrsWork.T",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.tests.assertion.EachTest",1,1,1,0,1,1,1,3,0,1,1
+Public Class,"org.junit.tests.assertion.MultipleFailureExceptionTest",4,1,2,0,1,3,3,4,0,1,1
+Private Static Class,"org.junit.tests.assertion.MultipleFailureExceptionTest.ExpectedException",1,1,1,0,2,1,1,0,100,1,1
+Package,"org.junit.tests.deprecated",7,1,1,,,,7,,,,1
+Public Class,"org.junit.tests.deprecated.JUnit4ClassRunnerTest",2,1,1,0,1,2,2,8,0,1,1
+Public Static Class,"org.junit.tests.deprecated.JUnit4ClassRunnerTest.Example",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.deprecated.JUnit4ClassRunnerTest.UnconstructableExample",3,1,1,0,1,3,3,2,0,1,1
+Package,"org.junit.tests.description",17,1,1,,,,17,,,,1
+Public Class,"org.junit.tests.description.AnnotatedDescriptionTest",7,1,1,0,1,7,7,11,0,1,1
+Public Static Class,"org.junit.tests.description.AnnotatedDescriptionTest.AnnotatedClass",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.description.AnnotatedDescriptionTest.IgnoredClass",1,1,1,0,1,1,1,1,0,1,1
+Public Annotation,"org.junit.tests.description.AnnotatedDescriptionTest.MyOwnAnnotation",0,0,0,0,0,0,0,0,0,0,0
+Public Static Class,"org.junit.tests.description.AnnotatedDescriptionTest.ValueAnnotatedClass",1,1,1,0,1,1,1,1,0,1,1
+Public Annotation,"org.junit.tests.description.AnnotatedDescriptionTest.ValuedAnnotation",1,1,1,0,0,1,1,0,0,0,1
+Class,"org.junit.tests.description.AnnotatedDescriptionTest.characterizeCreatingMyOwnAnnotation.(Anon_1)",2,1,1,0,1,2,2,0,0,2,1
+Public Class,"org.junit.tests.description.SuiteDescriptionTest",3,1,1,0,1,3,3,3,46,1,1
+Public Class,"org.junit.tests.description.TestDescriptionTest",1,1,1,0,1,1,1,3,0,1,1
+Package,"org.junit.tests.experimental",34,1,3,,,,31,,,,1
+Public Class,"org.junit.tests.experimental.AssumptionTest",19,1,3,0,1,16,16,13,93,1,1
+Public Static Class,"org.junit.tests.experimental.AssumptionTest.AssumptionFailureInConstructor",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.AssumptionTest.HasFailingAssumeInBefore",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.AssumptionTest.HasFailingAssumeInBeforeClass",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.AssumptionTest.HasFailingAssumption",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.AssumptionTest.HasPassingAssumption",1,1,1,0,1,1,1,3,0,1,1
+Class,"org.junit.tests.experimental.AssumptionTest.failedAssumptionsCanBeDetectedByListeners.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"org.junit.tests.experimental.AssumptionViolatedExceptionTest",4,1,1,0,1,4,4,7,100,1,1
+Public Class,"org.junit.tests.experimental.ExperimentalTests",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.tests.experimental.MatcherTest",2,1,1,0,1,2,2,8,100,1,1
+TypeVariable,"org.junit.tests.experimental.MatcherTest.differentMatchersHaveDifferentDescriptions.T",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.tests.experimental.categories",37,1,1,,,,37,,,,1
+Public Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest",3,1,1,0,1,3,3,19,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.ParameterTokenSuiteMalformed",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.ParameterTokenSuiteMalformedAndSwapped",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.ParameterTokenSuiteWellFormed",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.ParameterizedTestWithAttemptedMethodCategory",3,1,1,0,1,3,3,5,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.Token",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.VanillaCategorizedJUnitTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoriesAndParameterizedTest.WellBehavedParameterizedTest",3,1,1,0,1,3,3,3,0,1,1
+Public Class,"org.junit.tests.experimental.categories.CategoryTest",12,1,1,0,1,12,12,41,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.A",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.B",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.C",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.Category1",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.Category2",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.ChooseSlowFromBoth",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.ClassAsCategory",0,0,0,0,1,0,0,0,0,1,0
+Public Interface,"org.junit.tests.experimental.categories.CategoryTest.FastTests",0,0,0,0,0,0,0,0,0,0,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.IncludeAndExcludeSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.JustA",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneFast",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneFastOneSlow",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneFastSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneMoreTest",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneThatIsBothFastAndSlow",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.OneVerySlowTest",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.RunClassAsCategory",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.RunSlowFromVerySlow",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.SlowTestSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Interface,"org.junit.tests.experimental.categories.CategoryTest.SlowTests",0,0,0,1,0,0,0,0,0,0,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.SomeAreSlow",5,1,1,0,1,5,5,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.SomeAreSlowSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.categories.CategoryTest.TestSuiteWithNoCategories",0,0,0,0,1,0,0,0,0,1,0
+Public Interface,"org.junit.tests.experimental.categories.CategoryTest.VerySlowTests",0,0,0,0,1,0,0,0,0,1,0
+Package,"org.junit.tests.experimental.max",45,1,2,,,,43,,,,1
+Public Class,"org.junit.tests.experimental.max.DescriptionTest",3,1,1,0,1,3,3,3,0,1,1
+Public Class,"org.junit.tests.experimental.max.JUnit38SortingTest",4,1,2,0,1,3,3,8,33,1,1
+Public Static Class,"org.junit.tests.experimental.max.JUnit38SortingTest.JUnit38Test",3,1,1,0,3,55,3,0,0,1,1
+Public Static Class,"org.junit.tests.experimental.max.JUnit38SortingTest.JUnit4Test",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.experimental.max.MaxStarterTest",20,1,2,0,1,19,19,22,70,1,1
+Public Static Class,"org.junit.tests.experimental.max.MaxStarterTest.HalfMalformedJUnit38TestMethod",2,1,1,0,3,54,2,0,0,1,1
+Private Static Class,"org.junit.tests.experimental.max.MaxStarterTest.MalformedJUnit38Test",2,1,1,0,1,2,2,0,0,1,1
+Public Static Class,"org.junit.tests.experimental.max.MaxStarterTest.MalformedJUnit38TestMethod",1,1,1,0,3,53,1,0,0,1,1
+Public Static Class,"org.junit.tests.experimental.max.MaxStarterTest.TwoOldTests",2,1,1,0,3,54,2,0,0,1,1
+Public Static Class,"org.junit.tests.experimental.max.MaxStarterTest.TwoTests",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.max.MaxStarterTest.TwoUnEqualTests",2,1,1,0,1,2,2,2,0,1,1
+Class,"org.junit.tests.experimental.max.MaxStarterTest.assertFilterLeavesTestUnscathed.(Anon_2)",2,1,1,0,1,2,2,1,0,2,1
+Class,"org.junit.tests.experimental.max.MaxStarterTest.listenersAreCalledCorrectlyInTheFaceOfFailures.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Package,"org.junit.tests.experimental.parallel",12,1,1,,,,12,,,,1
+Public Class,"org.junit.tests.experimental.parallel.ParallelClassTest",2,1,1,0,1,2,2,10,0,1,1
+Public Static Class,"org.junit.tests.experimental.parallel.ParallelClassTest.Example1",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.experimental.parallel.ParallelClassTest.Example2",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.experimental.parallel.ParallelClassTest.ExampleSuite",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.junit.tests.experimental.parallel.ParallelClassTest.greaterThan.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Class,"org.junit.tests.experimental.parallel.ParallelMethodTest",2,1,1,0,1,2,2,6,0,1,1
+Public Static Class,"org.junit.tests.experimental.parallel.ParallelMethodTest.Example",2,1,1,0,1,2,2,1,0,1,1
+Class,"org.junit.tests.experimental.parallel.ParallelMethodTest.betweenInclusive.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Package,"org.junit.tests.experimental.results",5,1,1,,,,5,,,,1
+Public Class,"org.junit.tests.experimental.results.PrintableResultTest",2,1,1,0,1,2,2,7,100,1,1
+Class,"org.junit.tests.experimental.results.PrintableResultTest.backTraceHasGoodToString.(Anon_1)",1,1,1,0,1,1,1,1,100,2,1
+Public Class,"org.junit.tests.experimental.results.ResultMatchersTest",2,1,1,0,1,2,2,5,0,1,1
+Package,"org.junit.tests.experimental.rules",165,1,2,,,,163,,,,1
+Public Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest",2,1,1,0,1,2,2,8,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.FlipBitRule",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.FlipBitRule.apply.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.OverrideRulesRunner",2,1,1,0,4,62,2,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.OverrideRulesTest",1,1,1,1,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.OverrideTestRulesRunner",2,1,1,0,4,62,2,2,0,1,1
+Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.OverrideTestRulesRunner.getTestRules.(Anon_2)",1,1,1,0,1,1,1,4,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.BlockJUnit4ClassRunnerOverrideTest.OverrideTestRulesTest",0,0,0,0,2,1,0,0,0,1,0
+Public Class,"org.junit.tests.experimental.rules.ClassRulesTest",3,1,1,0,1,3,3,9,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ClassRulesTest.Counter",1,1,1,0,2,5,1,0,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ClassRulesTest.CustomCounter",1,1,1,0,1,1,1,2,100,2,1
+Class,"org.junit.tests.experimental.rules.ClassRulesTest.CustomCounter.apply.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.ClassRulesTest.ExampleTestWithClassRule",2,1,1,1,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ClassRulesTest.ExampleTestWithCustomClassRule",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ClassRulesTest.SubclassOfTestWithClassRule",0,0,0,0,2,2,0,0,0,1,0
+Public Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest",12,1,1,0,1,12,12,16,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectedMessageMatcherFails",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectsMatcher",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectsMessageMatcher",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectsMultipleMatchers",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectsSubstring",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.ExpectsSubstringNullMessage",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.HasExpectedException",3,1,1,0,1,3,3,3,33,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.HasWrongExpectedException",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.HasWrongMessage",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.WronglyExpectsException",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.WronglyExpectsExceptionMessage",1,1,1,0,1,1,1,3,0,1,1
+Class,"org.junit.tests.experimental.rules.ExpectedExceptionRuleTest.startsWith.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Class,"org.junit.tests.experimental.rules.ExternalResourceRuleTest",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.ExternalResourceRuleTest.UsesExternalResource",1,1,1,0,1,1,1,4,100,1,1
+Class,"org.junit.tests.experimental.rules.ExternalResourceRuleTest.UsesExternalResource.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Class,"org.junit.tests.experimental.rules.MethodRulesTest",11,1,1,0,1,11,11,17,87,1,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.BeforesAndAfters",3,1,1,0,1,3,3,5,50,1,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.BeforesAndAfters.(Anon_6)",3,1,1,0,1,3,3,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.CustomTestName",1,1,1,0,1,1,1,2,100,2,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.CustomTestName.apply.(Anon_7)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.ExampleTest",1,1,1,1,1,1,1,3,100,1,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.ExampleTest.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.ExampleTest.(Anon_1).apply.(Anon_2)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.MultipleRuleTest",1,1,1,0,1,1,1,4,100,1,1
+Private Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.MultipleRuleTest.Increment",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.MultipleRuleTest.Increment.apply.(Anon_3)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.NoRulesTest",1,1,1,0,1,1,1,1,100,1,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.OnFailureTest",1,1,1,0,1,1,1,4,100,1,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.OnFailureTest.(Anon_4)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.PrivateRule",1,1,1,0,1,1,1,4,100,1,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.SonOfExampleTest",0,0,0,0,2,1,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.SonOfWrongTypedField",0,0,0,0,2,1,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.UsesCustomMethodRule",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.WatchmanTest",2,1,1,0,1,2,2,4,100,1,1
+Class,"org.junit.tests.experimental.rules.MethodRulesTest.WatchmanTest.(Anon_5)",2,1,1,0,1,2,2,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.MethodRulesTest.WrongTypedField",1,1,1,1,1,1,1,2,100,1,1
+Public Class,"org.junit.tests.experimental.rules.NameRulesTest",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.NameRulesTest.BeforeAndAfterTest",3,1,1,0,1,3,3,6,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.NameRulesTest.TestNames",2,1,1,0,1,2,2,4,0,1,1
+Public Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest",7,1,1,0,1,7,7,8,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithArbitraryObjectWithRuleAnnotation",0,0,0,0,1,0,0,1,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithMethodRule",0,0,0,0,1,0,0,2,0,1,0
+Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithMethodRule.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithNonStaticClassRule",0,0,0,0,1,0,0,3,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithNonStaticTestRule",0,0,0,0,1,0,0,3,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.RuleFieldValidatorTest.TestWithProtectedClassRule",0,0,0,0,1,0,0,3,0,1,0
+Public Class,"org.junit.tests.experimental.rules.TempFolderRuleTest",4,1,1,0,1,4,4,6,50,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TempFolderRuleTest.CreatesSubFolder",1,1,1,0,1,1,1,5,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TempFolderRuleTest.HasTempFolder",1,1,1,0,1,1,1,5,0,1,1
+Public Class,"org.junit.tests.experimental.rules.TestRuleTest",12,1,1,0,1,12,12,18,88,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.BeforesAndAfters",3,1,1,0,1,3,3,5,50,1,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.BeforesAndAfters.(Anon_6)",3,1,1,0,1,3,3,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.BothKindsOfRule",2,1,1,0,1,2,2,3,0,3,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.CustomTestName",1,1,1,0,1,1,1,2,100,2,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.CustomTestName.apply.(Anon_7)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.ExampleTest",1,1,1,1,1,1,1,3,100,1,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.ExampleTest.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.ExampleTest.(Anon_1).apply.(Anon_2)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.MultipleRuleTest",1,1,1,0,1,1,1,4,100,1,1
+Private Static Class,"org.junit.tests.experimental.rules.TestRuleTest.MultipleRuleTest.Increment",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.MultipleRuleTest.Increment.apply.(Anon_3)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.NoRulesTest",1,1,1,0,1,1,1,1,100,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.OnFailureTest",1,1,1,0,1,1,1,4,100,1,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.OnFailureTest.(Anon_4)",1,1,1,0,1,1,1,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.OneFieldTwoKindsOfRule",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.PrivateRule",1,1,1,0,1,1,1,4,100,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.SonOfExampleTest",0,0,0,0,2,1,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.SonOfWrongTypedField",0,0,0,0,2,1,0,0,0,1,0
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.UsesCustomMethodRule",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.WatchmanTest",2,1,1,0,1,2,2,4,100,1,1
+Class,"org.junit.tests.experimental.rules.TestRuleTest.WatchmanTest.(Anon_5)",2,1,1,0,1,2,2,2,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.TestRuleTest.WrongTypedField",1,1,1,1,1,1,1,2,100,1,1
+Public Class,"org.junit.tests.experimental.rules.TimeoutRuleTest",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.TimeoutRuleTest.HasGlobalTimeout",4,2,2,0,1,2,2,4,50,1,1
+Public Class,"org.junit.tests.experimental.rules.VerifierRuleTest",6,1,1,0,1,6,6,10,100,1,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollector",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckSucceeds",1,1,1,0,1,1,1,3,0,1,1
+Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckSucceeds.example.(Anon_1)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckSucceeds.example.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckSucceedsPasses",1,1,1,0,1,1,1,3,0,1,1
+Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckSucceedsPasses.example.(Anon_3)",1,1,1,0,1,1,1,0,0,2,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorCheckThat",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesErrorCollectorTwice",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesVerifier",1,1,1,0,1,1,1,4,100,1,1
+Class,"org.junit.tests.experimental.rules.VerifierRuleTest.UsesVerifier.(Anon_4)",1,1,1,0,1,1,1,1,0,2,1
+Package,"org.junit.tests.experimental.theories",12,1,1,,,,12,,,,1
+Public Class,"org.junit.tests.experimental.theories.AllMembersSupplierTest",1,1,1,0,1,1,1,6,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.AllMembersSupplierTest.HasDataPoints",1,1,1,0,1,1,1,1,100,1,1
+Public Class,"org.junit.tests.experimental.theories.ParameterSignatureTest",4,1,1,0,1,4,4,7,100,1,1
+Public Class,"org.junit.tests.experimental.theories.ParameterizedAssertionErrorTest",5,1,1,0,1,5,5,7,100,1,1
+Class,"org.junit.tests.experimental.theories.ParameterizedAssertionErrorTest.canJoinWhenToStringFails.(Anon_1)",1,1,1,0,1,1,1,0,0,1,1
+Package,"org.junit.tests.experimental.theories.extendingwithstubs",59,1,3,,,,45,,,,3
+Public Interface,"org.junit.tests.experimental.theories.extendingwithstubs.Correspondent",1,1,1,0,0,1,1,0,0,0,1
+Public Generic Class,"org.junit.tests.experimental.theories.extendingwithstubs.Guesser",7,1,1,0,3,12,7,3,64,1,1
+Static Class,"org.junit.tests.experimental.theories.extendingwithstubs.Guesser.GuessMap",11,1,3,0,2,6,6,1,100,2,3
+TypeVariable,"org.junit.tests.experimental.theories.extendingwithstubs.Guesser.T",0,0,0,0,1,0,0,0,0,1,0
+Class,"org.junit.tests.experimental.theories.extendingwithstubs.Guesser.reguesses.(Anon_1)",4,1,2,0,1,3,3,2,66,2,1
+Public Class,"org.junit.tests.experimental.theories.extendingwithstubs.GuesserQueue",5,1,2,0,2,3,3,4,66,1,1
+Static Class,"org.junit.tests.experimental.theories.extendingwithstubs.GuesserQueue.ReguessableDecorator",4,1,1,0,3,9,4,2,25,1,1
+Public Class,"org.junit.tests.experimental.theories.extendingwithstubs.MethodCall",10,1,2,0,1,8,8,1,50,1,1
+Public Abstract Class,"org.junit.tests.experimental.theories.extendingwithstubs.ReguessableValue",2,1,1,2,2,5,2,1,0,1,1
+Public Class,"org.junit.tests.experimental.theories.extendingwithstubs.StringableObject",5,1,2,0,1,4,4,0,25,1,1
+Public Annotation,"org.junit.tests.experimental.theories.extendingwithstubs.Stub",0,0,0,0,0,0,0,0,0,0,0
+Public Class,"org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheories",2,1,1,0,5,69,2,4,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheories.StubbedTheoryAnchor",7,1,2,0,3,16,4,8,50,1,1
+Public Class,"org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheoriesTest",1,1,1,0,1,1,1,4,0,1,1
+Package,"org.junit.tests.experimental.theories.runner",82,1,3,,,,80,,,,1
+Public Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields",0,0,0,0,1,0,0,2,0,1,0
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.BeforeAndAfterEachTime",4,1,1,0,1,4,4,6,75,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.BeforeAndAfterOnSameInstance",2,1,1,0,1,2,2,4,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.DifferentTypesInConstructor",2,1,1,0,1,2,2,2,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.HasATwoParameterTheory",1,1,1,0,1,1,1,3,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.NewObjectEachTime",1,1,1,0,1,1,1,3,66,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.OneTestTwoAnnotations",3,1,1,0,1,3,3,6,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.PositiveInts",2,1,1,0,1,2,2,4,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.PositiveIntsWithMethodParams",2,1,1,0,1,2,2,4,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.PositiveIntsWithNegativeField",2,1,1,0,1,2,2,4,66,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.SuccessfulWithDataPointFields.StaticPublicNonDataPoints",1,1,1,0,1,1,1,3,100,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest.UpToTen",1,1,1,0,1,1,1,2,100,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields",7,1,1,0,1,7,7,16,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields.DataPointsMustBeStatic",1,1,1,0,1,1,1,2,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields.DoesntUseParams",1,1,1,0,1,1,1,3,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields.HasATheory",1,1,1,0,1,1,1,3,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields.NullsOK",1,1,1,0,1,1,1,3,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields.TheoriesMustBePublic",1,1,1,0,1,1,1,2,100,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.WhenNoParametersMatch",1,1,1,0,1,1,1,8,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WhenNoParametersMatch.AssumptionsFail",1,1,1,0,1,1,1,3,50,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.WithDataPointMethod",8,1,1,0,1,8,8,14,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithDataPointMethod.DataPointMethodReturnsMutableObject",2,1,1,0,1,2,2,3,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithDataPointMethod.HasDataPointMethod",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithDataPointMethod.HasDateMethod",5,1,1,0,1,5,5,2,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithDataPointMethod.HasUglyDataPointMethod",3,1,1,0,1,3,3,2,0,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources",6,1,1,0,1,6,6,11,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.DataPointArrayMethod",2,1,1,0,1,2,2,2,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.DataPointArrayToBeUsedForWholeParameter",1,1,1,0,1,1,1,2,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.DataPointArrays",1,1,1,0,1,1,1,2,50,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.DataPointMalformedArrayMethods",4,1,1,0,1,4,4,2,75,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.ParameterAnnotations",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithExtendedParameterSources.ShouldFilterNull",1,1,1,0,1,1,1,3,100,1,1
+Public Class,"org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations",4,1,1,0,1,4,4,12,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations.ErrorWhenTestHasParametersDespiteTheories",1,1,1,0,1,1,1,2,100,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations.HonorExpectedException",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations.HonorExpectedExceptionPasses",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations.HonorTimeout",3,3,3,0,1,1,1,1,0,1,1
+Package,"org.junit.tests.junit3compatibility",100,1,2,,,,99,,,,1
+Public Class,"org.junit.tests.junit3compatibility.AllTestsTest",5,1,1,0,1,5,5,12,80,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.AllTestsTest.All",1,1,1,0,1,1,1,3,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.AllTestsTest.AllJUnit4",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.AllTestsTest.BadSuiteMethod",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.AllTestsTest.JUnit4Test",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.AllTestsTest.OneTest",1,1,1,0,3,53,1,1,0,1,1
+Public Class,"org.junit.tests.junit3compatibility.ClassRequestTest",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ClassRequestTest.PrivateSuiteMethod",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest",4,1,2,0,3,55,3,6,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest.ATest",1,1,1,0,1,1,1,2,0,1,1
+Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest.TestResultPrinter",2,1,1,2,2,19,2,0,0,1,1
+Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest.testError.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest.testError.(Anon_2)",1,1,1,0,1,1,1,0,0,2,1
+Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest.testErrorAdapted.(Anon_3)",1,1,1,0,1,1,1,1,0,2,1
+Public Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest",12,1,1,0,3,64,12,13,91,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.BeforeClassTest",6,1,1,0,1,6,6,6,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.ErrorTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.ExceptionInBeforeTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.ExpectedTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.InvalidMethodTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.MarkerRunner",4,1,1,0,2,7,4,3,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.NewTest",3,1,1,0,1,3,3,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.NoExceptionTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.NoTests",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.UnExpectedExceptionTest",1,1,1,0,1,1,1,1,0,1,1
+Class,"org.junit.tests.junit3compatibility.ForwardCompatibilityTest.testNotifyResult.(Anon_1)",4,1,1,0,1,4,4,3,0,2,1
+Public Class,"org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest",4,1,1,0,1,4,4,10,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest.CantInitialize",3,1,1,0,2,6,3,2,66,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest.CantInitializeTests",0,0,0,0,1,0,0,0,0,1,0
+Private Class,"org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest.ErrorRememberingListener",5,1,1,0,1,5,5,2,60,2,1
+Public Static Class,"org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest.InitializesWithError",1,1,1,0,4,61,1,0,0,1,1
+Public Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest",4,1,1,0,1,4,4,16,75,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest.AnnotatedTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest.ClassWithInvalidMethod",1,1,1,0,3,53,1,0,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest.MyTest",1,1,1,0,3,53,1,0,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest.OneTest",1,1,1,0,3,53,1,0,0,1,1
+Class,"org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest.testListener.(Anon_1)",1,1,1,0,1,1,1,3,0,2,1
+Public Class,"org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest",1,1,1,0,1,1,1,9,0,1,1
+Class,"org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest.addFailureDelegatesToNotifier.(Anon_1)",0,0,0,0,1,0,0,0,0,2,0
+Public Class,"org.junit.tests.junit3compatibility.OldTests",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"org.junit.tests.junit3compatibility.SuiteMethodTest",5,1,1,0,1,5,5,12,19,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.SuiteMethodTest.CompatibilityTest",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.SuiteMethodTest.NewTest",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.SuiteMethodTest.NewTestSuiteFails",2,1,1,0,1,2,2,4,0,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.SuiteMethodTest.NewTestSuiteNotUsed",3,1,1,0,1,3,3,5,66,1,1
+Public Static Class,"org.junit.tests.junit3compatibility.SuiteMethodTest.OldTest",3,1,1,0,3,55,3,2,0,1,1
+Package,"org.junit.tests.listening",30,1,1,,,,30,,,,1
+Public Class,"org.junit.tests.listening.ListenerTest",1,1,1,0,1,1,1,4,0,1,1
+Public Static Class,"org.junit.tests.listening.ListenerTest.OneTest",1,1,1,0,1,1,1,1,0,1,1
+Class,"org.junit.tests.listening.ListenerTest.notifyListenersInTheOrderInWhichTheyAreAdded.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Class,"org.junit.tests.listening.ListenerTest.notifyListenersInTheOrderInWhichTheyAreAdded.(Anon_2)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"org.junit.tests.listening.RunnerTest",3,1,1,0,1,3,3,8,66,1,1
+Public Static Class,"org.junit.tests.listening.RunnerTest.Example",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.listening.RunnerTest.ExampleTest",1,1,1,0,3,53,1,0,0,1,1
+Public Class,"org.junit.tests.listening.RunnerTest.MyListener",1,1,1,1,2,8,1,1,0,1,1
+Public Static Class,"org.junit.tests.listening.RunnerTest.NewExample",1,1,1,0,1,1,1,1,0,1,1
+Class,"org.junit.tests.listening.RunnerTest.testFinished.(Anon_1)",1,1,1,0,1,1,1,2,0,2,1
+Public Class,"org.junit.tests.listening.TestListenerTest",3,1,1,0,1,3,3,9,66,1,1
+Class,"org.junit.tests.listening.TestListenerTest.ErrorListener",1,1,1,1,2,8,1,1,0,1,1
+Class,"org.junit.tests.listening.TestListenerTest.ExceptionListener",1,1,1,0,3,9,1,2,0,1,1
+Public Static Class,"org.junit.tests.listening.TestListenerTest.OneTest",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.listening.TextListenerTest",5,1,1,0,3,57,5,6,40,1,1
+Public Static Class,"org.junit.tests.listening.TextListenerTest.ErrorTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.listening.TextListenerTest.OneTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.listening.TextListenerTest.Slow",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.listening.UserStopTest",3,1,1,0,1,3,3,7,0,1,1
+Public Static Class,"org.junit.tests.listening.UserStopTest.OneTest",1,1,1,0,1,1,1,1,0,1,1
+Package,"org.junit.tests.manipulation",71,1,1,,,,71,,,,1
+Public Class,"org.junit.tests.manipulation.FilterTest",3,1,1,0,1,3,3,4,0,1,1
+Public Static Class,"org.junit.tests.manipulation.FilterTest.NamedFilter",3,1,1,0,2,8,3,1,33,1,1
+Public Class,"org.junit.tests.manipulation.FilterableTest",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.manipulation.FilterableTest.FilteredRunner",1,1,1,0,5,45,1,0,0,1,1
+Class,"org.junit.tests.manipulation.FilterableTest.FilteredRunner.FilteredRunner.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Static Class,"org.junit.tests.manipulation.FilterableTest.FilteredTest",4,1,1,0,1,4,4,3,0,1,1
+Public Class,"org.junit.tests.manipulation.SingleMethodTest",8,1,1,0,1,8,8,20,62,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.HasSuiteMethod",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.OneTimeSetup",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.OneTwoSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.ParameterizedOneTimeBeforeClass",4,1,1,0,1,4,4,4,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.ParameterizedOneTimeSetup",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.TestOne",2,1,1,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SingleMethodTest.TestTwo",2,1,1,0,1,2,2,1,0,1,1
+Class,"org.junit.tests.manipulation.SingleMethodTest.filteringAwayEverythingThrowsException.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Class,"org.junit.tests.manipulation.SortableTest",2,1,1,0,1,2,2,0,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortable",5,1,1,0,1,5,5,10,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortable.Enclosing",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortable.Enclosing.A",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortable.Enclosing.B",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortable.SortMe",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortableWithSuiteMethod",3,1,1,0,1,3,3,7,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.TestClassRunnerIsSortableWithSuiteMethod.SortMe",4,1,1,0,1,4,4,4,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.UnsortableRunnersAreHandledWithoutCrashing",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.UnsortableRunnersAreHandledWithoutCrashing.Unsortable",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.manipulation.SortableTest.UnsortableRunnersAreHandledWithoutCrashing.UnsortableRunner",3,1,1,0,2,6,3,2,0,1,1
+Class,"org.junit.tests.manipulation.SortableTest.backward.(Anon_2)",1,1,1,0,1,1,1,1,0,2,1
+Class,"org.junit.tests.manipulation.SortableTest.forward.(Anon_1)",1,1,1,0,1,1,1,1,0,2,1
+Package,"org.junit.tests.running",0,0,0,,,,0,,,,0
+Package,"org.junit.tests.running.classes",122,1,2,,,,118,,,,1
+Public Class,"org.junit.tests.running.classes.EnclosedTest",3,1,1,0,1,3,3,10,0,1,1
+Public Static Class,"org.junit.tests.running.classes.EnclosedTest.Enclosing",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.EnclosedTest.Enclosing.A",2,1,1,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.running.classes.EnclosedTest.Enclosing.B",3,1,1,0,1,3,3,1,0,1,1
+Public Class,"org.junit.tests.running.classes.IgnoreClassTest",1,1,1,0,1,1,1,6,0,1,1
+Public Static Class,"org.junit.tests.running.classes.IgnoreClassTest.IgnoreMe",2,1,1,0,1,2,2,2,0,1,1
+Public Class,"org.junit.tests.running.classes.ParameterizedTestTest",10,1,1,0,1,10,10,18,90,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.BeforeAndAfter",5,1,1,0,1,5,5,5,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.EmptyTest",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.FibonacciTest",4,1,1,0,1,4,4,3,50,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.IncorrectTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.PrivateConstructor",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.ProtectedParametersTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParameterizedTestTest.WrongElementType",2,1,1,0,1,2,2,2,0,1,1
+Public Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest",8,1,2,0,1,6,6,19,0,1,1
+Private Static Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.CountingFilter",5,1,2,0,2,8,3,1,33,1,1
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.ExampleSuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.ExampleSuiteWithUnmodifyableChildList",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.ExampleTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.SuiteWithUnmodifyableChildList",2,1,1,0,4,42,2,2,0,1,1
+Class,"org.junit.tests.running.classes.ParentRunnerFilteringTest.notThisMethodName.(Anon_1)",2,1,1,0,1,2,2,2,0,2,1
+Public Class,"org.junit.tests.running.classes.ParentRunnerTest",6,1,1,0,1,6,6,14,83,1,1
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerTest.ExampleTest",3,1,1,0,1,3,3,1,0,1,1
+Private Static Class,"org.junit.tests.running.classes.ParentRunnerTest.Exclude",3,1,1,0,2,8,3,1,0,1,1
+Public Static Class,"org.junit.tests.running.classes.ParentRunnerTest.FruitTest",2,1,1,0,1,2,2,2,0,1,1
+Class,"org.junit.tests.running.classes.ParentRunnerTest.isEmpty.(Anon_2)",2,1,1,0,1,2,2,0,0,2,1
+Class,"org.junit.tests.running.classes.ParentRunnerTest.useChildHarvester.(Anon_1)",2,1,1,0,1,2,2,1,0,2,1
+Public Class,"org.junit.tests.running.classes.RunWithTest",3,1,1,0,1,3,3,9,33,1,1
+Public Static Class,"org.junit.tests.running.classes.RunWithTest.BadRunner",2,1,1,0,2,5,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.classes.RunWithTest.Empty",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.RunWithTest.ExampleRunner",4,1,1,0,2,7,4,3,0,1,1
+Public Static Class,"org.junit.tests.running.classes.RunWithTest.ExampleTest",0,0,0,1,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.RunWithTest.SubExampleTest",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.junit.tests.running.classes.SuiteTest",13,1,1,0,1,13,13,25,92,1,1
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.All",0,0,0,1,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.AllWithBeforeAndAfterClass",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.AllWithOutAnnotation",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.BiInfiniteLoop",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.Hercules",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.Hydra",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.InfiniteLoop",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.InheritsAll",0,0,0,0,2,0,0,0,0,1,0
+Public Class,"org.junit.tests.running.classes.SuiteTest.NoSuiteClassesAnnotation",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.TestA",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.classes.SuiteTest.TestB",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"org.junit.tests.running.classes.SuiteTest.WithoutDefaultConstructor",1,1,1,0,1,1,1,0,0,1,1
+Public Class,"org.junit.tests.running.classes.TestClassTest",2,1,1,0,1,2,2,6,0,1,1
+Public Static Class,"org.junit.tests.running.classes.TestClassTest.ManyMethods",10,1,1,0,1,10,10,6,0,1,1
+Public Static Class,"org.junit.tests.running.classes.TestClassTest.SubclassWithField",0,0,0,0,2,0,0,2,0,1,0
+Public Static Class,"org.junit.tests.running.classes.TestClassTest.SuperclassWithField",0,0,0,1,1,0,0,2,0,1,0
+Public Static Class,"org.junit.tests.running.classes.TestClassTest.TwoConstructors",2,1,1,0,1,2,2,0,0,1,1
+Public Class,"org.junit.tests.running.classes.UseSuiteAsASuperclassTest",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.running.classes.UseSuiteAsASuperclassTest.AllWithMySuite",0,0,0,0,1,0,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.classes.UseSuiteAsASuperclassTest.MySuite",1,1,1,0,4,41,1,3,0,1,1
+Public Static Class,"org.junit.tests.running.classes.UseSuiteAsASuperclassTest.TestA",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.classes.UseSuiteAsASuperclassTest.TestB",1,1,1,0,1,1,1,2,0,1,1
+Package,"org.junit.tests.running.core",17,1,2,,,,16,,,,1
+Public Class,"org.junit.tests.running.core.CommandLineTest",6,1,1,0,1,6,6,8,70,1,1
+Public Static Class,"org.junit.tests.running.core.CommandLineTest.Count",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.core.CommandLineTest.Example",1,1,1,0,1,1,1,2,0,1,1
+Public Class,"org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest",4,1,1,0,1,4,4,4,0,1,1
+Public Static Class,"org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest.Fail",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest.Succeed",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.running.core.SystemExitTest",2,2,2,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.core.SystemExitTest.Exit",1,1,1,0,1,1,1,1,0,1,1
+Package,"org.junit.tests.running.methods",218,1,3,,,,211,,,,1
+Public Class,"org.junit.tests.running.methods.AnnotationTest",28,1,1,0,3,80,28,36,79,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.ErrorInAfterClass",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.ErrorInBeforeClass",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.ExceptionTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.FailureTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.NoExceptionTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.NonStaticOneTimeSetup",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.OldSuiteTest",1,1,1,0,3,53,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.OldTest",1,1,1,0,3,53,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.OneTimeSetup",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.OneTimeTeardown",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.OrderTest",5,1,1,0,1,5,5,6,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.RunAllAfterClasses",5,1,1,0,1,5,5,5,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.RunAllAfterClassesRegardless",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.RunAllAfters",5,1,1,0,1,5,5,4,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.RunAllAftersRegardless",3,1,1,0,1,3,3,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SetupFailureTest",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SetupTest",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SimpleTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SimpleTestWithFutureProofExplicitRunner",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SubInheritance",5,1,1,0,2,9,5,6,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SubShadowing",3,1,1,0,2,5,3,4,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SubTest",1,1,1,0,2,3,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SuperInheritance",4,1,1,1,1,4,4,5,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SuperShadowing",2,1,1,1,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.SuperTest",2,1,1,1,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.TeardownAfterFailureTest",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.TeardownFailureTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.TeardownTest",2,1,1,0,1,2,2,3,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.TestAndTeardownFailureTest",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.AnnotationTest.TwoTests",2,1,1,0,1,2,2,2,0,1,1
+Public Class,"org.junit.tests.running.methods.ExpectedTest",4,1,1,0,1,4,4,9,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ExpectedTest.ExpectSuperclass",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ExpectedTest.Expected",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ExpectedTest.NoneThrown",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ExpectedTest.Unexpected",1,1,1,0,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.running.methods.InheritedTestTest",2,1,1,0,1,2,2,6,0,1,1
+Public Static Class,"org.junit.tests.running.methods.InheritedTestTest.Sub",0,0,0,0,2,1,0,0,0,1,0
+Public Static Class,"org.junit.tests.running.methods.InheritedTestTest.SubWithBefore",1,1,1,0,2,2,1,2,0,1,1
+Public Static Abstract Class,"org.junit.tests.running.methods.InheritedTestTest.Super",1,1,1,2,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.running.methods.ParameterizedTestMethodTest",6,1,2,0,1,5,5,9,60,1,1
+Public Static Class,"org.junit.tests.running.methods.ParameterizedTestMethodTest.EverythingWrong",26,1,1,0,1,26,26,5,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ParameterizedTestMethodTest.SubShadows",1,1,1,0,2,2,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ParameterizedTestMethodTest.SubWrong",1,1,1,0,2,2,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.ParameterizedTestMethodTest.SuperWrong",1,1,1,2,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.running.methods.TestMethodTest",10,1,2,0,1,9,9,15,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.Confused",2,1,1,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.ConstructorParameter",2,1,1,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.EverythingWrong",26,1,1,0,1,26,26,5,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.IgnoredTest",3,1,1,0,1,3,3,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.OnlyTestIsIgnored",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.SubShadows",1,1,1,0,2,2,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.SubWrong",1,1,1,0,2,2,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TestMethodTest.SuperWrong",1,1,1,2,1,1,1,1,0,1,1
+Public Class,"org.junit.tests.running.methods.TimeoutTest",10,1,1,0,1,10,10,15,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.FailureWithTimeoutRunTimeExceptionTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.FailureWithTimeoutTest",1,1,1,0,1,1,1,2,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.ImpatientLoopTest",3,1,2,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.InfiniteLoopTest",4,2,3,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.SuccessWithTimeoutTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.TimeoutFailureTest",1,1,1,0,1,1,1,1,0,1,1
+Public Static Class,"org.junit.tests.running.methods.TimeoutTest.WillTimeOut",4,2,3,0,1,2,2,2,50,1,1
+Package,"org.junit.tests.validation",17,1,1,,,,17,,,,1
+Public Class,"org.junit.tests.validation.BadlyFormedClassesTest",4,1,1,0,1,4,4,10,0,1,1
+Public Static Class,"org.junit.tests.validation.BadlyFormedClassesTest.BadBeforeMethodWithLegacyRunner",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.validation.BadlyFormedClassesTest.FaultyConstructor",2,1,1,0,1,2,2,1,0,1,1
+Public Static Class,"org.junit.tests.validation.BadlyFormedClassesTest.NoTests",0,0,0,0,1,0,0,0,0,1,0
+Public Class,"org.junit.tests.validation.FailedConstructionTest",1,1,1,0,1,1,1,7,0,1,1
+Public Static Class,"org.junit.tests.validation.FailedConstructionTest.CantConstruct",2,1,1,0,1,2,2,1,0,1,1
+Public Class,"org.junit.tests.validation.InaccessibleBaseClassTest",1,1,1,0,1,1,1,4,0,1,1
+Public Class,"org.junit.tests.validation.ValidationTest",2,1,1,0,1,2,2,8,0,1,1
+Public Static Class,"org.junit.tests.validation.ValidationTest.NonStaticBeforeClass",2,1,1,0,1,2,2,2,0,1,1
+Public Static Class,"org.junit.tests.validation.ValidationTest.WrongBeforeClass",1,1,1,0,1,1,1,1,0,1,1
+Package,"org.junit.tests.validation.anotherpackage",1,1,1,,,,1,,,,1
+Public Class,"org.junit.tests.validation.anotherpackage.Sub",0,0,0,0,2,1,0,0,0,1,0
+Class,"org.junit.tests.validation.anotherpackage.Super",1,1,1,1,1,1,1,1,0,1,1

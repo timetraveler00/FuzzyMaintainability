@@ -1,0 +1,442 @@
+Kind,Name,Essential,Cyclomatic,CyclomaticModified,CyclomaticStrict
+Public Method,"com.nostra13.example.universalimageloader.BaseActivity.onCreateOptionsMenu",1,1,1,1
+Protected Method,"com.nostra13.example.universalimageloader.BaseActivity.onDestroy",1,2,2,2
+Public Method,"com.nostra13.example.universalimageloader.BaseActivity.onOptionsItemSelected",1,3,2,3
+Public Method,"com.nostra13.example.universalimageloader.BaseActivity.onSaveInstanceState",1,1,1,1
+Private Constructor,"com.nostra13.example.universalimageloader.Constants.Constants",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.HomeActivity.onCreate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.HomeActivity.onImageGalleryClick",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.HomeActivity.onImageGridClick",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.HomeActivity.onImageListClick",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.HomeActivity.onImagePagerClick",1,1,1,1
+Constructor,"com.nostra13.example.universalimageloader.ImageGalleryActivity.ImagePagerAdapter.ImagePagerAdapter",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGalleryActivity.ImagePagerAdapter.getCount",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGalleryActivity.ImagePagerAdapter.getItem",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGalleryActivity.ImagePagerAdapter.getItemId",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGalleryActivity.ImagePagerAdapter.getView",1,2,2,2
+Public Method,"com.nostra13.example.universalimageloader.ImageGalleryActivity.onCreate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.ImageAdapter.getCount",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.ImageAdapter.getItem",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.ImageAdapter.getItemId",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.ImageAdapter.getView",1,2,2,2
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.onCreate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageGridActivity.onCreate.(Anon_1).onItemClick",1,1,1,1
+Private Method,"com.nostra13.example.universalimageloader.ImageGridActivity.startImageGalleryActivity",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.ItemAdapter.getCount",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.ItemAdapter.getItem",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.ItemAdapter.getItemId",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.ItemAdapter.getView",1,2,2,2
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.onCreate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImageListActivity.onCreate.(Anon_1).onItemClick",1,1,1,1
+Private Method,"com.nostra13.example.universalimageloader.ImageListActivity.startImageGalleryActivity",1,1,1,1
+Constructor,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.ImagePagerAdapter",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.destroyItem",1,3,3,3
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.finishUpdate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.getCount",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.instantiateItem",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.instantiateItem.(Anon_1).onLoadingComplete",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.instantiateItem.(Anon_1).onLoadingFailed",1,4,2,4
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.instantiateItem.(Anon_1).onLoadingStarted",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.isViewFromObject",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.restoreState",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.saveState",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.ImagePagerAdapter.startUpdate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.ImagePagerActivity.onCreate",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.UILApplication.onCreate",1,1,1,1
+Public Constructor,"com.nostra13.example.universalimageloader.downloader.ExtendedImageDownloader.ExtendedImageDownloader",1,1,1,1
+Private Method,"com.nostra13.example.universalimageloader.downloader.ExtendedImageDownloader.getStreamFromAssets",1,1,1,1
+Private Method,"com.nostra13.example.universalimageloader.downloader.ExtendedImageDownloader.getStreamFromDrawable",1,1,1,1
+Protected Method,"com.nostra13.example.universalimageloader.downloader.ExtendedImageDownloader.getStreamFromOtherSource",3,3,3,3
+Public Method,"com.nostra13.example.universalimageloader.widget.UILWidgetProvider.onUpdate",1,2,2,2
+Static Method,"com.nostra13.example.universalimageloader.widget.UILWidgetProvider.updateAppWidget",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.widget.UILWidgetProvider.updateAppWidget.(Anon_1).onLoadingComplete",1,1,1,1
+Public Method,"com.nostra13.example.universalimageloader.widget.UILWidgetProvider.updateAppWidget.(Anon_2).onLoadingComplete",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.BaseDiscCache.BaseDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.BaseDiscCache.BaseDiscCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.BaseDiscCache.clear",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.cache.disc.BaseDiscCache.get",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.disc.BaseDiscCache.getCacheDir",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.disc.DiscCacheAware.clear",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.disc.DiscCacheAware.get",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.disc.DiscCacheAware.put",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.LimitedDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.LimitedDiscCache",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.calculateCacheSizeAndFillUsageMap",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.clear",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.get",1,1,1,1
+Protected Abstract Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.getSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.put",3,3,3,3
+Private Method,"com.nostra13.universalimageloader.cache.disc.LimitedDiscCache.removeNext",1,6,6,6
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.FileCountLimitedDiscCache.FileCountLimitedDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.FileCountLimitedDiscCache.FileCountLimitedDiscCache",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.disc.impl.FileCountLimitedDiscCache.getSize",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache.LimitedAgeDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache.LimitedAgeDiscCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache.get",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache.put",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.cache.disc.impl.LimitedAgeDiscCache.readLoadingDates",1,2,2,2
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.TotalSizeLimitedDiscCache.TotalSizeLimitedDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.TotalSizeLimitedDiscCache.TotalSizeLimitedDiscCache",1,2,2,2
+Protected Method,"com.nostra13.universalimageloader.cache.disc.impl.TotalSizeLimitedDiscCache.getSize",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache.UnlimitedDiscCache",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache.UnlimitedDiscCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache.put",1,1,1,1
+Public Abstract Method,"com.nostra13.universalimageloader.cache.disc.naming.FileNameGenerator.generate",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.naming.HashCodeFileNameGenerator.generate",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator.generate",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator.getMD5",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.clear",1,1,1,1
+Protected Abstract Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.createReference",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.get",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.keys",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.put",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.BaseMemoryCache.remove",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.LimitedMemoryCache",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.clear",1,1,1,1
+Protected Abstract Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.getSize",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.getSizeLimit",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.put",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.remove",1,3,3,3
+Protected Abstract Method,"com.nostra13.universalimageloader.cache.memory.LimitedMemoryCache.removeNext",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.memory.MemoryCacheAware.clear",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.memory.MemoryCacheAware.get",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.memory.MemoryCacheAware.keys",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.memory.MemoryCacheAware.put",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.cache.memory.MemoryCacheAware.remove",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.FIFOLimitedMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.clear",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.createReference",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.getSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.put",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.remove",1,2,2,2
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.FIFOLimitedMemoryCache.removeNext",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.FuzzyKeyMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.clear",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.get",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.keys",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.put",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.FuzzyKeyMemoryCache.remove",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.LRULimitedMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.clear",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.createReference",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.get",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.getSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.put",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.remove",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache.removeNext",1,2,2,2
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.LargestLimitedMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.clear",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.createReference",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.getSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.put",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.remove",1,2,2,2
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.LargestLimitedMemoryCache.removeNext",1,4,4,4
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.LimitedAgeMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.clear",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.get",1,2,2,3
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.keys",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.put",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.LimitedAgeMemoryCache.remove",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.UsingFreqLimitedMemoryCache",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.clear",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.createReference",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.get",1,3,3,3
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.getSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.put",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.remove",1,2,2,2
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.UsingFreqLimitedMemoryCache.removeNext",1,4,4,4
+Protected Method,"com.nostra13.universalimageloader.cache.memory.impl.WeakMemoryCache.createReference",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.DefaultConfigurationFactory.createBitmapDisplayer",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.DefaultConfigurationFactory.createDiscCache",3,3,3,3
+Public Static Method,"com.nostra13.universalimageloader.core.DefaultConfigurationFactory.createFileNameGenerator",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.DefaultConfigurationFactory.createImageDownloader",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.DefaultConfigurationFactory.createMemoryCache",1,2,2,2
+Public Constructor,"com.nostra13.universalimageloader.core.DisplayBitmapTask.DisplayBitmapTask",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.DisplayBitmapTask.isViewWasReused",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayBitmapTask.run",1,4,4,4
+Method,"com.nostra13.universalimageloader.core.DisplayBitmapTask.setLoggingEnabled",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.bitmapConfig",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.build",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.cacheInMemory",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.cacheOnDisc",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.cloneFrom",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.delayBeforeLoading",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.displayer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.imageScaleType",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.resetViewBeforeLoading",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.showImageForEmptyUri",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.Builder.showStubImage",1,1,1,1
+Private Constructor,"com.nostra13.universalimageloader.core.DisplayImageOptions.DisplayImageOptions",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.createSimple",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getBitmapConfig",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getDelayBeforeLoading",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getDisplayer",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getImageForEmptyUri",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getImageScaleType",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.getStubImage",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isCacheInMemory",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isCacheOnDisc",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isDelayBeforeLoading",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isResetViewBeforeLoading",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isShowImageForEmptyUri",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.DisplayImageOptions.isShowStubImage",1,1,1,1
+Constructor,"com.nostra13.universalimageloader.core.ImageDecoder.ImageDecoder",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageDecoder.computeImageScale",1,8,8,12
+Public Method,"com.nostra13.universalimageloader.core.ImageDecoder.decode",1,3,3,4
+Public Method,"com.nostra13.universalimageloader.core.ImageDecoder.decode",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageDecoder.getBitmapOptionsForImageDecoding",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageDecoder.scaleImageExactly",1,5,5,13
+Method,"com.nostra13.universalimageloader.core.ImageDecoder.setLoggingEnabled",1,1,1,1
+Protected Constructor,"com.nostra13.universalimageloader.core.ImageLoader.ImageLoader",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.cancelDisplayTask",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.clearDiscCache",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.clearMemoryCache",1,2,2,2
+Private Method,"com.nostra13.universalimageloader.core.ImageLoader.createExecutor",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.displayImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.displayImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.displayImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.displayImage",3,12,12,14
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.getDiscCache",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageLoader.getFieldValue",1,3,3,4
+Private Method,"com.nostra13.universalimageloader.core.ImageLoader.getImageSizeScaleTo",1,7,7,7
+Public Static Method,"com.nostra13.universalimageloader.core.ImageLoader.getInstance",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.getLoadingUriForView",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageLoader.getLockForUri",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.getMemoryCache",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.ImageLoader.getPause",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.init",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.ImageLoader.initExecutorsIfNeed",1,3,3,5
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.loadImage",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.loadImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.loadImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.loadImage",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.pause",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.resume",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoader.stop",1,3,3,3
+Public Constructor,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.Builder",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.build",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.defaultDisplayImageOptions",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.denyCacheImageMultipleSizesInMemory",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.discCache",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.discCacheExtraOptions",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.discCacheFileCount",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.discCacheFileNameGenerator",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.discCacheSize",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.enableLogging",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.imageDownloader",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.initEmptyFiledsWithDefaultValues",1,6,6,6
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.memoryCache",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.memoryCacheExtraOptions",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.memoryCacheSize",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.offOutOfMemoryHandling",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.tasksProcessingOrder",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.threadPoolSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.Builder.threadPriority",1,3,3,3
+Private Constructor,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.ImageLoaderConfiguration",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.ImageLoaderConfiguration.(Anon_1).newThread",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.ImageLoaderConfiguration.createDefault",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.ImageLoadingInfo.ImageLoadingInfo",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.LoadAndDisplayImageTask",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.checkTaskIsInterrupted",1,2,2,3
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.checkTaskIsNotActual",1,3,3,4
+Public Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.checkTaskIsNotActual.(Anon_1).run",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.decodeImage",1,2,2,2
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.decodeWithOOMHandling",3,6,4,6
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.fireImageLoadingFailedEvent",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.fireImageLoadingFailedEvent.(Anon_2).run",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.run",12,20,20,22
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.saveImageOnDisc",3,3,3,4
+Private Method,"com.nostra13.universalimageloader.core.LoadAndDisplayImageTask.tryLoadBitmap",6,12,12,12
+Public Method,"com.nostra13.universalimageloader.core.assist.FailReason.valueOf",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.FailReason.values",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.assist.FlushedInputStream.FlushedInputStream",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.FlushedInputStream.skip",4,4,4,4
+Abstract Method,"com.nostra13.universalimageloader.core.assist.ImageLoadingListener.onLoadingCancelled",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.ImageLoadingListener.onLoadingComplete",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.ImageLoadingListener.onLoadingFailed",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.ImageLoadingListener.onLoadingStarted",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ImageScaleType.valueOf",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ImageScaleType.values",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.assist.ImageSize.ImageSize",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ImageSize.getHeight",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ImageSize.getWidth",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ImageSize.toString",1,1,1,1
+Private Constructor,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.MemoryCacheUtil",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.createFuzzyKeyComparator",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.createFuzzyKeyComparator.(Anon_1).compare",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.findCacheKeysForImageUri",1,3,3,3
+Public Static Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.findCachedBitmapsForImageUri",1,3,3,3
+Public Static Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.generateKey",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.assist.MemoryCacheUtil.removeFromCache",1,4,4,4
+Public Constructor,"com.nostra13.universalimageloader.core.assist.PauseOnScrollListener.PauseOnScrollListener",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.assist.PauseOnScrollListener.PauseOnScrollListener",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.PauseOnScrollListener.onScroll",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.PauseOnScrollListener.onScrollStateChanged",1,7,5,7
+Public Method,"com.nostra13.universalimageloader.core.assist.QueueProcessingType.valueOf",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.QueueProcessingType.values",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener.onLoadingCancelled",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener.onLoadingComplete",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener.onLoadingFailed",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.SimpleImageLoadingListener.onLoadingStarted",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.core.assist.ViewScaleType.fromImageView",1,9,2,9
+Public Method,"com.nostra13.universalimageloader.core.assist.ViewScaleType.valueOf",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.ViewScaleType.values",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.add",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.addFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.addLast",1,1,1,1
+Public Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.contains",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.element",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.iterator",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offer",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offer",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offerFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offerFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offerLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.offerLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.peek",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.poll",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.poll",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.pollFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.pollLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.push",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.put",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.putFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.putLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.remove",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.remove",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.removeFirstOccurrence",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.removeLastOccurrence",1,1,1,1
+Public Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.size",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.take",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.takeFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.BlockingDeque.takeLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.add",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.addFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.addLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.contains",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.descendingIterator",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.element",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.getFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.getLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.iterator",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.offer",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.offerFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.offerLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.peek",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.peekFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.peekLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.poll",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.pollFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.pollLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.pop",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.push",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.remove",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.remove",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.removeFirst",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.removeFirstOccurrence",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.removeLast",1,1,1,1
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.removeLastOccurrence",1,1,1,1
+Public Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.Deque.size",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LIFOLinkedBlockingDeque.offer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LIFOLinkedBlockingDeque.remove",1,1,1,1
+Constructor,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.AbstractItr",1,2,2,2
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.advance",1,2,2,2
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.firstNode",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.hasNext",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.next",1,2,2,2
+Abstract Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.nextNode",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.remove",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.AbstractItr.succ",5,5,5,5
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.DescendingItr.firstNode",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.DescendingItr.nextNode",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.Itr.firstNode",1,1,1,1
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.Itr.nextNode",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.LinkedBlockingDeque",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.LinkedBlockingDeque",1,2,2,2
+Public Constructor,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.LinkedBlockingDeque",1,4,4,4
+Constructor,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.Node.Node",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.add",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.addFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.addLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.clear",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.contains",4,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.descendingIterator",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.drainTo",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.drainTo",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.element",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.getFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.getLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.iterator",1,1,1,1
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.linkFirst",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.linkLast",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offerFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offerFirst",3,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offerLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.offerLast",3,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.peek",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.peekFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.peekLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.poll",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.poll",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.pollFirst",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.pollFirst",3,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.pollLast",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.pollLast",3,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.pop",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.push",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.put",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.putFirst",1,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.putLast",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.readObject",3,3,3,3
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.remainingCapacity",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.remove",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.remove",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.removeFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.removeFirstOccurrence",4,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.removeLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.removeLastOccurrence",4,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.size",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.take",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.takeFirst",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.takeLast",1,2,2,2
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.toArray",1,2,2,2
+Public Generic Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.toArray",1,4,4,4
+Public Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.toString",4,5,5,5
+Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.unlink",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.unlinkFirst",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.unlinkLast",1,3,3,3
+Private Method,"com.nostra13.universalimageloader.core.assist.deque.LinkedBlockingDeque.writeObject",1,2,2,2
+Abstract Method,"com.nostra13.universalimageloader.core.display.BitmapDisplayer.display",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer.FadeInBitmapDisplayer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer.display",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.display.FakeBitmapDisplayer.display",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer.RoundedBitmapDisplayer",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer.display",1,2,2,2
+Private Method,"com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer.getRoundedCornerBitmap",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.display.SimpleBitmapDisplayer.display",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.download.HttpClientImageDownloader.HttpClientImageDownloader",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.core.download.HttpClientImageDownloader.getStreamFromNetwork",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.download.ImageDownloader.getStream",3,3,3,5
+Protected Method,"com.nostra13.universalimageloader.core.download.ImageDownloader.getStreamFromFile",1,1,1,1
+Protected Abstract Method,"com.nostra13.universalimageloader.core.download.ImageDownloader.getStreamFromNetwork",1,1,1,1
+Protected Method,"com.nostra13.universalimageloader.core.download.ImageDownloader.getStreamFromOtherSource",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.download.URLConnectionImageDownloader.URLConnectionImageDownloader",1,1,1,1
+Public Constructor,"com.nostra13.universalimageloader.core.download.URLConnectionImageDownloader.URLConnectionImageDownloader",1,1,1,1
+Public Method,"com.nostra13.universalimageloader.core.download.URLConnectionImageDownloader.getStreamFromNetwork",1,1,1,1
+Private Constructor,"com.nostra13.universalimageloader.utils.FileUtils.FileUtils",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.FileUtils.copyStream",3,3,3,3
+Private Constructor,"com.nostra13.universalimageloader.utils.L.L",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.L.d",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.L.e",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.L.e",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.L.e",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.L.i",1,1,1,1
+Private Static Method,"com.nostra13.universalimageloader.utils.L.log",1,4,4,4
+Public Static Method,"com.nostra13.universalimageloader.utils.L.w",1,1,1,1
+Private Constructor,"com.nostra13.universalimageloader.utils.StorageUtils.StorageUtils",1,1,1,1
+Public Static Method,"com.nostra13.universalimageloader.utils.StorageUtils.getCacheDirectory",1,3,3,3
+Private Static Method,"com.nostra13.universalimageloader.utils.StorageUtils.getExternalCacheDir",3,4,4,4
+Public Static Method,"com.nostra13.universalimageloader.utils.StorageUtils.getIndividualCacheDirectory",1,3,3,3
+Public Static Method,"com.nostra13.universalimageloader.utils.StorageUtils.getOwnCacheDirectory",1,3,3,5

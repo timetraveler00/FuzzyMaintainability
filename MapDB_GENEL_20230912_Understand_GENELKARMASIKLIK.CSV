@@ -1,0 +1,2916 @@
+Kind,Name,Essential,Cyclomatic,CyclomaticModified,CyclomaticStrict
+Public Static Method,"examples.Bidi_Map.main",1,2,2,2
+Public Static Method,"examples.Cache.main",1,2,2,2
+Public Static Method,"examples.Compression.main",1,1,1,1
+Public Constructor,"examples.Custom_Value.Person.Person",1,1,1,1
+Public Method,"examples.Custom_Value.Person.equals",5,7,7,8
+Public Method,"examples.Custom_Value.Person.getCity",1,1,1,1
+Public Method,"examples.Custom_Value.Person.getName",1,1,1,1
+Public Static Method,"examples.Custom_Value.main",1,1,1,1
+Public Method,"examples.Custom_Value.main.CustomSerializer.deserialize",1,1,1,1
+Public Method,"examples.Custom_Value.main.CustomSerializer.serialize",1,1,1,1
+Protected Method,"examples.DBMakerExtend.ExtendedDBMaker.extendWrapStore",1,2,2,2
+Method,"examples.DBMakerExtend.ExtendedDBMaker.loggingDisable",1,1,1,1
+Public Static Method,"examples.DBMakerExtend.main",1,1,1,1
+Public Static Method,"examples.Histogram.main",1,2,2,2
+Public Method,"examples.Histogram.main.(Anon_1).run",4,4,4,4
+Public Static Method,"examples.Huge_Insert.main",1,1,1,1
+Public Method,"examples.Huge_Insert.main.(Anon_1).hasNext",1,1,1,1
+Public Method,"examples.Huge_Insert.main.(Anon_1).next",1,1,1,1
+Public Method,"examples.Huge_Insert.main.(Anon_1).remove",1,1,1,1
+Public Method,"examples.Huge_Insert.main.(Anon_2).run",1,1,1,1
+Public Static Method,"examples.Lazily_Loaded_Records.main",1,1,1,1
+Public Static Method,"examples.Map_Size_Counter.main",1,1,1,1
+Public Static Method,"examples.MultiMap.main",1,2,2,2
+Public Static Method,"examples.Pump_InMemory_Import_Then_Save_To_Disk.main",1,2,2,2
+Public Static Method,"examples.SQL_Auto_Incremental_Unique_Key.main",1,1,1,1
+Public Static Method,"examples.Secondary_Key.main",1,1,1,1
+Public Method,"examples.Secondary_Key.main.(Anon_1).run",1,1,1,1
+Public Static Method,"examples.Secondary_Map.main",1,1,1,1
+Public Method,"examples.Secondary_Map.main.(Anon_1).run",1,1,1,1
+Public Static Method,"examples.Transactions.main",1,3,3,3
+Public Static Method,"examples.Transactions2.main",1,1,1,1
+Public Method,"examples.Transactions2.main.(Anon_1).tx",1,1,1,1
+Public Static Method,"examples.TreeMap_Composite_Key.main",1,7,7,7
+Public Static Method,"examples.TreeMap_Performance_Tunning.main",1,5,5,5
+Public Static Method,"examples._HelloWorld.main",1,1,1,1
+Public Static Method,"examples._TempMap.main",1,1,1,1
+Public Constructor,"org.mapdb.AsyncWriteEngine.AsyncWriteEngine",1,1,1,1
+Public Constructor,"org.mapdb.AsyncWriteEngine.AsyncWriteEngine",1,1,1,1
+Public Constructor,"org.mapdb.AsyncWriteEngine.WriterRunnable.WriterRunnable",1,1,1,1
+Public Method,"org.mapdb.AsyncWriteEngine.WriterRunnable.run",6,9,9,9
+Protected Method,"org.mapdb.AsyncWriteEngine.checkState",1,3,3,3
+Public Method,"org.mapdb.AsyncWriteEngine.clearCache",1,3,3,3
+Public Method,"org.mapdb.AsyncWriteEngine.close",3,5,5,5
+Public Method,"org.mapdb.AsyncWriteEngine.commit",1,4,4,4
+Public Method,"org.mapdb.AsyncWriteEngine.compact",1,4,4,4
+Public Generic Method,"org.mapdb.AsyncWriteEngine.compareAndSwap",1,3,3,5
+Public Generic Method,"org.mapdb.AsyncWriteEngine.delete",1,1,1,1
+Public Generic Method,"org.mapdb.AsyncWriteEngine.get",3,3,3,3
+Public Method,"org.mapdb.AsyncWriteEngine.preallocate",1,2,2,2
+Public Method,"org.mapdb.AsyncWriteEngine.preallocate",1,2,2,2
+Protected Method,"org.mapdb.AsyncWriteEngine.preallocateRefill",1,2,2,2
+Protected Method,"org.mapdb.AsyncWriteEngine.preallocateRollback",1,1,1,1
+Public Generic Method,"org.mapdb.AsyncWriteEngine.put",1,1,1,1
+Public Method,"org.mapdb.AsyncWriteEngine.rollback",1,4,4,4
+Protected Method,"org.mapdb.AsyncWriteEngine.runWriter",6,12,12,13
+Protected Method,"org.mapdb.AsyncWriteEngine.startThreads",1,2,2,2
+Public Generic Method,"org.mapdb.AsyncWriteEngine.update",1,3,3,3
+Public Method,"org.mapdb.AsyncWriteEngineTest.async_commit",1,3,3,3
+Public Generic Method,"org.mapdb.AsyncWriteEngineTest.async_commit.(Anon_2).put",1,1,1,1
+Public Generic Method,"org.mapdb.AsyncWriteEngineTest.async_commit.(Anon_2).update",1,1,1,1
+Public Method,"org.mapdb.AsyncWriteEngineTest.concurrent_updates_test",1,4,4,4
+Public Method,"org.mapdb.AsyncWriteEngineTest.concurrent_updates_test.(for_loop_1).(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.AsyncWriteEngineTest.reopenStore",1,2,2,2
+Public Method,"org.mapdb.AsyncWriteEngineTest.write_fetch_update_delete",1,1,1,1
+Private Constructor,"org.mapdb.Atomic.Atomic",1,1,1,1
+Public Constructor,"org.mapdb.Atomic.Boolean.Boolean",1,1,1,1
+Public Method,"org.mapdb.Atomic.Boolean.compareAndSet",1,1,1,1
+Public Method,"org.mapdb.Atomic.Boolean.get",1,1,1,1
+Public Method,"org.mapdb.Atomic.Boolean.getAndSet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Boolean.set",1,1,1,1
+Public Method,"org.mapdb.Atomic.Boolean.toString",1,1,1,1
+Public Constructor,"org.mapdb.Atomic.Integer.Integer",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.addAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.compareAndSet",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.decrementAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.doubleValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.floatValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.get",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.getAndAdd",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.getAndDecrement",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.getAndIncrement",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.getAndSet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.incrementAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Integer.intValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.longValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.set",1,1,1,1
+Public Method,"org.mapdb.Atomic.Integer.toString",1,1,1,1
+Public Constructor,"org.mapdb.Atomic.Long.Long",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.addAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.compareAndSet",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.decrementAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.doubleValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.floatValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.get",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.getAndAdd",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.getAndDecrement",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.getAndIncrement",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.getAndSet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.incrementAndGet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Long.intValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.longValue",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.set",1,1,1,1
+Public Method,"org.mapdb.Atomic.Long.toString",1,1,1,1
+Public Constructor,"org.mapdb.Atomic.String.String",1,1,1,1
+Public Method,"org.mapdb.Atomic.String.compareAndSet",1,1,1,1
+Public Method,"org.mapdb.Atomic.String.get",1,1,1,1
+Public Method,"org.mapdb.Atomic.String.getAndSet",3,3,3,3
+Public Method,"org.mapdb.Atomic.String.set",1,1,1,1
+Public Method,"org.mapdb.Atomic.String.toString",1,1,1,1
+Public Constructor,"org.mapdb.Atomic.Var.Var",1,1,1,1
+Public Method,"org.mapdb.Atomic.Var.compareAndSet",1,1,1,1
+Public Method,"org.mapdb.Atomic.Var.get",1,1,1,1
+Public Method,"org.mapdb.Atomic.Var.getAndSet",3,3,3,3
+Public Method,"org.mapdb.Atomic.Var.set",1,1,1,1
+Public Method,"org.mapdb.Atomic.Var.toString",1,2,2,2
+Public Method,"org.mapdb.AtomicBooleanTest.testCompareAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testCompareAndSetInMultipleThreads",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testCompareAndSetInMultipleThreads.(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.AtomicBooleanTest.testConstructor",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testConstructor2",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testGetAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testGetSet",1,1,1,1
+Public Method,"org.mapdb.AtomicBooleanTest.testToString",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testAddAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testCompareAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testCompareAndSetInMultipleThreads",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testCompareAndSetInMultipleThreads.(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.AtomicIntegerTest.testConstructor",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testConstructor2",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testDecrementAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testDoubleValue",1,2,2,2
+Public Method,"org.mapdb.AtomicIntegerTest.testFloatValue",1,2,2,2
+Public Method,"org.mapdb.AtomicIntegerTest.testGetAndAdd",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testGetAndDecrement",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testGetAndIncrement",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testGetAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testGetSet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testIncrementAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicIntegerTest.testLongValue",1,2,2,2
+Public Method,"org.mapdb.AtomicIntegerTest.testToString",1,2,2,2
+Public Method,"org.mapdb.AtomicLongTest.testAddAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testCompareAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testCompareAndSetInMultipleThreads",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testCompareAndSetInMultipleThreads.(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.AtomicLongTest.testConstructor",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testConstructor2",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testDecrementAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testDoubleValue",1,2,2,2
+Public Method,"org.mapdb.AtomicLongTest.testFloatValue",1,2,2,2
+Public Method,"org.mapdb.AtomicLongTest.testGetAndAdd",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testGetAndDecrement",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testGetAndIncrement",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testGetAndSet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testGetSet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testIncrementAndGet",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testLongValue",1,2,2,2
+Public Method,"org.mapdb.AtomicLongTest.testTX",1,1,1,1
+Public Method,"org.mapdb.AtomicLongTest.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_1).deserialize",1,2,2,2
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_1).serialize",1,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_2).deserialize",1,2,2,2
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_2).serialize",1,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_3).deserialize",3,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializer.(Anon_3).serialize",1,2,2,2
+Constructor,"org.mapdb.BTreeKeySerializer.BasicKeySerializer.BasicKeySerializer",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializer.BasicKeySerializer.deserialize",1,2,2,2
+Public Method,"org.mapdb.BTreeKeySerializer.BasicKeySerializer.serialize",1,2,2,2
+Public Constructor,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.Tuple2KeySerializer",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.deserialize",1,4,4,4
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.equals",6,9,9,10
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.hashCode",1,4,4,4
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple2KeySerializer.serialize",1,4,4,5
+Public Constructor,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.Tuple3KeySerializer",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.deserialize",1,6,6,6
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.equals",8,13,13,14
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.hashCode",1,6,6,6
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple3KeySerializer.serialize",1,6,6,8
+Public Constructor,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.Tuple4KeySerializer",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.deserialize",1,8,8,8
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.equals",10,17,17,18
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.hashCode",1,8,8,8
+Public Method,"org.mapdb.BTreeKeySerializer.Tuple4KeySerializer.serialize",1,8,8,11
+Public Abstract Method,"org.mapdb.BTreeKeySerializer.deserialize",1,1,1,1
+Public Static Method,"org.mapdb.BTreeKeySerializer.leadingValuePackRead",1,4,4,4
+Public Static Method,"org.mapdb.BTreeKeySerializer.leadingValuePackWrite",5,7,7,7
+Public Abstract Method,"org.mapdb.BTreeKeySerializer.serialize",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializerTest.testLong",1,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializerTest.testString",1,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple2",1,3,3,3
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple2_simple",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple3",1,4,4,4
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple3_simple",1,1,1,1
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple4",1,5,5,5
+Public Method,"org.mapdb.BTreeKeySerializerTest.tuple4_simple",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.child",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.highKey",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.isLeaf",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.keys",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.next",1,1,1,1
+Abstract Method,"org.mapdb.BTreeMap.BNode.vals",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.BTreeEntryIterator.BTreeEntryIterator",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.BTreeEntryIterator.BTreeEntryIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.BTreeEntryIterator.next",1,2,2,2
+Constructor,"org.mapdb.BTreeMap.BTreeIterator.BTreeIterator",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.BTreeIterator.BTreeIterator",1,6,6,9
+Protected Method,"org.mapdb.BTreeMap.BTreeIterator.advance",6,8,8,11
+Public Method,"org.mapdb.BTreeMap.BTreeIterator.hasNext",1,1,1,1
+Private Method,"org.mapdb.BTreeMap.BTreeIterator.pointToStart",3,4,4,4
+Public Method,"org.mapdb.BTreeMap.BTreeIterator.remove",1,2,2,2
+Constructor,"org.mapdb.BTreeMap.BTreeKeyIterator.BTreeKeyIterator",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.BTreeKeyIterator.BTreeKeyIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.BTreeKeyIterator.next",1,2,2,2
+Public Constructor,"org.mapdb.BTreeMap.BTreeMap",1,8,8,9
+Constructor,"org.mapdb.BTreeMap.BTreeValueIterator.BTreeValueIterator",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.BTreeValueIterator.BTreeValueIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.BTreeValueIterator.next",1,2,2,2
+Public Constructor,"org.mapdb.BTreeMap.DescendingMap.DescendingMap",1,2,2,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.Iter.advance",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.Iter.hasNext",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.Iter.remove",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.ceilingEntry",4,5,5,6
+Public Method,"org.mapdb.BTreeMap.DescendingMap.ceilingKey",1,2,2,2
+Private Method,"org.mapdb.BTreeMap.DescendingMap.checkKeyBounds",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.DescendingMap.clear",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.containsKey",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.DescendingMap.containsValue",3,4,4,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.descendingKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.descendingMap",1,2,2,3
+Method,"org.mapdb.BTreeMap.DescendingMap.entryIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.entryIterator.(Anon_3).next",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.entrySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.firstEntry",1,3,3,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.firstKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.floorEntry",4,5,5,6
+Public Method,"org.mapdb.BTreeMap.DescendingMap.floorKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.get",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.DescendingMap.headMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.headMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.higherEntry",3,5,5,6
+Public Method,"org.mapdb.BTreeMap.DescendingMap.higherKey",1,2,2,2
+Private Method,"org.mapdb.BTreeMap.DescendingMap.inBounds",1,1,1,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.isEmpty",1,1,1,1
+Method,"org.mapdb.BTreeMap.DescendingMap.keyIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.keyIterator.(Anon_1).next",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.keySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.lastEntry",1,3,3,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.lastKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.lowerEntry",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.DescendingMap.lowerKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.navigableKeySet",1,1,1,1
+Private Method,"org.mapdb.BTreeMap.DescendingMap.newSubMap",1,7,7,13
+Public Method,"org.mapdb.BTreeMap.DescendingMap.pollFirstEntry",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.pollLastEntry",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.DescendingMap.put",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.putIfAbsent",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.remove",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.remove",1,1,1,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.replace",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.replace",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.size",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.subMap",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.DescendingMap.subMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.tailMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DescendingMap.tailMap",1,1,1,1
+Private Method,"org.mapdb.BTreeMap.DescendingMap.tooHigh",3,3,3,5
+Private Method,"org.mapdb.BTreeMap.DescendingMap.tooLow",3,3,3,5
+Method,"org.mapdb.BTreeMap.DescendingMap.valueIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DescendingMap.valueIterator.(Anon_2).next",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.DirNode.DirNode",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.DirNode.DirNode",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.DirNode.child",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.highKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.isLeaf",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.keys",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.next",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.toString",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.DirNode.vals",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.EntrySet.EntrySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.EntrySet.clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.EntrySet.contains",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.EntrySet.equals",5,5,5,6
+Public Method,"org.mapdb.BTreeMap.EntrySet.isEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.EntrySet.iterator",3,3,3,3
+Public Method,"org.mapdb.BTreeMap.EntrySet.remove",3,3,3,3
+Public Method,"org.mapdb.BTreeMap.EntrySet.size",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.EntrySet.toArray",1,1,1,1
+Public Generic Method,"org.mapdb.BTreeMap.EntrySet.toArray",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.KeySet.KeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.add",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.KeySet.ceiling",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.contains",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.descendingIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.descendingSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.equals",5,5,5,6
+Public Method,"org.mapdb.BTreeMap.KeySet.first",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.floor",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.headSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.headSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.higher",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.isEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.iterator",3,3,3,3
+Public Method,"org.mapdb.BTreeMap.KeySet.last",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.lower",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.pollFirst",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.KeySet.pollLast",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.KeySet.remove",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.size",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.subSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.subSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.tailSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.tailSet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.KeySet.toArray",1,1,1,1
+Public Generic Method,"org.mapdb.BTreeMap.KeySet.toArray",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.LeafNode.LeafNode",1,1,1,2
+Public Method,"org.mapdb.BTreeMap.LeafNode.child",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.highKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.isLeaf",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.keys",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.next",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.toString",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.LeafNode.vals",1,1,1,1
+Public Constructor,"org.mapdb.BTreeMap.NodeSerializer.NodeSerializer",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.NodeSerializer.deserialize",1,11,11,20
+Public Method,"org.mapdb.BTreeMap.NodeSerializer.serialize",1,24,24,28
+Public Constructor,"org.mapdb.BTreeMap.SubMap.SubMap",1,2,2,4
+Public Method,"org.mapdb.BTreeMap.SubMap.ceilingEntry",4,5,5,6
+Public Method,"org.mapdb.BTreeMap.SubMap.ceilingKey",1,2,2,2
+Private Method,"org.mapdb.BTreeMap.SubMap.checkKeyBounds",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.SubMap.clear",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.containsKey",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.SubMap.containsValue",3,4,4,4
+Public Method,"org.mapdb.BTreeMap.SubMap.descendingKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.descendingMap",1,1,1,1
+Method,"org.mapdb.BTreeMap.SubMap.entryIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.entrySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.firstEntry",1,3,3,4
+Public Method,"org.mapdb.BTreeMap.SubMap.firstKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.floorEntry",4,5,5,6
+Public Method,"org.mapdb.BTreeMap.SubMap.floorKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.get",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.SubMap.headMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.headMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.higherEntry",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.SubMap.higherKey",1,2,2,2
+Private Method,"org.mapdb.BTreeMap.SubMap.inBounds",1,1,1,2
+Public Method,"org.mapdb.BTreeMap.SubMap.isEmpty",1,1,1,1
+Method,"org.mapdb.BTreeMap.SubMap.keyIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.keySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.lastEntry",1,3,3,4
+Public Method,"org.mapdb.BTreeMap.SubMap.lastKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.lowerEntry",3,5,5,6
+Public Method,"org.mapdb.BTreeMap.SubMap.lowerKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.navigableKeySet",1,1,1,1
+Private Method,"org.mapdb.BTreeMap.SubMap.newSubMap",1,7,7,13
+Public Method,"org.mapdb.BTreeMap.SubMap.pollFirstEntry",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.SubMap.pollLastEntry",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.SubMap.put",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.putIfAbsent",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.remove",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.remove",1,1,1,2
+Public Method,"org.mapdb.BTreeMap.SubMap.replace",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.replace",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.size",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.subMap",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.SubMap.subMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.SubMap.tailMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.SubMap.tailMap",1,1,1,1
+Private Method,"org.mapdb.BTreeMap.SubMap.tooHigh",3,3,3,5
+Private Method,"org.mapdb.BTreeMap.SubMap.tooLow",3,3,3,5
+Method,"org.mapdb.BTreeMap.SubMap.valueIterator",1,1,1,1
+Public Constructor,"org.mapdb.BTreeMap.ValRef.ValRef",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.ValRef.equals",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.ValRef.hashCode",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.ValRef.toString",1,1,1,1
+Constructor,"org.mapdb.BTreeMap.Values.Values",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.Values.clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.Values.contains",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.Values.isEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.Values.iterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.Values.size",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.Values.toArray",1,1,1,1
+Public Generic Method,"org.mapdb.BTreeMap.Values.toArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.addModificationListener",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.ceilingEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.ceilingKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.clear",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.close",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.containsKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.containsValue",3,4,4,4
+Protected Static Method,"org.mapdb.BTreeMap.createRootRef",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.descendingKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.descendingMap",1,1,1,1
+Method,"org.mapdb.BTreeMap.entryIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.entrySet",1,1,1,1
+Protected Method,"org.mapdb.BTreeMap.findChildren",4,7,7,7
+Protected Method,"org.mapdb.BTreeMap.findLarger",7,10,10,10
+Protected Method,"org.mapdb.BTreeMap.findLargerNode",7,9,9,9
+Protected Method,"org.mapdb.BTreeMap.findSmaller",1,3,3,4
+Private Method,"org.mapdb.BTreeMap.findSmallerRecur",6,12,12,12
+Public Method,"org.mapdb.BTreeMap.firstEntry",3,5,5,5
+Public Method,"org.mapdb.BTreeMap.firstKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.floorEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.floorKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.get",3,7,7,8
+Public Method,"org.mapdb.BTreeMap.headMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.headMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.higherEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.higherKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.isEmpty",1,1,1,1
+Method,"org.mapdb.BTreeMap.keyIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.keySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.lastEntry",1,2,2,3
+Private Method,"org.mapdb.BTreeMap.lastEntryRecur",8,9,9,9
+Public Method,"org.mapdb.BTreeMap.lastKey",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.lowerEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.lowerKey",1,2,2,2
+Protected Method,"org.mapdb.BTreeMap.makeEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.navigableKeySet",1,1,1,1
+Protected Method,"org.mapdb.BTreeMap.nextDir",1,2,2,2
+Protected Method,"org.mapdb.BTreeMap.notify",1,5,5,5
+Public Method,"org.mapdb.BTreeMap.pollFirstEntry",3,3,3,4
+Public Method,"org.mapdb.BTreeMap.pollLastEntry",3,3,3,4
+Protected Static Method,"org.mapdb.BTreeMap.preinitCatalog",3,3,3,3
+Private Static Method,"org.mapdb.BTreeMap.printRecur",1,4,4,4
+Public Method,"org.mapdb.BTreeMap.printTreeStructure",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.put",1,2,2,3
+Protected Method,"org.mapdb.BTreeMap.put2",12,35,35,41
+Public Method,"org.mapdb.BTreeMap.putIfAbsent",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.remove",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.remove",1,3,3,3
+Private Method,"org.mapdb.BTreeMap.remove2",8,12,12,18
+Public Method,"org.mapdb.BTreeMap.removeModificationListener",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.replace",3,9,9,13
+Public Method,"org.mapdb.BTreeMap.replace",3,8,8,12
+Public Method,"org.mapdb.BTreeMap.size",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.sizeLong",1,3,3,3
+Public Method,"org.mapdb.BTreeMap.snapshot",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.subMap",1,2,2,3
+Public Method,"org.mapdb.BTreeMap.subMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.tailMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMap.tailMap",1,1,1,1
+Static Generic Method,"org.mapdb.BTreeMap.toList",1,2,2,2
+Protected Method,"org.mapdb.BTreeMap.valExpand",1,2,2,3
+Method,"org.mapdb.BTreeMap.valueIterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMap.values",1,1,1,1
+Protected Static Method,"org.mapdb.BTreeMapExtendTest.newBTreeMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapExtendTest.setUp",1,2,2,2
+Protected Method,"org.mapdb.BTreeMapExtendTest.tearDown",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_ceiling",1,25,25,25
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_comparator",1,5,5,5
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_descendingIterator",1,10,10,10
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_descendingSet",1,9,9,9
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_floor",1,25,25,25
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_headSet",1,33,33,33
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_higher",1,26,26,26
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_lower",1,26,26,26
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startExcluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startExcluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startIncluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startIncluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startExcluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startExcluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startIncluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startIncluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_subSet",1,16,16,16
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapEntrySet_tailSet",1,33,33,33
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_ceiling",1,6,6,6
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_first",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_floor",1,6,6,6
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_headSet",1,125,125,125
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_higher",1,10,10,10
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_last",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_lower",1,10,10,10
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollLast",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_remove",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_subSet",1,65,65,65
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMapKeySet_tailSet",1,108,108,108
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_ceilingEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_entrySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_floorEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_pollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_pollLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_AscendingSubMap_subMap",1,14,14,14
+Public Method,"org.mapdb.BTreeMapExtendTest.test_BoundedEntryIterator_next",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_BoundedKeyIterator_next",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_BoundedValueIterator_next",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_DescendingSubMapEntrySet_ceiling",1,16,16,16
+Public Method,"org.mapdb.BTreeMapExtendTest.test_DescendingSubMapEntrySet_higher",1,17,17,17
+Public Method,"org.mapdb.BTreeMapExtendTest.test_DescendingSubMapEntrySet_lower",1,14,14,14
+Public Method,"org.mapdb.BTreeMapExtendTest.test_DescendingSubMapEntrySet_subSet",1,30,30,30
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_Constructor",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_contains",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_isEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_iterator",1,26,26,26
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_remove",1,6,6,6
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapEntrySet_size",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_Constructor",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_contains",1,11,11,11
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_isEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_iterator",1,21,21,21
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_remove",1,11,11,11
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMapKeySet_size",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_Constructor",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_containsKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_containsValue",1,2,2,2
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_entrySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_firstKey",1,11,11,11
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_get",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_headMap",1,23,23,23
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_isEmpty",1,3,3,3
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_keySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_lastKey",1,11,11,11
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_put",1,6,6,6
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_readObject",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_remove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_size",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_subMap_Comparator",1,8,8,8
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_subMap_NoComparator",1,8,8,8
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_tailMap",1,14,14,14
+Public Method,"org.mapdb.BTreeMapExtendTest.test_SubMap_values",1,6,6,6
+Public Method,"org.mapdb.BTreeMapExtendTest.test_TreeMap_Constructor_Default",1,5,5,5
+Public Method,"org.mapdb.BTreeMapExtendTest.test_TreeMap_clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_contains",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_contains_null",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_headMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_lower",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_lower_null",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_lower_tail",1,1,1,1
+Public Method,"org.mapdb.BTreeMapExtendTest.test_lowerkey",1,5,5,5
+Public Method,"org.mapdb.BTreeMapExtendTest.test_size",1,7,7,7
+Public Constructor,"org.mapdb.BTreeMapLargeValsTest.BTreeMapLargeValsTest",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapLargeValsTest.getKeyNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapLargeValsTest.getSecondValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapLargeValsTest.getValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapLargeValsTest.makeEmptyMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapLargeValsTest.makePopulatedMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.setUp",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testCeilingEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testCeilingKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testClearSubmap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testContainsKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testContainsValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testDescendingKeySet",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testDescendingMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testFloorEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testFloorKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHeadMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHeadMap2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHeadMap3",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHeadMap4",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHigherEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testHigherKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testIsEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testLowerEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testLowerKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testNavigableKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testPollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testPollLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testPut",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testSize",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testSubMap",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testSubMap2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testSubMap3",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testSubMap4",1,2,2,2
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testTailMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testTailMap2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testTailMap3",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigable2Test.testTailMap4",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableSubMapExclusiveTest.setUp",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableSubMapExclusiveTest.testPut",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableSubMapInclusiveTest.setUp",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableSubMapInclusiveTest.testPut",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testCeilingEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testCeilingKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testDescendingKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testDescendingMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testFloorEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testFloorKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testHeadMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testHigherEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testHigherKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testLowerEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testLowerKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testNavigableKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testPollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testPollLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testSubMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapNavigableTest.testTailMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.MyReverseComparator.compare",1,1,1,1
+Private Method,"org.mapdb.BTreeMapSubSetTest.dset0",1,1,1,1
+Public Static Method,"org.mapdb.BTreeMapSubSetTest.main",1,1,1,1
+Protected Generic Method,"org.mapdb.BTreeMapSubSetTest.newNavigableSet",1,1,1,1
+Private Method,"org.mapdb.BTreeMapSubSetTest.populatedSet",1,3,3,3
+Private Method,"org.mapdb.BTreeMapSubSetTest.set0",1,1,1,1
+Private Method,"org.mapdb.BTreeMapSubSetTest.set5",1,1,1,1
+Public Static Method,"org.mapdb.BTreeMapSubSetTest.suite",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAdd",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddAll1",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddAll2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddAll3",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddAll5",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddDup",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddNonComparable",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testAddNull",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testCeiling",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testConstructor1",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testContains",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testContainsAll",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAdd",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddAll1",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddAll2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddAll3",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddAll5",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddDup",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddNonComparable",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingAddNull",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingContains",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingContainsAll",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingEmptyIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingIteratorRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingPoll",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingRemoveAll",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingRemoveElement",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingRetainAll",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingToArray2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testDescendingToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testEmptyIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testFloor",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testHeadSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testHigher",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testIteratorRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testLower",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testPoll",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testRemoveAll",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testRemoveElement",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testRetainAll",1,3,3,3
+Public Method,"org.mapdb.BTreeMapSubSetTest.testSubSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testSubSetContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testTailSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapSubSetTest.testToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testToArray2",1,2,2,2
+Public Method,"org.mapdb.BTreeMapSubSetTest.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest.NoSuchElem_After_Clear",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest.batch_insert",1,4,4,4
+Public Method,"org.mapdb.BTreeMapTest.delete",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest.findSmaller",1,7,7,7
+Public Method,"org.mapdb.BTreeMapTest.floorTestFill",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.issue_38",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest.root_leaf_insert",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.simple_root_get",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.submapToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest.test_dir_node_serialization",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_empty_iterator",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_find_children",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_key_iterator",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest.test_leaf_node_serialization",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_next_dir",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_next_dir_infinity",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest.test_size",1,2,2,2
+Public Constructor,"org.mapdb.BTreeMapTest2.BTreeMapTest2",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest2.getKeyNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest2.getSecondValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest2.getValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest2.makeEmptyMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest2.makePopulatedMap",1,2,2,2
+Public Constructor,"org.mapdb.BTreeMapTest3.BTreeMapTest3",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest3.getKeyNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest3.getSecondValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest3.getValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest3.makeEitherMap",1,2,2,2
+Protected Method,"org.mapdb.BTreeMapTest3.makeEmptyMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest3.makePopulatedMap",3,3,3,4
+Private Static Generic Method,"org.mapdb.BTreeMapTest3.subListSnapshot",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest3.testFirstKeyNonEmpty",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest3.testHeadMap",1,5,5,5
+Public Method,"org.mapdb.BTreeMapTest3.testLastKeyNonEmpty",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest3.testOrdering",1,4,4,4
+Public Method,"org.mapdb.BTreeMapTest3.testSubMap",1,8,8,8
+Public Method,"org.mapdb.BTreeMapTest3.testSubMapIllegal",3,4,4,4
+Public Method,"org.mapdb.BTreeMapTest3.testTailMap",1,5,5,5
+Private Static Generic Method,"org.mapdb.BTreeMapTest3.toList",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.IllBehavedCollator.compare",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.IllBehavedCollator.getCollationKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.IllBehavedCollator.hashCode",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.MockComparator.compare",3,3,3,4
+Public Method,"org.mapdb.BTreeMapTest4.ReversedComparator.compare",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.ReversedComparator.equals",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.SpecialNullableComparator.compare",1,2,2,2
+Private Method,"org.mapdb.BTreeMapTest4.assertEntry",1,4,4,4
+Private Method,"org.mapdb.BTreeMapTest4.illegalFirstNullKeyMapTester",1,13,13,13
+Protected Generic Method,"org.mapdb.BTreeMapTest4.newBTreeMap",1,1,1,1
+Protected Generic Method,"org.mapdb.BTreeMapTest4.newBTreeMap",1,1,1,1
+Protected Static Generic Method,"org.mapdb.BTreeMapTest4.newBTreeMap",1,1,1,1
+Protected Method,"org.mapdb.BTreeMapTest4.setUp",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.testLastFirstEntryOnEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_ConstructorLjava_util_Comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_ceilingEntry",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_ceilingKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_clear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_comparator",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_containsKeyLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_containsValueLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_descendingMap_subMap",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_empty_subMap",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_entrySet",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.test_equals",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_firstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_firstKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_floorEntry",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_floorKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_getLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_headMapLjava_lang_Object",1,8,8,10
+Public Method,"org.mapdb.BTreeMapTest4.test_headMapLjava_lang_ObjectZL",1,9,9,9
+Public Method,"org.mapdb.BTreeMapTest4.test_higherEntry",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_higherKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_iterator_next_",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_keySet",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.test_lastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_lastKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_lastKey_after_subMap",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_lowerEntry",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_lowerKey",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_navigableKeySet",1,5,5,5
+Public Method,"org.mapdb.BTreeMapTest4.test_pollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_pollLastEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_putAllLjava_util_Map",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.test_putLjava_lang_ObjectLjava_lang_Object",1,3,3,3
+Public Method,"org.mapdb.BTreeMapTest4.test_removeLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest4.test_remove_from_iterator",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.test_size",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest4.test_subMapLjava_lang_ObjectLjava_lang_Object",1,4,4,4
+Public Method,"org.mapdb.BTreeMapTest4.test_subMapLjava_lang_ObjectZLjava_lang_ObjectZ",1,11,11,11
+Public Method,"org.mapdb.BTreeMapTest4.test_subMap_Iterator",1,4,4,4
+Public Method,"org.mapdb.BTreeMapTest4.test_subMap_Iterator2",1,4,4,4
+Public Method,"org.mapdb.BTreeMapTest4.test_subMap_values_size",1,7,7,7
+Public Method,"org.mapdb.BTreeMapTest4.test_tailMapLjava_lang_Object",1,9,9,9
+Public Method,"org.mapdb.BTreeMapTest4.test_tailMapLjava_lang_ObjectZL",1,8,8,8
+Public Method,"org.mapdb.BTreeMapTest4.test_values",1,11,11,11
+Public Method,"org.mapdb.BTreeMapTest4.test_values_1",1,1,1,1
+Private Static Method,"org.mapdb.BTreeMapTest5.dmap0",1,1,1,1
+Private Static Method,"org.mapdb.BTreeMapTest5.dmap5",1,1,1,1
+Public Static Method,"org.mapdb.BTreeMapTest5.main",1,1,1,1
+Private Static Method,"org.mapdb.BTreeMapTest5.map0",1,1,1,1
+Private Static Method,"org.mapdb.BTreeMapTest5.map5",1,1,1,1
+Public Static Method,"org.mapdb.BTreeMapTest5.suite",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testCeilingEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testClear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testContainsKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testContainsKey_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testContainsValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testContainsValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingAscendingKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingCeilingEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingClear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingContainsKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingContainsKey_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingContainsValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingContainsValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingDescendingKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingEntrySet",1,2,2,11
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingEquals",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingFirstKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingFloorEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingGet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingGet_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingHeadMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingHigherEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingIsEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingKeySetOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingLastKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingLowerEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPollFirstEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPollLastEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPut1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPutAll",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPutIfAbsent",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPutIfAbsent1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingPutIfAbsent2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingRemove1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingRemove2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingRemove2_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplace",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplace2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplaceValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplaceValue2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplaceValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingReplace_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingSize",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingSubMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingSubMapContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingTailMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingValues",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testDescendingValuesToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testEntrySet",1,2,2,11
+Public Method,"org.mapdb.BTreeMapTest5.testEquals",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testFirstKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testFloorEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testGet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testGet_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testHeadMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testHigherEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testIsEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testKeySetOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testLastKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testLowerEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testPollFirstEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testPollLastEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testPut1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testPutAll",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testPutIfAbsent",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testPutIfAbsent1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testPutIfAbsent2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testRemove1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testRemove2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testRemove2_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testReplace",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testReplace2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testReplaceValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testReplaceValue2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testReplaceValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testReplace_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testSize",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testSubMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testSubMapContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testTailMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest5.testValues",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest5.testValuesToArray",1,1,1,1
+Static Method,"org.mapdb.BTreeMapTest6.assertEq",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.bashSubMap",1,27,27,27
+Method,"org.mapdb.BTreeMapTest6.check",1,9,9,10
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.ceiling",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.ceilingAscending",3,4,4,4
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.first",1,2,2,2
+Private Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.firstAscending",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.floor",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.floorAscending",4,5,5,5
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.higher",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.higherAscending",1,1,1,1
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.last",1,2,2,2
+Private Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.lastAscending",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.lower",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.check.ReferenceSet.lowerAscending",1,1,1,1
+Static Method,"org.mapdb.BTreeMapTest6.eq",1,2,2,2
+Public Static Method,"org.mapdb.BTreeMapTest6.main",1,1,1,1
+Private Static Method,"org.mapdb.BTreeMapTest6.map5",1,1,1,1
+Method,"org.mapdb.BTreeMapTest6.mutateMap",1,5,5,6
+Method,"org.mapdb.BTreeMapTest6.mutateSubMap",1,7,7,8
+Static Method,"org.mapdb.BTreeMapTest6.newMap",1,1,1,1
+Method,"org.mapdb.BTreeMapTest6.populate",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.put",1,2,2,2
+Method,"org.mapdb.BTreeMapTest6.remove",1,2,2,2
+Public Static Method,"org.mapdb.BTreeMapTest6.suite",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testCeilingEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testCeilingKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testClear",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testContainsKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testContainsKey_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testContainsValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testContainsValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testDescendingEntrySet",1,2,2,11
+Public Method,"org.mapdb.BTreeMapTest6.testDescendingEntrySetToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testDescendingKeySetDescendingIteratorOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testDescendingKeySetOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testDescendingKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testEntryImmutability",1,5,5,5
+Public Method,"org.mapdb.BTreeMapTest6.testEntrySet",1,2,2,11
+Public Method,"org.mapdb.BTreeMapTest6.testEntrySetToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testEquals",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testFirstKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testFloorEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testFloorKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testGet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testGet_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testHeadMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testHigherEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testHigherKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testIsEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testKeySet",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testKeySetDescendingIteratorOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testKeySetOrder",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testKeySetToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testLastKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testLowerEntry",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testLowerKey",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testPollFirstEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testPollLastEntry",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testPut1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testPutAll",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testPutIfAbsent",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testPutIfAbsent1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testPutIfAbsent2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testRecursiveSubMaps",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testRemove1_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testRemove2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testRemove2_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testRemove3",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testReplace",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testReplace2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testReplaceValue",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testReplaceValue2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testReplaceValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testReplace_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testSize",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testSubMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testSubMapContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testTailMapContents",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeMapTest6.testValues",1,1,1,1
+Public Method,"org.mapdb.BTreeMapTest6.testValuesToArray",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.MyReverseComparator.compare",1,1,1,1
+Static Method,"org.mapdb.BTreeSet2Test.assertEq",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.bashSubSet",1,27,27,27
+Method,"org.mapdb.BTreeSet2Test.check",1,9,9,10
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.ceiling",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.ceilingAscending",3,4,4,4
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.first",1,2,2,2
+Private Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.firstAscending",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.floor",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.floorAscending",4,5,5,5
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.higher",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.higherAscending",1,1,1,1
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.last",1,2,2,2
+Private Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.lastAscending",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.lower",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.check.ReferenceSet.lowerAscending",1,1,1,1
+Static Method,"org.mapdb.BTreeSet2Test.eq",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.mutateSet",1,5,5,6
+Method,"org.mapdb.BTreeSet2Test.mutateSubSet",1,7,7,8
+Static Method,"org.mapdb.BTreeSet2Test.newSet",1,1,1,1
+Method,"org.mapdb.BTreeSet2Test.populate",1,2,2,2
+Private Method,"org.mapdb.BTreeSet2Test.populatedSet",1,3,3,3
+Method,"org.mapdb.BTreeSet2Test.put",1,2,2,2
+Method,"org.mapdb.BTreeSet2Test.remove",1,2,2,2
+Private Method,"org.mapdb.BTreeSet2Test.set5",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testAdd",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testAddAll1",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testAddAll2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testAddAll3",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testAddAll5",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testAddAll_idempotent",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testAddDup",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testAddNonComparable",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testAddNull",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testCeiling",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testClear",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testConstructor1",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testConstructor7",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testContains",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testContainsAll",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testEmptyIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testFloor",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testHeadSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testHigher",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testIteratorRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testLower",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testPollFirst",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testPollLast",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testRecursiveSubSets",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testRemoveAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testRemoveElement",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testRetainAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testSize",1,3,3,3
+Public Method,"org.mapdb.BTreeSet2Test.testSubSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testSubSetContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testTailSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet2Test.testToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testToArray2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet2Test.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.MyReverseComparator.compare",1,1,1,1
+Private Static Method,"org.mapdb.BTreeSet3Test.dset0",1,1,1,1
+Private Method,"org.mapdb.BTreeSet3Test.dset5",1,1,1,1
+Public Static Method,"org.mapdb.BTreeSet3Test.main",1,1,1,1
+Private Method,"org.mapdb.BTreeSet3Test.populatedSet",1,3,3,3
+Private Static Method,"org.mapdb.BTreeSet3Test.set0",1,1,1,1
+Private Method,"org.mapdb.BTreeSet3Test.set5",1,1,1,1
+Public Static Method,"org.mapdb.BTreeSet3Test.suite",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testAdd",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testAddAll1",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testAddAll2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testAddAll3",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testAddAll5",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testAddDup",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testAddNonComparable",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testAddNull",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testCeiling",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testClear",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testConstructor1",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testContains",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testContainsAll",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAdd",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddAll1",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddAll2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddAll3",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddAll5",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddDup",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddNonComparable",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingAddNull",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingCeiling",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingClear",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingContains",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingContainsAll",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingEmptyIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingFloor",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingHeadSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingHigher",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingIteratorRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingLower",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingPoll",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingRemoveAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingRemoveElement",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingRetainAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingSize",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingSubSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingSubSetContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingTailSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingToArray2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testDescendingToString",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testEmpty",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testEmptyIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testFloor",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testHeadSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testHigher",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testIterator",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testIteratorRemove",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testLower",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testPoll",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testRemoveAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testRemoveElement",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testRetainAll",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testSize",1,3,3,3
+Public Method,"org.mapdb.BTreeSet3Test.testSubSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testSubSetContents2",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testTailSetContents",1,1,1,1
+Public Method,"org.mapdb.BTreeSet3Test.testToArray",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testToArray2",1,2,2,2
+Public Method,"org.mapdb.BTreeSet3Test.testToString",1,2,2,2
+Public Method,"org.mapdb.BTreeSetTest.setUp",1,1,1,1
+Private Constructor,"org.mapdb.Bind.Bind",1,1,1,1
+Abstract Method,"org.mapdb.Bind.MapListener.update",1,1,1,1
+Public Abstract Method,"org.mapdb.Bind.MapWithModificationListener.addModificationListener",1,1,1,1
+Public Abstract Method,"org.mapdb.Bind.MapWithModificationListener.removeModificationListener",1,1,1,1
+Public Abstract Method,"org.mapdb.Bind.MapWithModificationListener.sizeLong",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.findSecondaryKeys",1,1,1,1
+Public Method,"org.mapdb.Bind.findSecondaryKeys.(Anon_5).iterator",1,1,1,1
+Public Method,"org.mapdb.Bind.findSecondaryKeys.(Anon_5).iterator.(Anon_6).hasNext",1,1,1,1
+Public Method,"org.mapdb.Bind.findSecondaryKeys.(Anon_5).iterator.(Anon_6).next",1,1,1,1
+Public Method,"org.mapdb.Bind.findSecondaryKeys.(Anon_5).iterator.(Anon_6).remove",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.findVals2",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.findVals3",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals3.(Anon_7).iterator",1,2,2,2
+Public Method,"org.mapdb.Bind.findVals3.(Anon_7).iterator.(Anon_8).hasNext",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals3.(Anon_7).iterator.(Anon_8).next",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals3.(Anon_7).iterator.(Anon_8).remove",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.findVals4",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals4.(Anon_9).iterator",1,3,3,3
+Public Method,"org.mapdb.Bind.findVals4.(Anon_9).iterator.(Anon_10).hasNext",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals4.(Anon_9).iterator.(Anon_10).next",1,1,1,1
+Public Method,"org.mapdb.Bind.findVals4.(Anon_9).iterator.(Anon_10).remove",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.histogram",1,1,1,1
+Private Method,"org.mapdb.Bind.histogram.(Anon_11).incrementHistogram",5,5,5,5
+Public Method,"org.mapdb.Bind.histogram.(Anon_11).update",4,4,4,5
+Public Static Generic Method,"org.mapdb.Bind.mapInverse",1,1,1,1
+Public Method,"org.mapdb.Bind.mapInverse.(Anon_4).run",1,1,1,1
+Public Static Generic Method,"org.mapdb.Bind.secondaryKey",1,3,3,3
+Public Method,"org.mapdb.Bind.secondaryKey.(Anon_3).update",4,4,4,5
+Public Static Generic Method,"org.mapdb.Bind.secondaryValue",1,3,3,3
+Public Method,"org.mapdb.Bind.secondaryValue.(Anon_2).update",1,2,2,2
+Public Static Method,"org.mapdb.Bind.size",1,2,2,2
+Public Method,"org.mapdb.Bind.size.(Anon_1).update",1,3,3,5
+Public Method,"org.mapdb.CCTest.concurency",3,3,3,3
+Public Method,"org.mapdb.CacheWeakSoftRefTest.soft_htree_inserts_delete",1,1,1,1
+Private Method,"org.mapdb.CacheWeakSoftRefTest.testMap",1,4,4,5
+Public Method,"org.mapdb.CacheWeakSoftRefTest.weak_htree_inserts_delete",1,1,1,1
+Private Constructor,"org.mapdb.Caches.Caches",1,1,1,1
+Public Constructor,"org.mapdb.Caches.HardRef.HardRef",1,1,1,1
+Private Method,"org.mapdb.Caches.HardRef.checkFreeMem",3,5,5,6
+Public Generic Method,"org.mapdb.Caches.HardRef.compareAndSwap",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.HardRef.delete",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.HardRef.get",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.HardRef.update",1,1,1,1
+Private Constructor,"org.mapdb.Caches.HashTable.HashItem.HashItem",1,1,1,1
+Public Constructor,"org.mapdb.Caches.HashTable.HashTable",1,1,1,1
+Public Method,"org.mapdb.Caches.HashTable.clearCache",1,1,1,1
+Public Method,"org.mapdb.Caches.HashTable.close",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.HashTable.compareAndSwap",3,4,4,6
+Public Generic Method,"org.mapdb.Caches.HashTable.delete",1,2,2,3
+Public Generic Method,"org.mapdb.Caches.HashTable.get",1,3,3,4
+Private Method,"org.mapdb.Caches.HashTable.position",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.HashTable.put",1,1,1,1
+Public Method,"org.mapdb.Caches.HashTable.rollback",1,2,2,2
+Public Generic Method,"org.mapdb.Caches.HashTable.update",1,1,1,1
+Public Constructor,"org.mapdb.Caches.LRU.LRU",1,1,1,1
+Public Constructor,"org.mapdb.Caches.LRU.LRU",1,1,1,1
+Public Method,"org.mapdb.Caches.LRU.clearCache",1,1,1,1
+Public Method,"org.mapdb.Caches.LRU.close",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.LRU.compareAndSwap",1,3,3,5
+Public Generic Method,"org.mapdb.Caches.LRU.delete",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.LRU.get",1,3,3,3
+Public Generic Method,"org.mapdb.Caches.LRU.put",1,1,1,1
+Public Method,"org.mapdb.Caches.LRU.rollback",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.LRU.update",1,1,1,1
+Public Method,"org.mapdb.Caches.WeakSoftRef.(Anon_1).run",1,1,1,1
+Abstract Method,"org.mapdb.Caches.WeakSoftRef.CacheItem.get",1,1,1,1
+Abstract Method,"org.mapdb.Caches.WeakSoftRef.CacheItem.getRecid",1,1,1,1
+Public Constructor,"org.mapdb.Caches.WeakSoftRef.CacheSoftItem.CacheSoftItem",1,1,1,1
+Public Method,"org.mapdb.Caches.WeakSoftRef.CacheSoftItem.getRecid",1,1,1,1
+Public Constructor,"org.mapdb.Caches.WeakSoftRef.CacheWeakItem.CacheWeakItem",1,1,1,1
+Public Method,"org.mapdb.Caches.WeakSoftRef.CacheWeakItem.getRecid",1,1,1,1
+Public Constructor,"org.mapdb.Caches.WeakSoftRef.WeakSoftRef",1,1,1,1
+Public Method,"org.mapdb.Caches.WeakSoftRef.clearCache",1,1,1,1
+Public Method,"org.mapdb.Caches.WeakSoftRef.close",1,2,2,2
+Public Generic Method,"org.mapdb.Caches.WeakSoftRef.compareAndSwap",1,4,4,8
+Public Generic Method,"org.mapdb.Caches.WeakSoftRef.delete",1,1,1,1
+Public Generic Method,"org.mapdb.Caches.WeakSoftRef.get",3,4,4,4
+Public Generic Method,"org.mapdb.Caches.WeakSoftRef.put",1,1,1,1
+Private Generic Method,"org.mapdb.Caches.WeakSoftRef.putItemIntoCache",1,2,2,2
+Public Method,"org.mapdb.Caches.WeakSoftRef.rollback",1,1,1,1
+Protected Method,"org.mapdb.Caches.WeakSoftRef.runRefQueue",5,5,5,5
+Public Generic Method,"org.mapdb.Caches.WeakSoftRef.update",1,1,1,1
+Public Method,"org.mapdb.CompressLZF.compress",1,12,12,18
+Public Method,"org.mapdb.CompressLZF.expand",1,8,8,10
+Private Static Method,"org.mapdb.CompressLZF.first",1,1,1,1
+Private Static Method,"org.mapdb.CompressLZF.hash",1,1,1,1
+Private Static Method,"org.mapdb.CompressLZF.next",1,1,1,1
+Public Method,"org.mapdb.CompressTest.check_instance",1,1,1,1
+Public Method,"org.mapdb.CompressTest.put_get_update",1,1,1,1
+Protected Constructor,"org.mapdb.ConcurrentMapInterfaceTest.ConcurrentMapInterfaceTest",1,1,1,1
+Protected Abstract Method,"org.mapdb.ConcurrentMapInterfaceTest.getSecondValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.ConcurrentMapInterfaceTest.makeEitherMap",1,2,2,2
+Protected Abstract Method,"org.mapdb.ConcurrentMapInterfaceTest.makeEmptyMap",1,1,1,1
+Protected Abstract Method,"org.mapdb.ConcurrentMapInterfaceTest.makePopulatedMap",1,1,1,1
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testPutIfAbsentExistingKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testPutIfAbsentNewKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testPutIfAbsentNewKeyNullValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testPutIfAbsentNullKey",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueDifferentValue",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueExisting",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueExistingKeyNullValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueMissingKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueMissingKeyNullValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testRemoveKeyValueNullKey",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace2ExistingKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace2ExistingKeyNullValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace2MissingKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace2MissingKeyNullValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace2NullKey",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3ExistingKeyDifferentValue",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3ExistingKeyNullOldValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3ExistingKeyValue",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3ExistingKeyValueNullNewValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3MissingKey",1,4,4,4
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3MissingKeyNullNewValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3MissingKeyNullOldValue",3,7,7,7
+Public Method,"org.mapdb.ConcurrentMapInterfaceTest.testReplace3NullKey",3,7,7,7
+Public Constructor,"org.mapdb.DB.BTreeMapMaker.BTreeMapMaker",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.comparator",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.keepCounter",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.keySerializer",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.make",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.makeLongMap",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.makeOrGet",1,2,2,2
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.makeStringMap",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.nodeSize",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.pumpPresort",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.pumpSource",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeMapMaker.pumpSource",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.valueSerializer",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeMapMaker.valuesStoredOutsideNodes",1,1,1,1
+Public Constructor,"org.mapdb.DB.BTreeSetMaker.BTreeSetMaker",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.comparator",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.keepCounter",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeSetMaker.make",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.makeLongSet",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeSetMaker.makeOrGet",1,2,2,2
+Public Method,"org.mapdb.DB.BTreeSetMaker.makeStringSet",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.nodeSize",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.pumpPresort",1,1,1,1
+Public Generic Method,"org.mapdb.DB.BTreeSetMaker.pumpSource",1,1,1,1
+Public Method,"org.mapdb.DB.BTreeSetMaker.serializer",1,1,1,1
+Public Constructor,"org.mapdb.DB.DB",1,1,1,1
+Public Constructor,"org.mapdb.DB.DB",1,1,1,1
+Public Constructor,"org.mapdb.DB.HTreeMapMaker.HTreeMapMaker",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.expireAfterAccess",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.expireAfterAccess",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.expireAfterWrite",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.expireAfterWrite",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.expireMaxSize",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.keepCounter",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.keySerializer",1,1,1,1
+Public Generic Method,"org.mapdb.DB.HTreeMapMaker.make",1,2,2,2
+Public Generic Method,"org.mapdb.DB.HTreeMapMaker.makeOrGet",1,2,2,2
+Public Method,"org.mapdb.DB.HTreeMapMaker.valueCreator",1,1,1,1
+Public Method,"org.mapdb.DB.HTreeMapMaker.valueSerializer",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.catGet",1,2,2,2
+Protected Generic Method,"org.mapdb.DB.catGet",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.catPut",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.catPut",1,2,2,2
+Protected Method,"org.mapdb.DB.checkNameNotExists",1,2,2,2
+Protected Method,"org.mapdb.DB.checkNotClosed",1,2,2,2
+Protected Method,"org.mapdb.DB.checkShouldCreate",1,2,2,2
+Protected Method,"org.mapdb.DB.checkType",1,2,2,2
+Public Method,"org.mapdb.DB.close",1,2,2,2
+Public Method,"org.mapdb.DB.commit",1,1,1,1
+Public Method,"org.mapdb.DB.compact",1,1,1,1
+Public Method,"org.mapdb.DB.createAtomicBoolean",1,1,1,1
+Public Method,"org.mapdb.DB.createAtomicInteger",1,1,1,1
+Public Method,"org.mapdb.DB.createAtomicLong",1,1,1,1
+Public Method,"org.mapdb.DB.createAtomicString",1,2,2,2
+Public Generic Method,"org.mapdb.DB.createAtomicVar",1,2,2,2
+Public Generic Method,"org.mapdb.DB.createCircularQueue",1,4,4,4
+Public Method,"org.mapdb.DB.createHashMap",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.createHashMap",1,4,4,6
+Public Generic Method,"org.mapdb.DB.createHashSet",1,2,2,2
+Public Generic Method,"org.mapdb.DB.createQueue",1,1,1,1
+Public Generic Method,"org.mapdb.DB.createStack",1,1,1,1
+Public Method,"org.mapdb.DB.createTreeMap",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.createTreeMap",1,3,3,3
+Public Method,"org.mapdb.DB.createTreeSet",1,1,1,1
+Public Generic Method,"org.mapdb.DB.createTreeSet",1,4,4,4
+Public Method,"org.mapdb.DB.delete",3,16,16,18
+Public Method,"org.mapdb.DB.exists",1,1,1,1
+Protected Generic Method,"org.mapdb.DB.fillNulls",4,19,19,19
+Public Generic Method,"org.mapdb.DB.get",14,14,14,14
+Public Method,"org.mapdb.DB.getAll",3,3,3,3
+Public Method,"org.mapdb.DB.getAtomicBoolean",3,3,3,3
+Public Method,"org.mapdb.DB.getAtomicInteger",3,3,3,3
+Public Method,"org.mapdb.DB.getAtomicLong",3,3,3,3
+Public Method,"org.mapdb.DB.getAtomicString",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getAtomicVar",3,3,3,3
+Public Method,"org.mapdb.DB.getCatalog",1,1,1,1
+Public Generic Method,"org.mapdb.DB.getCircularQueue",3,3,3,3
+Public Method,"org.mapdb.DB.getDefaultSerializer",1,1,1,1
+Public Method,"org.mapdb.DB.getEngine",1,1,1,1
+Protected Method,"org.mapdb.DB.getFromWeakCollection",1,3,3,3
+Public Generic Method,"org.mapdb.DB.getHashMap",1,1,1,1
+Public Generic Method,"org.mapdb.DB.getHashMap",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getHashSet",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getQueue",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getStack",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getTreeMap",3,3,3,3
+Public Generic Method,"org.mapdb.DB.getTreeSet",3,3,3,3
+Public Method,"org.mapdb.DB.isClosed",1,1,1,1
+Protected Method,"org.mapdb.DB.reinit",1,1,1,1
+Public Method,"org.mapdb.DB.rename",4,7,7,7
+Public Method,"org.mapdb.DB.rollback",1,1,1,1
+Public Method,"org.mapdb.DB.snapshot",1,1,1,1
+Protected Constructor,"org.mapdb.DBMaker.DBMaker",1,1,1,1
+Protected Constructor,"org.mapdb.DBMaker.DBMaker",1,1,1,1
+Public Method,"org.mapdb.DBMaker._newAppendFileDB",1,1,1,1
+Public Method,"org.mapdb.DBMaker._newDirectMemoryDB",1,1,1,1
+Public Method,"org.mapdb.DBMaker._newFileDB",1,1,1,1
+Public Method,"org.mapdb.DBMaker._newMemoryDB",1,1,1,1
+Public Method,"org.mapdb.DBMaker.asyncFlushDelay",1,1,1,1
+Public Method,"org.mapdb.DBMaker.asyncWriteDisable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheDisable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheHardRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheLRUEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheSize",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheSoftRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.cacheWeakRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.checksumEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.closeOnJvmShutdown",1,1,1,1
+Public Method,"org.mapdb.DBMaker.compressionEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.deleteFilesAfterClose",1,1,1,1
+Public Method,"org.mapdb.DBMaker.encryptionEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.encryptionEnable",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendArgumentCheck",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendAsyncWriteEngine",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendCacheHardRef",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendCacheHashTable",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendCacheLRU",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendCacheSoftRef",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendCacheWeakRef",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendShutdownHookAfter",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendShutdownHookBefore",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendSnapshotEngine",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendStoreAppend",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendStoreDirect",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendStoreVolumeFactory",1,2,2,2
+Protected Method,"org.mapdb.DBMaker.extendStoreWAL",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendWrapCache",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendWrapSnapshotEngine",1,1,1,1
+Protected Method,"org.mapdb.DBMaker.extendWrapStore",1,1,1,1
+Public Method,"org.mapdb.DBMaker.freeSpaceReclaimQ",1,2,2,3
+Protected Method,"org.mapdb.DBMaker.getThis",1,1,1,1
+Public Method,"org.mapdb.DBMaker.make",1,1,1,1
+Public Method,"org.mapdb.DBMaker.makeEngine",1,21,21,27
+Public Method,"org.mapdb.DBMaker.makeEngine.(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.DBMaker.makeTxMaker",1,2,2,2
+Public Static Method,"org.mapdb.DBMaker.newAppendFileDB",1,1,1,1
+Public Static Method,"org.mapdb.DBMaker.newDirectMemoryDB",1,1,1,1
+Public Static Method,"org.mapdb.DBMaker.newFileDB",1,1,1,1
+Public Static Method,"org.mapdb.DBMaker.newMemoryDB",1,1,1,1
+Public Static Method,"org.mapdb.DBMaker.newTempFileDB",1,2,2,2
+Public Static Generic Method,"org.mapdb.DBMaker.newTempHashMap",1,1,1,1
+Public Static Generic Method,"org.mapdb.DBMaker.newTempHashSet",1,1,1,1
+Public Static Generic Method,"org.mapdb.DBMaker.newTempTreeMap",1,1,1,1
+Public Static Generic Method,"org.mapdb.DBMaker.newTempTreeSet",1,1,1,1
+Public Method,"org.mapdb.DBMaker.randomAccessFileEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.randomAccessFileEnableIfNeeded",1,2,2,2
+Public Method,"org.mapdb.DBMaker.randomAccessFileEnableKeepIndexMapped",1,1,1,1
+Public Method,"org.mapdb.DBMaker.readOnly",1,1,1,1
+Public Method,"org.mapdb.DBMaker.sizeLimit",1,1,1,1
+Public Method,"org.mapdb.DBMaker.snapshotEnable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.strictDBGet",1,1,1,1
+Public Method,"org.mapdb.DBMaker.syncOnCommitDisable",1,1,1,1
+Public Method,"org.mapdb.DBMaker.transactionDisable",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.checksum",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.close_on_jvm_shutdown",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.compress",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.encrypt",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.limitDisabledAppend",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.rafEnableKeepIndexMapped",1,2,2,2
+Public Method,"org.mapdb.DBMakerTest.read_only",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.reopen_wrong_checksum",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.reopen_wrong_compress",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.reopen_wrong_encrypt",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.sizeLimit",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.tempHashMap",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.tempHashSet",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.tempTreeMap",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.tempTreeSet",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testCacheHardRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testCacheLRUEnable",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testCacheSize",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testCacheSoftRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testCacheWeakRefEnable",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testDisableAsyncWrite",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testDisableCache",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testDisableTransactions",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testMake",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testNewFileDB",1,1,1,1
+Public Method,"org.mapdb.DBMakerTest.testNewMemoryDB",1,1,1,1
+Private Method,"org.mapdb.DBMakerTest.verifyDB",1,1,1,1
+Public Method,"org.mapdb.DBTest.getAll",1,1,1,1
+Public Method,"org.mapdb.DBTest.rename",1,1,1,1
+Public Method,"org.mapdb.DBTest.testClose",1,1,1,1
+Public Method,"org.mapdb.DBTest.testGetHashMap",1,1,1,1
+Public Method,"org.mapdb.DBTest.testGetHashSet",1,1,1,1
+Public Method,"org.mapdb.DBTest.testGetTreeMap",1,1,1,1
+Public Method,"org.mapdb.DBTest.testGetTreeSet",1,1,1,1
+Public Constructor,"org.mapdb.DataInput2.DataInput2",1,1,1,1
+Public Constructor,"org.mapdb.DataInput2.DataInput2",1,1,1,1
+Public Method,"org.mapdb.DataInput2.read",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readBoolean",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readByte",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readChar",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readDouble",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readFloat",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readFully",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readFully",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readInt",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readLine",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readLong",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readShort",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readUTF",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readUnsignedByte",1,1,1,1
+Public Method,"org.mapdb.DataInput2.readUnsignedShort",1,1,1,1
+Public Method,"org.mapdb.DataInput2.skipBytes",1,1,1,1
+Public Constructor,"org.mapdb.DataOutput2.DataOutput2",1,1,1,1
+Public Constructor,"org.mapdb.DataOutput2.DataOutput2",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.copyBytes",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.ensureAvail",1,2,2,2
+Public Method,"org.mapdb.DataOutput2.write",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.write",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.write",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeBoolean",1,2,2,2
+Public Method,"org.mapdb.DataOutput2.writeByte",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeBytes",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeChar",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeChars",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeDouble",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeFloat",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeInt",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeLong",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeShort",1,1,1,1
+Public Method,"org.mapdb.DataOutput2.writeUTF",1,2,2,2
+Public Constructor,"org.mapdb.DebugVolume.DebugVolume",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.close",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.deleteFile",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.ensureAvailable",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.getByte",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.getDataInput",1,2,2,2
+Public Method,"org.mapdb.DebugVolume.getFile",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.getInt",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.getLong",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.isEmpty",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.isSliced",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.putByte",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.putData",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.putData",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.putInt",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.putLong",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.sync",1,1,1,1
+Public Method,"org.mapdb.DebugVolume.tryAvailable",1,1,1,1
+Public Constructor,"org.mapdb.EncryptionXTEA.EncryptionXTEA",1,3,3,3
+Public Method,"org.mapdb.EncryptionXTEA.decrypt",1,3,3,3
+Private Method,"org.mapdb.EncryptionXTEA.decryptBlock",1,1,1,1
+Public Method,"org.mapdb.EncryptionXTEA.encrypt",1,3,3,3
+Private Method,"org.mapdb.EncryptionXTEA.encryptBlock",1,1,1,1
+Public Static Method,"org.mapdb.EncryptionXTEA.getHash",1,8,8,8
+Private Static Method,"org.mapdb.EncryptionXTEA.readInt",1,1,1,1
+Private Static Method,"org.mapdb.EncryptionXTEA.rot",1,1,1,1
+Private Static Method,"org.mapdb.EncryptionXTEA.writeInt",1,1,1,1
+Abstract Method,"org.mapdb.Engine.canRollback",1,1,1,1
+Abstract Method,"org.mapdb.Engine.clearCache",1,1,1,1
+Abstract Method,"org.mapdb.Engine.close",1,1,1,1
+Abstract Method,"org.mapdb.Engine.commit",1,1,1,1
+Abstract Method,"org.mapdb.Engine.compact",1,1,1,1
+Abstract Generic Method,"org.mapdb.Engine.compareAndSwap",1,1,1,1
+Abstract Generic Method,"org.mapdb.Engine.delete",1,1,1,1
+Abstract Generic Method,"org.mapdb.Engine.get",1,1,1,1
+Abstract Method,"org.mapdb.Engine.getSerializerPojo",1,1,1,1
+Public Abstract Method,"org.mapdb.Engine.isClosed",1,1,1,1
+Abstract Method,"org.mapdb.Engine.isReadOnly",1,1,1,1
+Abstract Method,"org.mapdb.Engine.preallocate",1,1,1,1
+Abstract Method,"org.mapdb.Engine.preallocate",1,1,1,1
+Abstract Generic Method,"org.mapdb.Engine.put",1,1,1,1
+Abstract Method,"org.mapdb.Engine.rollback",1,1,1,1
+Abstract Generic Method,"org.mapdb.Engine.update",1,1,1,1
+Method,"org.mapdb.EngineTest.canReopen",1,1,1,1
+Method,"org.mapdb.EngineTest.canRollback",1,1,1,1
+Public Method,"org.mapdb.EngineTest.compact",1,3,3,3
+Public Method,"org.mapdb.EngineTest.compact0",1,1,1,1
+Public Method,"org.mapdb.EngineTest.compact2",1,4,4,4
+Public Method,"org.mapdb.EngineTest.compact_large_record",1,1,1,1
+Public Method,"org.mapdb.EngineTest.first_recid",1,1,1,1
+Public Method,"org.mapdb.EngineTest.init",1,1,1,1
+Public Method,"org.mapdb.EngineTest.large_record",1,1,1,1
+Public Method,"org.mapdb.EngineTest.large_record_delete",1,1,1,1
+Public Method,"org.mapdb.EngineTest.large_record_larger",1,1,1,1
+Public Method,"org.mapdb.EngineTest.large_record_update",1,1,1,1
+Protected Abstract Method,"org.mapdb.EngineTest.openEngine",1,1,1,1
+Public Method,"org.mapdb.EngineTest.put_get",1,1,1,1
+Public Method,"org.mapdb.EngineTest.put_get_large",1,1,1,1
+Public Method,"org.mapdb.EngineTest.put_reopen_get",1,2,2,2
+Public Method,"org.mapdb.EngineTest.put_reopen_get_large",1,2,2,2
+Method,"org.mapdb.EngineTest.reopen",1,2,2,2
+Public Method,"org.mapdb.EngineTest.rollback",1,2,2,2
+Public Method,"org.mapdb.EngineTest.rollback_reopen",1,2,2,2
+Public Method,"org.mapdb.EngineTest.testSetGet",1,1,1,1
+Public Method,"org.mapdb.EngineTest.test_store_reopen",1,1,1,1
+Public Method,"org.mapdb.EngineTest.test_store_reopen_nocommit",1,2,2,3
+Public Constructor,"org.mapdb.EngineWrapper.DebugEngine.DebugEngine",1,1,1,1
+Public Constructor,"org.mapdb.EngineWrapper.DebugEngine.Record.Record",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.DebugEngine.delete",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.DebugEngine.get",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.DebugEngine.preallocate",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.DebugEngine.preallocate",1,2,2,2
+Public Generic Method,"org.mapdb.EngineWrapper.DebugEngine.put",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.DebugEngine.update",1,1,1,1
+Protected Constructor,"org.mapdb.EngineWrapper.EngineWrapper",1,2,2,2
+Protected Constructor,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.ImmutabilityCheckEngine",1,1,1,1
+Public Constructor,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.Item.Item",1,3,3,4
+Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.Item.check",1,2,2,2
+Private Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.Item.checksum",1,2,2,2
+Public Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.close",1,2,2,2
+Public Generic Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.compareAndSwap",1,3,3,4
+Public Generic Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.get",1,3,3,3
+Public Generic Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.put",1,2,2,2
+Public Generic Method,"org.mapdb.EngineWrapper.ImmutabilityCheckEngine.update",1,3,3,3
+Public Constructor,"org.mapdb.EngineWrapper.ReadOnlyEngine.ReadOnlyEngine",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.commit",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.compareAndSwap",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.delete",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.preallocate",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.preallocate",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.put",1,1,1,1
+Private Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.readOnly",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.rollback",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.ReadOnlyEngine.update",1,1,1,1
+Protected Constructor,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.SerializerCheckEngineWrapper",1,1,1,1
+Protected Generic Method,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.checkSerializer",1,3,3,4
+Public Generic Method,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.compareAndSwap",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.delete",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.get",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SerializerCheckEngineWrapper.update",1,1,1,1
+Protected Constructor,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.SynchronizedEngineWrapper",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.close",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.commit",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.compact",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.compareAndSwap",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.delete",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.get",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.isClosed",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.preallocate",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.preallocate",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.put",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.rollback",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.SynchronizedEngineWrapper.update",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.canRollback",1,1,1,1
+Protected Static Generic Method,"org.mapdb.EngineWrapper.checkClosed",1,2,2,2
+Public Method,"org.mapdb.EngineWrapper.clearCache",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.close",1,2,2,2
+Public Method,"org.mapdb.EngineWrapper.commit",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.compact",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.compareAndSwap",1,1,1,2
+Public Generic Method,"org.mapdb.EngineWrapper.delete",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.get",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.getSerializerPojo",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.getWrappedEngine",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.isClosed",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.preallocate",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.preallocate",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.put",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper.rollback",1,1,1,1
+Public Generic Method,"org.mapdb.EngineWrapper.update",1,1,1,1
+Public Method,"org.mapdb.EngineWrapper_ImmutabilityCheckEngine.test",1,3,3,3
+Public Method,"org.mapdb.ExamplesTest.Bidi_Map",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Cache",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Compression",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Custom_Value",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Histogram",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Huge_Insert",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Lazily_Loaded_Records",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Map_Size_Counter",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.MultiMap",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Pump_InMemory_Import_Than_Save_To_Disk",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.SQL_Auto_Incremental_Unique_Key",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Secondary_Key",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Secondary_Map",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Transactions",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.Transactions2",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest.TreeMap_Composite_Key",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest._HelloWorld",1,1,1,1
+Public Method,"org.mapdb.ExamplesTest._TempMap",1,1,1,1
+Public Method,"org.mapdb.Fun.(Anon_1).toString",1,1,1,1
+Private Constructor,"org.mapdb.Fun.Fun",1,1,1,1
+Abstract Method,"org.mapdb.Fun.Function1.run",1,1,1,1
+Abstract Method,"org.mapdb.Fun.Function2.run",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.HI",1,1,1,1
+Abstract Method,"org.mapdb.Fun.Runnable2.run",1,1,1,1
+Abstract Method,"org.mapdb.Fun.Runnable3.run",1,1,1,1
+Public Constructor,"org.mapdb.Fun.Tuple2.Tuple2",1,1,1,1
+Public Method,"org.mapdb.Fun.Tuple2.compareTo",9,9,9,13
+Public Method,"org.mapdb.Fun.Tuple2.equals",5,7,7,8
+Public Method,"org.mapdb.Fun.Tuple2.hashCode",1,3,3,3
+Public Method,"org.mapdb.Fun.Tuple2.toString",1,1,1,1
+Public Constructor,"org.mapdb.Fun.Tuple3.Tuple3",1,1,1,1
+Public Method,"org.mapdb.Fun.Tuple3.compareTo",13,13,13,19
+Public Method,"org.mapdb.Fun.Tuple3.equals",6,9,9,10
+Public Method,"org.mapdb.Fun.Tuple3.hashCode",1,4,4,4
+Public Method,"org.mapdb.Fun.Tuple3.toString",1,1,1,1
+Public Constructor,"org.mapdb.Fun.Tuple4.Tuple4",1,1,1,1
+Public Method,"org.mapdb.Fun.Tuple4.compareTo",17,17,17,25
+Public Method,"org.mapdb.Fun.Tuple4.equals",7,11,11,12
+Public Method,"org.mapdb.Fun.Tuple4.hashCode",1,5,5,5
+Public Method,"org.mapdb.Fun.Tuple4.toString",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.keyExtractor",1,1,1,1
+Public Method,"org.mapdb.Fun.keyExtractor.(Anon_3).run",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.noTransformExtractor",1,1,1,1
+Public Method,"org.mapdb.Fun.noTransformExtractor.(Anon_2).run",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.t2",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.t3",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.t4",1,1,1,1
+Public Static Generic Method,"org.mapdb.Fun.valueExtractor",1,1,1,1
+Public Method,"org.mapdb.Fun.valueExtractor.(Anon_4).run",1,1,1,1
+Public Method,"org.mapdb.FunTest.compare",4,4,4,4
+Public Method,"org.mapdb.FunTest.lo_hi",1,1,1,1
+Public Method,"org.mapdb.FunTest.t2_compare",1,8,8,14
+Public Method,"org.mapdb.FunTest.t2_equals",1,1,1,1
+Public Method,"org.mapdb.FunTest.t3_compare",1,7,7,7
+Public Method,"org.mapdb.FunTest.t4_compare",1,9,9,9
+Public Method,"org.mapdb.FunTest.testSubMap",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.(Anon_1).deserialize",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.(Anon_1).serialize",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.(Anon_2).deserialize",1,4,4,4
+Public Method,"org.mapdb.HTreeMap.(Anon_2).serialize",5,10,10,10
+Public Method,"org.mapdb.HTreeMap.(Anon_3).contains",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_3).isEmpty",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_3).iterator",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_3).size",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_4).add",1,2,2,3
+Public Method,"org.mapdb.HTreeMap.(Anon_4).clear",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_4).contains",1,2,2,3
+Public Method,"org.mapdb.HTreeMap.(Anon_4).isEmpty",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_4).iterator",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.(Anon_4).remove",3,3,3,3
+Public Method,"org.mapdb.HTreeMap.(Anon_4).size",1,1,1,1
+Constructor,"org.mapdb.HTreeMap.Entry2.Entry2",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.Entry2.equals",1,1,1,2
+Public Method,"org.mapdb.HTreeMap.Entry2.getKey",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.Entry2.getValue",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.Entry2.hashCode",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.Entry2.setValue",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.EntryIterator.next",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.ExpireLinkNode.(Anon_5).deserialize",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.ExpireLinkNode.(Anon_5).serialize",1,2,2,2
+Public Constructor,"org.mapdb.HTreeMap.ExpireLinkNode.ExpireLinkNode",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.ExpireLinkNode.copyNext",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.ExpireLinkNode.copyPrev",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.ExpireLinkNode.copyTime",1,1,1,1
+Public Constructor,"org.mapdb.HTreeMap.ExpireRunnable.ExpireRunnable",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.ExpireRunnable.run",3,5,5,7
+Public Constructor,"org.mapdb.HTreeMap.HTreeMap",1,13,13,18
+Constructor,"org.mapdb.HTreeMap.HashIterator.HashIterator",1,1,1,1
+Private Method,"org.mapdb.HTreeMap.HashIterator.advance",4,5,5,7
+Private Method,"org.mapdb.HTreeMap.HashIterator.findNextLinkedNode",3,8,8,8
+Private Method,"org.mapdb.HTreeMap.HashIterator.findNextLinkedNodeRecur",9,11,11,11
+Public Method,"org.mapdb.HTreeMap.HashIterator.hasNext",1,1,1,2
+Protected Method,"org.mapdb.HTreeMap.HashIterator.moveToNext",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.HashIterator.remove",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.KeyIterator.next",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.KeySet.add",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.KeySet.clear",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.contains",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.isEmpty",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.iterator",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.parent",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.remove",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.KeySet.size",1,1,1,1
+Public Constructor,"org.mapdb.HTreeMap.LinkedNode.LinkedNode",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.ValueIterator.next",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.addModificationListener",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.clear",1,4,4,4
+Public Method,"org.mapdb.HTreeMap.close",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.containsKey",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.containsValue",3,3,3,3
+Public Method,"org.mapdb.HTreeMap.entrySet",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap.exirePurgeSegment",3,5,5,8
+Protected Method,"org.mapdb.HTreeMap.expireCheckSegment",1,6,6,6
+Protected Method,"org.mapdb.HTreeMap.expireLinkAdd",1,3,3,3
+Protected Method,"org.mapdb.HTreeMap.expireLinkBump",1,6,6,6
+Protected Method,"org.mapdb.HTreeMap.expireLinkRemove",1,4,4,5
+Protected Method,"org.mapdb.HTreeMap.expireLinkRemoveLast",1,3,3,3
+Protected Method,"org.mapdb.HTreeMap.expirePurge",1,5,5,5
+Public Method,"org.mapdb.HTreeMap.get",5,7,7,8
+Protected Method,"org.mapdb.HTreeMap.getInner",10,11,11,11
+Public Method,"org.mapdb.HTreeMap.getMaxExpireTime",5,5,5,6
+Public Method,"org.mapdb.HTreeMap.getMinExpireTime",5,6,6,7
+Public Method,"org.mapdb.HTreeMap.getPeek",3,3,3,3
+Protected Method,"org.mapdb.HTreeMap.hash",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.isEmpty",4,4,4,4
+Public Method,"org.mapdb.HTreeMap.keySet",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap.notify",1,3,3,3
+Protected Static Method,"org.mapdb.HTreeMap.preallocateSegments",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.put",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.putAll",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.putIfAbsent",1,3,3,4
+Private Method,"org.mapdb.HTreeMap.putInner",7,18,18,19
+Private Method,"org.mapdb.HTreeMap.recursiveDirClear",6,8,8,8
+Private Method,"org.mapdb.HTreeMap.recursiveDirCount",5,8,8,8
+Private Method,"org.mapdb.HTreeMap.recursiveDirDelete",5,8,8,8
+Public Method,"org.mapdb.HTreeMap.remove",1,1,1,1
+Public Method,"org.mapdb.HTreeMap.remove",1,3,3,5
+Protected Method,"org.mapdb.HTreeMap.removeInternal",6,13,13,14
+Public Method,"org.mapdb.HTreeMap.removeModificationListener",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.replace",1,3,3,4
+Public Method,"org.mapdb.HTreeMap.replace",1,3,3,6
+Public Method,"org.mapdb.HTreeMap.size",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.sizeLong",1,3,3,3
+Public Method,"org.mapdb.HTreeMap.snapshot",1,2,2,2
+Public Method,"org.mapdb.HTreeMap.values",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.cache_load_size_expire",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.cache_load_time_expire",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.clear",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.divMod8",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.expire_link_simple_add_remove",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.expire_link_test",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.expire_max_size",1,3,3,4
+Public Method,"org.mapdb.HTreeMap2Test.expire_put",1,2,2,2
+Method,"org.mapdb.HTreeMap2Test.getExpireList",1,2,2,2
+Public Method,"org.mapdb.HTreeMap2Test.ln_serialization",1,1,1,1
+Method,"org.mapdb.HTreeMap2Test.printMap",1,1,1,1
+Private Static Method,"org.mapdb.HTreeMap2Test.recursiveToString",1,9,9,9
+Method,"org.mapdb.HTreeMap2Test.swap",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.testDirSerializer",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.testIteration",4,10,10,10
+Protected Method,"org.mapdb.HTreeMap2Test.testIteration.(Anon_4).hash",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.testMinMaxExpiryTime",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.testSingleIter",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.test_delete",1,5,5,5
+Protected Method,"org.mapdb.HTreeMap2Test.test_delete.(Anon_3).hash",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.test_hash_collision",1,3,3,3
+Protected Method,"org.mapdb.HTreeMap2Test.test_hash_collision.(Anon_1).hash",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.test_hash_dir_expand",1,9,9,9
+Protected Method,"org.mapdb.HTreeMap2Test.test_hash_dir_expand.(Anon_2).hash",1,1,1,1
+Public Method,"org.mapdb.HTreeMap2Test.test_simple_put",1,1,1,1
+Static Method,"org.mapdb.HTreeMap2Test.toString",1,3,3,3
+Public Constructor,"org.mapdb.HTreeMap3Test.HTreeMap3Test",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap3Test.getKeyNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap3Test.getSecondValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap3Test.getValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap3Test.makeEmptyMap",1,1,1,1
+Protected Method,"org.mapdb.HTreeMap3Test.makePopulatedMap",1,2,2,2
+Public Method,"org.mapdb.HTreeSetTest.issue116_isEmpty",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.setUp",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_Constructor",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_addLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_clear",1,2,2,2
+Public Method,"org.mapdb.HTreeSetTest.test_containsLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_isEmpty",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_iterator",1,2,2,2
+Public Method,"org.mapdb.HTreeSetTest.test_removeLjava_lang_Object",1,1,1,1
+Public Method,"org.mapdb.HTreeSetTest.test_size",1,1,1,1
+Public Method,"org.mapdb.Issue112Test.testDoubleCommit",1,1,1,1
+Public Method,"org.mapdb.Issue114Test.test",1,1,1,1
+Static Method,"org.mapdb.Issue132Test.count",1,2,2,2
+Static Method,"org.mapdb.Issue132Test.expectCount",1,1,1,1
+Public Method,"org.mapdb.Issue132Test.test_full",1,5,5,5
+Public Method,"org.mapdb.Issue132Test.test_isolate",1,4,4,4
+Public Constructor,"org.mapdb.Issue148Test.CustomValue.CustomValue",1,1,1,1
+Public Method,"org.mapdb.Issue148Test.CustomValue.equals",8,8,8,8
+Public Method,"org.mapdb.Issue148Test.CustomValue.hashCode",1,2,2,2
+Public Method,"org.mapdb.Issue148Test.CustomValueSerializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue148Test.CustomValueSerializer.serialize",1,1,1,1
+Public Static Method,"org.mapdb.Issue148Test.dumpUserDB",1,3,3,3
+Public Method,"org.mapdb.Issue148Test.repeated_update",1,2,2,2
+Public Method,"org.mapdb.Issue148Test.test",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.CustomSerializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.CustomSerializer.serialize",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.EntityA.equals",10,10,10,10
+Public Method,"org.mapdb.Issue150Test.EntityA.getId",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.EntityA.getName",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.EntityA.hashCode",1,3,3,3
+Public Method,"org.mapdb.Issue150Test.EntityA.setId",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.EntityA.setName",1,1,1,1
+Public Method,"org.mapdb.Issue150Test.test",1,1,1,1
+Public Method,"org.mapdb.Issue154Test.BTreeMap",1,1,1,1
+Public Method,"org.mapdb.Issue154Test.HTreeMap",1,1,1,1
+Public Method,"org.mapdb.Issue154Test.simple",1,1,1,1
+Public Method,"org.mapdb.Issue157Test.concurrent_BTreeMap",1,2,2,3
+Public Method,"org.mapdb.Issue157Test.concurrent_BTreeMap.(Anon_1).run",1,2,2,2
+Public Method,"org.mapdb.Issue157Test.concurrent_BTreeMap.(Anon_2).run",1,2,2,2
+Public Constructor,"org.mapdb.Issue162Test.MyValue.MyValue",1,1,1,1
+Public Method,"org.mapdb.Issue162Test.MyValue.equals",4,4,4,4
+Public Method,"org.mapdb.Issue162Test.MyValue.hashCode",1,1,1,1
+Public Method,"org.mapdb.Issue162Test.MyValue.toString",1,1,1,1
+Public Method,"org.mapdb.Issue162Test.MyValueSerializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue162Test.MyValueSerializer.serialize",1,1,1,1
+Private Static Method,"org.mapdb.Issue162Test.printEntries",1,2,2,2
+Public Method,"org.mapdb.Issue162Test.testBTreeMap",1,1,1,1
+Public Method,"org.mapdb.Issue162Test.testHashMap",1,1,1,1
+Public Constructor,"org.mapdb.Issue164Test.Scenario.Scenario",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.Scenario.addConversationNodeId",1,2,2,2
+Public Method,"org.mapdb.Issue164Test.Scenario.getBrief",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.Scenario.getHeadNodeId",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.Scenario.getId",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.Scenario.removeConversationNodeId",1,3,3,3
+Public Method,"org.mapdb.Issue164Test.Scenario.setBrief",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.Scenario.setHeadNodeId",1,2,2,2
+Public Method,"org.mapdb.Issue164Test.Scenario.setId",1,1,1,1
+Public Method,"org.mapdb.Issue164Test.main",1,3,3,3
+Public Method,"org.mapdb.Issue170Test.test",1,2,2,2
+Public Method,"org.mapdb.Issue183Test.StringSerializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue183Test.StringSerializer.serialize",1,1,1,1
+Public Method,"org.mapdb.Issue183Test.main",1,1,1,1
+Public Method,"org.mapdb.Issue198Test.main",1,2,2,2
+Public Method,"org.mapdb.Issue37Test.test3",1,6,6,6
+Public Constructor,"org.mapdb.Issue41Test.Key.Key",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.Key.Serializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.Key.Serializer.serialize",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.Key.equals",10,10,10,10
+Public Method,"org.mapdb.Issue41Test.Key.hashCode",1,3,3,3
+Public Method,"org.mapdb.Issue41Test.Value.Serializer.deserialize",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.Value.Serializer.serialize",1,1,1,1
+Public Constructor,"org.mapdb.Issue41Test.Value.Value",1,1,1,1
+Private Constructor,"org.mapdb.Issue41Test.Value.Value",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.Value.equals",7,7,7,7
+Public Method,"org.mapdb.Issue41Test.Value.hashCode",1,2,2,2
+Public Method,"org.mapdb.Issue41Test.setUp",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.tearDown",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.test1",1,2,2,2
+Public Method,"org.mapdb.Issue41Test.test1.(for_loop_1).(Anon_1).run",1,1,1,1
+Public Method,"org.mapdb.Issue41Test.test2",1,2,2,2
+Public Method,"org.mapdb.Issue41Test.test2.(for_loop_2).(Anon_2).run",1,3,3,3
+Public Method,"org.mapdb.Issue69Test.setUp",1,1,1,1
+Public Method,"org.mapdb.Issue69Test.tearDown",1,1,1,1
+Public Method,"org.mapdb.Issue69Test.testStackOverflowError",1,6,6,6
+Public Method,"org.mapdb.Issue77Test.cleanup",1,2,2,2
+Method,"org.mapdb.Issue77Test.create",1,2,2,2
+Method,"org.mapdb.Issue77Test.getRandomData",1,1,1,1
+Method,"org.mapdb.Issue77Test.open",1,2,2,2
+Method,"org.mapdb.Issue77Test.read",1,1,1,1
+Public Method,"org.mapdb.Issue77Test.run",1,1,1,1
+Public Method,"org.mapdb.Issue78Test.setUp",1,1,1,1
+Public Method,"org.mapdb.Issue78Test.tearDown",1,1,1,1
+Public Method,"org.mapdb.Issue78Test.testIssue",1,1,1,1
+Public Method,"org.mapdb.Issue86Test.Array",1,3,3,3
+Public Method,"org.mapdb.Issue86Test.FieldArray",1,2,2,2
+Public Constructor,"org.mapdb.Issue86Test.StringContainer.StringContainer",1,1,1,1
+Public Constructor,"org.mapdb.Issue86Test.StringContainer.StringContainer",1,2,2,2
+Public Method,"org.mapdb.Issue86Test.StringContainer.getContainer",1,1,1,1
+Public Method,"org.mapdb.Issue86Test.StringContainer.setContainer",1,1,1,1
+Public Static Method,"org.mapdb.Issue86Test.createFileStore",1,1,1,1
+Private Method,"org.mapdb.Issue89Test.addData",1,1,1,1
+Private Method,"org.mapdb.Issue89Test.appendToDataFile",1,1,1,1
+Private Method,"org.mapdb.Issue89Test.createMapDB",1,1,1,1
+Private Method,"org.mapdb.Issue89Test.createMapDB",1,1,1,1
+Private Method,"org.mapdb.Issue89Test.deleteFile",1,2,2,2
+Public Method,"org.mapdb.Issue89Test.setUp",1,1,1,1
+Public Method,"org.mapdb.Issue89Test.tearDown",1,1,1,1
+Public Method,"org.mapdb.Issue89Test.testAppend",1,1,1,1
+Public Method,"org.mapdb.Issue90Test.testCounter",1,2,2,2
+Public Method,"org.mapdb.IssuesTest.issue130",1,1,1,1
+Public Method,"org.mapdb.JSR166TestCase.shouldThrow",1,1,1,1
+Public Constructor,"org.mapdb.LoggerVolume.Factory.Factory",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.Factory.createIndexVolume",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.Factory.createPhysVolume",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.Factory.createTransLogVolume",1,1,1,1
+Public Constructor,"org.mapdb.LoggerVolume.LoggerVolume",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.close",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.deleteFile",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.ensureAvailable",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.getByte",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.getDataInput",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.getFile",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.getInt",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.getLong",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.isEmpty",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.isSliced",1,1,1,1
+Protected Method,"org.mapdb.LoggerVolume.logStackTrace",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.putByte",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.putData",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.putData",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.putInt",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.putLong",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.sync",1,1,1,1
+Public Method,"org.mapdb.LoggerVolume.tryAvailable",1,1,1,1
+Constructor,"org.mapdb.LongConcurrentHashMap.HashEntry.HashEntry",1,1,1,1
+Static Generic Method,"org.mapdb.LongConcurrentHashMap.HashEntry.newArray",1,1,1,1
+Constructor,"org.mapdb.LongConcurrentHashMap.HashIterator.HashIterator",1,1,1,1
+Method,"org.mapdb.LongConcurrentHashMap.HashIterator.advance",8,8,8,9
+Public Method,"org.mapdb.LongConcurrentHashMap.HashIterator.hasNext",1,1,1,1
+Method,"org.mapdb.LongConcurrentHashMap.HashIterator.nextEntry",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.HashIterator.remove",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.KeyIterator.next",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentHashMap.LongConcurrentHashMap",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentHashMap.LongConcurrentHashMap",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentHashMap.LongConcurrentHashMap",1,8,8,10
+Public Method,"org.mapdb.LongConcurrentHashMap.MapIterator.key",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.MapIterator.moveToNext",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.MapIterator.value",1,1,1,1
+Constructor,"org.mapdb.LongConcurrentHashMap.Segment.Segment",1,1,1,1
+Method,"org.mapdb.LongConcurrentHashMap.Segment.clear",1,3,3,3
+Method,"org.mapdb.LongConcurrentHashMap.Segment.containsKey",4,4,4,5
+Method,"org.mapdb.LongConcurrentHashMap.Segment.containsValue",5,6,6,6
+Method,"org.mapdb.LongConcurrentHashMap.Segment.get",5,5,5,6
+Method,"org.mapdb.LongConcurrentHashMap.Segment.getFirst",1,1,1,1
+Static Generic Method,"org.mapdb.LongConcurrentHashMap.Segment.newArray",1,1,1,1
+Method,"org.mapdb.LongConcurrentHashMap.Segment.put",1,5,5,7
+Method,"org.mapdb.LongConcurrentHashMap.Segment.readValueUnderLock",1,1,1,1
+Method,"org.mapdb.LongConcurrentHashMap.Segment.rehash",1,8,8,8
+Method,"org.mapdb.LongConcurrentHashMap.Segment.remove",1,5,5,8
+Method,"org.mapdb.LongConcurrentHashMap.Segment.replace",1,3,3,6
+Method,"org.mapdb.LongConcurrentHashMap.Segment.replace",1,3,3,5
+Method,"org.mapdb.LongConcurrentHashMap.Segment.setTable",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.ValueIterator.next",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.clear",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.containsKey",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.containsValue",10,13,13,13
+Public Method,"org.mapdb.LongConcurrentHashMap.get",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.isEmpty",6,6,6,7
+Public Method,"org.mapdb.LongConcurrentHashMap.longMapIterator",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.put",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.putIfAbsent",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.remove",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.remove",1,1,1,2
+Public Method,"org.mapdb.LongConcurrentHashMap.replace",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMap.replace",1,2,2,3
+Method,"org.mapdb.LongConcurrentHashMap.segmentFor",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMap.size",6,12,12,12
+Public Method,"org.mapdb.LongConcurrentHashMap.valuesIterator",1,1,1,1
+Private Static Method,"org.mapdb.LongConcurrentHashMapTest.map5",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.shouldThrow",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testClear",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testConstructor1",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testConstructor2",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testConstructor3",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testContainsKey",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testContainsValue",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testContainsValue_NullPointerException",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testEnumeration",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testGet",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testIsEmpty",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testPutIfAbsent",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testPutIfAbsent2",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testRemove",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testRemove2",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testReplace",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testReplace2",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testReplaceValue",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testReplaceValue2",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentHashMapTest.testSize",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentLRUMap.CacheEntry.CacheEntry",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.CacheEntry.compareTo",1,3,3,3
+Public Method,"org.mapdb.LongConcurrentLRUMap.CacheEntry.equals",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.CacheEntry.hashCode",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.CacheEntry.toString",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentLRUMap.LongConcurrentLRUMap",1,3,3,3
+Public Constructor,"org.mapdb.LongConcurrentLRUMap.LongConcurrentLRUMap",1,1,1,1
+Constructor,"org.mapdb.LongConcurrentLRUMap.PQueue.PQueue",1,1,1,1
+Method,"org.mapdb.LongConcurrentLRUMap.PQueue.getValues",1,1,1,1
+Protected Method,"org.mapdb.LongConcurrentLRUMap.PQueue.lessThan",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.PQueue.myInsertWithOverflow",3,3,3,4
+Public Constructor,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.PriorityQueue",1,1,1,1
+Public Constructor,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.PriorityQueue",1,6,6,6
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.add",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.clear",1,2,2,2
+Private Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.downHeap",1,4,4,7
+Protected Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.getHeapArray",1,1,1,1
+Protected Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.getSentinelObject",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.insertWithOverflow",3,3,3,4
+Protected Abstract Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.lessThan",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.pop",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.size",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.top",1,1,1,1
+Private Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.upHeap",1,2,2,3
+Public Method,"org.mapdb.LongConcurrentLRUMap.PriorityQueue.updateTop",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.clear",1,1,1,1
+Private Method,"org.mapdb.LongConcurrentLRUMap.evictEntry",1,2,2,2
+Protected Method,"org.mapdb.LongConcurrentLRUMap.evictedEntry",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.get",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentLRUMap.getMap",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.isEmpty",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.longMapIterator",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.longMapIterator.(Anon_2).key",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.longMapIterator.(Anon_2).moveToNext",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.longMapIterator.(Anon_2).remove",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.longMapIterator.(Anon_2).value",1,1,1,1
+Private Method,"org.mapdb.LongConcurrentLRUMap.markAndSweep",9,22,22,24
+Public Method,"org.mapdb.LongConcurrentLRUMap.put",1,5,5,6
+Public Method,"org.mapdb.LongConcurrentLRUMap.remove",1,2,2,2
+Public Method,"org.mapdb.LongConcurrentLRUMap.size",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.valuesIterator",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.valuesIterator.(Anon_1).hasNext",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.valuesIterator.(Anon_1).next",1,1,1,1
+Public Method,"org.mapdb.LongConcurrentLRUMap.valuesIterator.(Anon_1).remove",1,1,1,1
+Constructor,"org.mapdb.LongHashMap.AbstractMapIterator.AbstractMapIterator",1,1,1,1
+Method,"org.mapdb.LongHashMap.AbstractMapIterator.checkConcurrentMod",1,2,2,2
+Public Method,"org.mapdb.LongHashMap.AbstractMapIterator.hasNext",4,4,4,4
+Method,"org.mapdb.LongHashMap.AbstractMapIterator.makeNext",1,4,4,4
+Public Method,"org.mapdb.LongHashMap.AbstractMapIterator.remove",1,3,3,3
+Public Constructor,"org.mapdb.LongHashMap.Entry.Entry",1,1,1,1
+Constructor,"org.mapdb.LongHashMap.EntryIterator.EntryIterator",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.EntryIterator.key",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.EntryIterator.moveToNext",1,2,2,2
+Public Method,"org.mapdb.LongHashMap.EntryIterator.value",1,1,1,1
+Public Constructor,"org.mapdb.LongHashMap.LongHashMap",1,1,1,1
+Public Constructor,"org.mapdb.LongHashMap.LongHashMap",1,1,1,1
+Public Constructor,"org.mapdb.LongHashMap.LongHashMap",1,2,2,3
+Constructor,"org.mapdb.LongHashMap.ValueIterator.ValueIterator",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.ValueIterator.next",1,1,1,1
+Private Static Method,"org.mapdb.LongHashMap.calculateCapacity",3,3,3,3
+Public Method,"org.mapdb.LongHashMap.clear",1,2,2,2
+Private Method,"org.mapdb.LongHashMap.computeThreshold",1,1,1,1
+Method,"org.mapdb.LongHashMap.createHashedEntry",1,1,1,1
+Method,"org.mapdb.LongHashMap.findNonNullKeyEntry",1,2,2,4
+Public Method,"org.mapdb.LongHashMap.get",1,2,2,2
+Method,"org.mapdb.LongHashMap.getEntry",1,1,1,1
+Protected Method,"org.mapdb.LongHashMap.hashSaltValue",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.isEmpty",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.longMapIterator",1,1,1,1
+Method,"org.mapdb.LongHashMap.newElementArray",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.put",1,3,3,3
+Method,"org.mapdb.LongHashMap.rehash",1,4,4,4
+Method,"org.mapdb.LongHashMap.rehash",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.remove",1,2,2,2
+Method,"org.mapdb.LongHashMap.removeEntry",1,4,4,6
+Public Method,"org.mapdb.LongHashMap.size",1,1,1,1
+Public Method,"org.mapdb.LongHashMap.valuesIterator",1,1,1,1
+Public Method,"org.mapdb.LongHashMapTest.checkEquals",1,3,3,3
+Public Method,"org.mapdb.LongHashMapTest.test2",1,1,1,1
+Public Method,"org.mapdb.LongHashMapTest.testAll",1,1,1,1
+Protected Method,"org.mapdb.LongHashMapTest.testAll.(Anon_1).hashSaltValue",1,1,1,1
+Public Method,"org.mapdb.LongHashMapTest.testMapIter",1,2,2,2
+Public Method,"org.mapdb.LongHashMapTest.testRandomCompare",1,3,3,3
+Public Method,"org.mapdb.LongHashMapTest.test_Issue6",1,1,1,1
+Abstract Method,"org.mapdb.LongMap.LongMapIterator.key",1,1,1,1
+Abstract Method,"org.mapdb.LongMap.LongMapIterator.moveToNext",1,1,1,1
+Abstract Method,"org.mapdb.LongMap.LongMapIterator.remove",1,1,1,1
+Abstract Method,"org.mapdb.LongMap.LongMapIterator.value",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.clear",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.get",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.isEmpty",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.longMapIterator",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.put",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.remove",1,1,1,1
+Public Abstract Method,"org.mapdb.LongMap.size",1,1,1,1
+Public Method,"org.mapdb.LongMap.toString",1,3,3,3
+Public Abstract Method,"org.mapdb.LongMap.valuesIterator",1,1,1,1
+Protected Constructor,"org.mapdb.MapInterfaceTest.MapInterfaceTest",1,1,1,1
+Protected Method,"org.mapdb.MapInterfaceTest.assertInvariants",1,10,10,12
+Protected Method,"org.mapdb.MapInterfaceTest.assertMoreInvariants",1,1,1,1
+Protected Abstract Method,"org.mapdb.MapInterfaceTest.getKeyNotInPopulatedMap",1,1,1,1
+Protected Abstract Method,"org.mapdb.MapInterfaceTest.getValueNotInPopulatedMap",1,1,1,1
+Protected Method,"org.mapdb.MapInterfaceTest.makeEitherMap",1,2,2,2
+Protected Abstract Method,"org.mapdb.MapInterfaceTest.makeEmptyMap",1,1,1,1
+Protected Abstract Method,"org.mapdb.MapInterfaceTest.makePopulatedMap",1,1,1,1
+Private Static Generic Method,"org.mapdb.MapInterfaceTest.mapEntry",1,1,1,1
+Protected Method,"org.mapdb.MapInterfaceTest.supportsValuesHashCode",4,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testClear",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testContainsKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testContainsValue",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySet",3,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetAddAndAddAll",1,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetClear",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetContainsEntryNullKeyMissing",3,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetContainsEntryNullKeyPresent",4,4,4,5
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetForEmptyMap",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetIteratorLastHasNext",1,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetIteratorLastNext",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetIteratorRemove",1,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemove",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveAll",1,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveDifferentValue",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveMissingKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveNullKeyMissing",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRemoveNullKeyPresent",4,4,4,6
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRetainAll",1,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetRetainAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetSetValue",3,3,3,4
+Public Method,"org.mapdb.MapInterfaceTest.testEntrySetSetValueSameValue",3,3,3,4
+Public Method,"org.mapdb.MapInterfaceTest.testEqualsForEmptyMap",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testEqualsForEqualMap",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testEqualsForLargerMap",3,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testEqualsForSmallerMap",3,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testGet",3,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testGetForEmptyMap",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testGetNull",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testHashCode",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testHashCodeForEmptyMap",1,2,2,2
+Public Method,"org.mapdb.MapInterfaceTest.testKeySetClear",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testKeySetIteratorLastHasNext",1,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testKeySetIteratorLastNext",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testKeySetRemoveAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testKeySetRetainAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testPutAllExistingKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testPutAllNewKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testPutExistingKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testPutNewKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testPutNullKey",3,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testPutNullValue",3,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testPutNullValueForExistingKey",3,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testRemove",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testRemoveMissingKey",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testSize",1,1,1,1
+Public Method,"org.mapdb.MapInterfaceTest.testValues",3,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testValuesClear",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testValuesIteratorLastHasNext",1,3,3,3
+Public Method,"org.mapdb.MapInterfaceTest.testValuesIteratorLastNext",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testValuesIteratorRemove",1,5,5,5
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRemove",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRemoveAll",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRemoveAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRemoveMissing",1,4,4,4
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRetainAll",1,6,6,6
+Public Method,"org.mapdb.MapInterfaceTest.testValuesRetainAllNullFromEmpty",1,6,6,6
+Public Method,"org.mapdb.MapListenerTest.hashMap",1,1,1,1
+Public Method,"org.mapdb.MapListenerTest.treeMap",1,1,1,1
+Method,"org.mapdb.MapListenerTest.tt",1,1,1,16
+Public Method,"org.mapdb.MapListenerTest.tt.(Anon_1).update",1,1,1,1
+Private Static Generic Method,"org.mapdb.Pump.arrayList",1,1,1,1
+Public Static Generic Method,"org.mapdb.Pump.buildTreeMap",4,17,17,19
+Public Static Method,"org.mapdb.Pump.copy",1,1,1,1
+Public Static Method,"org.mapdb.Pump.copy",3,4,4,4
+Public Static Generic Method,"org.mapdb.Pump.sort",3,10,10,10
+Public Static Generic Method,"org.mapdb.Pump.sort",1,1,1,1
+Public Method,"org.mapdb.Pump.sort.(Anon_2).hasNext",1,1,1,1
+Public Method,"org.mapdb.Pump.sort.(Anon_2).next",3,5,5,6
+Public Method,"org.mapdb.Pump.sort.(Anon_2).remove",1,1,1,1
+Public Method,"org.mapdb.Pump.sort.(for_loop_5).(Anon_1).hasNext",1,1,1,1
+Public Method,"org.mapdb.Pump.sort.(for_loop_5).(Anon_1).next",1,3,3,3
+Public Method,"org.mapdb.Pump.sort.(for_loop_5).(Anon_1).remove",1,1,1,1
+Public Static Method,"org.mapdb.Pump.storeForDB",1,1,1,1
+Public Static Method,"org.mapdb.Pump.storeForEngine",1,2,2,2
+Public Method,"org.mapdb.PumpTest.build_treemap",1,4,4,4
+Public Method,"org.mapdb.PumpTest.build_treemap.(Anon_1).run",1,1,1,1
+Public Method,"org.mapdb.PumpTest.build_treemap_fails_with_unsorted",1,1,1,1
+Public Method,"org.mapdb.PumpTest.build_treemap_fails_with_unsorted2",1,1,1,1
+Public Method,"org.mapdb.PumpTest.build_treeset",1,4,4,4
+Public Method,"org.mapdb.PumpTest.copy",1,3,3,3
+Public Method,"org.mapdb.PumpTest.copy_all_stores",5,6,6,6
+Public Method,"org.mapdb.PumpTest.copy_all_stores_simple",5,5,5,5
+Method,"org.mapdb.PumpTest.makeDB",4,4,4,4
+Public Method,"org.mapdb.PumpTest.presort",1,3,3,3
+Public Constructor,"org.mapdb.Queues.CircularQueue.CircularQueue",1,1,1,1
+Public Method,"org.mapdb.Queues.CircularQueue.add",1,1,1,1
+Public Method,"org.mapdb.Queues.CircularQueue.clear",1,2,2,2
+Public Method,"org.mapdb.Queues.CircularQueue.peek",1,1,1,1
+Public Method,"org.mapdb.Queues.CircularQueue.poll",1,1,1,1
+Public Constructor,"org.mapdb.Queues.Queue.Queue",1,1,1,1
+Public Method,"org.mapdb.Queues.Queue.add",1,2,2,2
+Public Method,"org.mapdb.Queues.Queue.peek",4,4,4,4
+Public Method,"org.mapdb.Queues.Queue.poll",6,7,7,7
+Private Constructor,"org.mapdb.Queues.Queues",1,1,1,1
+Public Constructor,"org.mapdb.Queues.SimpleQueue.Node.Node",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.Node.equals",5,6,6,7
+Public Method,"org.mapdb.Queues.SimpleQueue.Node.hashCode",1,2,2,2
+Public Constructor,"org.mapdb.Queues.SimpleQueue.NodeSerializer.NodeSerializer",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.NodeSerializer.deserialize",1,2,2,2
+Public Method,"org.mapdb.Queues.SimpleQueue.NodeSerializer.serialize",1,2,2,2
+Public Constructor,"org.mapdb.Queues.SimpleQueue.SimpleQueue",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.addAll",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.clear",1,2,2,2
+Public Method,"org.mapdb.Queues.SimpleQueue.close",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.contains",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.containsAll",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.element",1,2,2,2
+Public Method,"org.mapdb.Queues.SimpleQueue.isEmpty",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.iterator",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.offer",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.remove",1,2,2,2
+Public Method,"org.mapdb.Queues.SimpleQueue.remove",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.removeAll",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.retainAll",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.size",1,1,1,1
+Public Method,"org.mapdb.Queues.SimpleQueue.toArray",1,1,1,1
+Public Generic Method,"org.mapdb.Queues.SimpleQueue.toArray",1,1,1,1
+Public Constructor,"org.mapdb.Queues.Stack.Stack",1,2,2,2
+Public Method,"org.mapdb.Queues.Stack.add",1,2,2,2
+Public Method,"org.mapdb.Queues.Stack.peek",5,5,5,5
+Public Method,"org.mapdb.Queues.Stack.poll",3,6,6,10
+Public Method,"org.mapdb.QueuesTest.circular_queue_persisted",1,1,1,1
+Public Method,"org.mapdb.QueuesTest.queue_persisted",1,1,1,1
+Public Method,"org.mapdb.QueuesTest.stack_persisted",1,1,1,1
+Public Method,"org.mapdb.Serialization2Bean.equals",25,25,25,25
+Public Method,"org.mapdb.Serialization2Bean.hashCode",1,8,8,8
+Public Method,"org.mapdb.Serialization2Test.test2",1,1,1,1
+Public Method,"org.mapdb.Serialization2Test.test2_engine",1,1,1,1
+Public Method,"org.mapdb.Serialization2Test.test3",1,1,1,1
+Public Method,"org.mapdb.Serialization2Test.testReopenWithDefrag",1,1,1,1
+Public Method,"org.mapdb.Serialized2DerivedBean.equals",22,22,22,22
+Public Method,"org.mapdb.Serialized2DerivedBean.hashCode",1,7,7,7
+Public Method,"org.mapdb.Serializer.(Anon_1).deserialize",1,2,2,2
+Public Method,"org.mapdb.Serializer.(Anon_1).serialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_2).deserialize",1,2,2,2
+Public Method,"org.mapdb.Serializer.(Anon_2).serialize",1,2,2,2
+Public Method,"org.mapdb.Serializer.(Anon_3).deserialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_3).serialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_4).deserialize",1,2,2,2
+Public Method,"org.mapdb.Serializer.(Anon_4).serialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_5).deserialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_5).serialize",1,1,1,1
+Public Method,"org.mapdb.Serializer.(Anon_6).deserialize",1,3,3,3
+Public Method,"org.mapdb.Serializer.(Anon_6).serialize",1,2,2,3
+Public Method,"org.mapdb.Serializer.(Anon_7).deserialize",1,2,2,2
+Public Method,"org.mapdb.Serializer.(Anon_7).serialize",1,1,1,1
+Public Abstract Method,"org.mapdb.Serializer.deserialize",1,1,1,1
+Public Abstract Method,"org.mapdb.Serializer.serialize",1,1,1,1
+Public Constructor,"org.mapdb.SerializerBase.FastArrayList.FastArrayList",1,1,1,1
+Public Method,"org.mapdb.SerializerBase.FastArrayList.add",1,2,2,2
+Public Method,"org.mapdb.SerializerBase.FastArrayList.identityIndexOf",3,3,3,3
+Public Static Method,"org.mapdb.SerializerBase.assertSerializable",1,2,2,4
+Protected Static Method,"org.mapdb.SerializerBase.booleanToByteArray",1,57,50,57
+Public Method,"org.mapdb.SerializerBase.deserialize",54,130,9,132
+Public Method,"org.mapdb.SerializerBase.deserialize",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserialize2",32,45,15,45
+Private Method,"org.mapdb.SerializerBase.deserialize3",1,12,2,12
+Private Method,"org.mapdb.SerializerBase.deserializeArrayByte",1,1,1,1
+Private Method,"org.mapdb.SerializerBase.deserializeArrayList",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeArrayListPackedLong",1,4,4,4
+Private Method,"org.mapdb.SerializerBase.deserializeArrayObject",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeArrayObjectAllNull",1,1,1,1
+Private Method,"org.mapdb.SerializerBase.deserializeArrayObjectNoRefs",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeArrayObjectPackedLong",1,3,3,3
+Protected Method,"org.mapdb.SerializerBase.deserializeClass",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeHashMap",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeHashSet",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeLinkedHashMap",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeLinkedHashSet",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeLinkedList",1,2,2,2
+Protected Method,"org.mapdb.SerializerBase.deserializeMapDB",1,19,2,19
+Private Method,"org.mapdb.SerializerBase.deserializeProperties",1,2,2,2
+Static Method,"org.mapdb.SerializerBase.deserializeString",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.deserializeTreeMap",1,3,3,3
+Private Method,"org.mapdb.SerializerBase.deserializeTreeSet",1,3,3,3
+Protected Method,"org.mapdb.SerializerBase.deserializeUnknownHeader",1,1,1,1
+Protected Static Method,"org.mapdb.SerializerBase.readBooleanArray",1,4,4,4
+Public Method,"org.mapdb.SerializerBase.serialize",13,14,14,14
+Public Method,"org.mapdb.SerializerBase.serialize",1,1,1,1
+Private Method,"org.mapdb.SerializerBase.serialize2",40,71,71,77
+Private Method,"org.mapdb.SerializerBase.serializeByte",1,4,4,4
+Private Method,"org.mapdb.SerializerBase.serializeByteArray",3,4,4,4
+Protected Method,"org.mapdb.SerializerBase.serializeClass",1,1,1,1
+Private Method,"org.mapdb.SerializerBase.serializeCollection",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.serializeDouble",1,7,7,13
+Private Method,"org.mapdb.SerializerBase.serializeFloat",1,6,6,10
+Private Method,"org.mapdb.SerializerBase.serializeInt",5,33,6,33
+Private Method,"org.mapdb.SerializerBase.serializeIntArray",1,9,9,11
+Private Method,"org.mapdb.SerializerBase.serializeLong",5,8,8,9
+Private Method,"org.mapdb.SerializerBase.serializeLongArray",1,11,11,14
+Private Method,"org.mapdb.SerializerBase.serializeMap",1,2,2,2
+Private Method,"org.mapdb.SerializerBase.serializeShort",1,6,6,8
+Private Method,"org.mapdb.SerializerBase.serializeString",1,4,4,4
+Protected Method,"org.mapdb.SerializerBase.serializeUnknownObject",1,1,1,1
+Private Method,"org.mapdb.SerializerBase.serializerChar",1,4,4,4
+Generic Method,"org.mapdb.SerializerBaseTest.SerializerBaseTestWithJUDataStreams.clone",1,1,1,1
+Generic Method,"org.mapdb.SerializerBaseTest.clone",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testArrayList",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testBigDecimal",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testBigInteger",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testBigString",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testBoolean1",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testBooleanArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testBooleanArray2",1,4,4,4
+Public Method,"org.mapdb.SerializerBaseTest.testByteArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testChar",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testCharArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testClass",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testDate",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testDouble",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testDoubleArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testFloat",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testFloatArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testHashMap",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testHashSet",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testHeaderUnique",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testHeaderUniqueMapDB",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testInt",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testLinkedHashMap",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testLinkedHashSet",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testLinkedList",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testLong",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testNegativeIntArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testNegativeLongsArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testNegativeShortArray",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testNoArgumentConstructorInJavaSerialization",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testPackedLongCollection",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testProperties",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testShort",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testString",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.testTreeMap",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testTreeSet",1,3,3,3
+Public Method,"org.mapdb.SerializerBaseTest.testUUID",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.testUnicodeString",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.test_All_Serializer_Fields_Serializable",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.test_extended_chars",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.test_issue_38",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.test_multi_dim_array",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.test_multi_dim_array2",1,1,1,1
+Public Method,"org.mapdb.SerializerBaseTest.test_multi_dim_large_array",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.test_static_objects",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.test_strings_var_sizes",1,2,2,2
+Public Method,"org.mapdb.SerializerBaseTest.test_tuple_key_serializer",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.(Anon_1).deserialize",1,5,5,5
+Public Method,"org.mapdb.SerializerPojo.(Anon_1).serialize",3,4,4,4
+Public Constructor,"org.mapdb.SerializerPojo.ClassInfo.ClassInfo",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.addFieldInfo",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getField",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getField",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getFieldId",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getFields",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getName",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.getObjectStreamFields",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.setObjectStreamFields",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.ClassInfo.toString",1,1,1,1
+Public Constructor,"org.mapdb.SerializerPojo.FieldInfo.FieldInfo",3,7,7,7
+Public Constructor,"org.mapdb.SerializerPojo.FieldInfo.FieldInfo",1,1,1,1
+Protected Method,"org.mapdb.SerializerPojo.FieldInfo.firstCharCap",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.FieldInfo.getName",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.FieldInfo.getType",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.FieldInfo.isPrimitive",1,1,1,1
+Protected Constructor,"org.mapdb.SerializerPojo.ObjectInputStream2.ObjectInputStream2",1,1,1,1
+Protected Method,"org.mapdb.SerializerPojo.ObjectInputStream2.readClassDescriptor",1,1,1,1
+Protected Constructor,"org.mapdb.SerializerPojo.ObjectOutputStream2.ObjectOutputStream2",1,1,1,1
+Protected Method,"org.mapdb.SerializerPojo.ObjectOutputStream2.writeClassDescriptor",1,2,2,2
+Public Constructor,"org.mapdb.SerializerPojo.SerializerPojo",1,3,3,3
+Protected Method,"org.mapdb.SerializerPojo.assertClassSerializable",1,3,3,3
+Protected Static Method,"org.mapdb.SerializerPojo.classForName",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.containsClass",1,1,1,1
+Protected Generic Method,"org.mapdb.SerializerPojo.createInstanceSkippinkConstructor",4,7,7,7
+Protected Method,"org.mapdb.SerializerPojo.deserializeUnknownHeader",1,8,8,8
+Public Method,"org.mapdb.SerializerPojo.getClassId",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.getFieldValue",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.getFieldValue",1,3,3,3
+Protected Method,"org.mapdb.SerializerPojo.getFields",1,6,6,6
+Public Method,"org.mapdb.SerializerPojo.hasUnsavedChanges",1,1,1,1
+Public Method,"org.mapdb.SerializerPojo.registerClass",1,5,5,5
+Public Method,"org.mapdb.SerializerPojo.save",1,1,1,1
+Protected Method,"org.mapdb.SerializerPojo.saveClassInfo",1,1,1,1
+Protected Method,"org.mapdb.SerializerPojo.serializeUnknownObject",1,5,5,5
+Public Method,"org.mapdb.SerializerPojo.setFieldValue",1,2,2,2
+Public Method,"org.mapdb.SerializerPojo.setFieldValue",1,3,3,3
+Protected Method,"org.mapdb.SerializerPojo.usesAdvancedSerialization",8,8,8,8
+Constructor,"org.mapdb.SerializerPojoTest.Bean1.Bean1",1,1,1,1
+Constructor,"org.mapdb.SerializerPojoTest.Bean1.Bean1",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Bean1.equals",9,11,11,12
+Public Method,"org.mapdb.SerializerPojoTest.Bean1.getField2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Bean1.setField2",1,1,1,1
+Constructor,"org.mapdb.SerializerPojoTest.Bean2.Bean2",1,1,1,1
+Constructor,"org.mapdb.SerializerPojoTest.Bean2.Bean2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Bean2.equals",5,6,6,7
+Public Method,"org.mapdb.SerializerPojoTest.Bean2.hashCode",1,2,2,2
+Public Constructor,"org.mapdb.SerializerPojoTest.Extr.Extr",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Extr.readExternal",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Extr.writeExternal",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Order.valueOf",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.Order.values",1,1,1,1
+Private Method,"org.mapdb.SerializerPojoTest.deserialize",1,1,1,1
+Public Static Generic Method,"org.mapdb.SerializerPojoTest.outputStreamClone",1,2,2,2
+Private Method,"org.mapdb.SerializerPojoTest.serialize",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testEnum",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testExternalizable",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetFieldValue1",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetFieldValue2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetFieldValue3",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetFieldValue4",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetFieldValue5",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testGetPrimitiveField",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testIssue177",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testPersisted",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testPersistedSimple",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testRecursion",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testRecursion2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testRecursion3",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSerializable",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetFieldValue1",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetFieldValue2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetFieldValue3",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetFieldValue4",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetFieldValue5",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.testSetPrimitiveField",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.test_pojo_reload",1,1,1,1
+Public Constructor,"org.mapdb.SerializerPojoTest.test_pojo_reload_TestClass.test_pojo_reload_TestClass",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.test_transient",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.test_transient2",1,1,1,1
+Public Method,"org.mapdb.SerializerPojoTest.test_write_object_advanced_serializationm",1,2,2,2
+Protected Constructor,"org.mapdb.Store.Store",1,3,3,3
+Protected Method,"org.mapdb.Store.Store.(Anon_1).initialValue",1,1,1,1
+Public Abstract Method,"org.mapdb.Store.calculateStatistics",1,1,1,1
+Protected Generic Method,"org.mapdb.Store.deserialize",1,9,9,9
+Public Abstract Method,"org.mapdb.Store.getCurrSize",1,1,1,1
+Public Abstract Method,"org.mapdb.Store.getFreeRecids",1,1,1,1
+Public Abstract Method,"org.mapdb.Store.getFreeSize",1,1,1,1
+Public Abstract Method,"org.mapdb.Store.getMaxRecid",1,1,1,1
+Public Abstract Method,"org.mapdb.Store.getRaw",1,1,1,1
+Public Method,"org.mapdb.Store.getSerializerPojo",1,2,2,2
+Public Abstract Method,"org.mapdb.Store.getSizeLimit",1,1,1,1
+Protected Method,"org.mapdb.Store.lockAllWrite",1,2,2,2
+Protected Method,"org.mapdb.Store.newDataOut2",1,2,2,2
+Public Method,"org.mapdb.Store.printStatistics",1,1,1,1
+Protected Generic Method,"org.mapdb.Store.serialize",1,13,13,13
+Protected Method,"org.mapdb.Store.unlockAllWrite",1,2,2,2
+Public Abstract Method,"org.mapdb.Store.updateRaw",1,1,1,1
+Public Constructor,"org.mapdb.StoreAppend.StoreAppend",9,17,17,20
+Public Constructor,"org.mapdb.StoreAppend.StoreAppend",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.calculateStatistics",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.canRollback",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.clearCache",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.close",1,6,6,8
+Public Method,"org.mapdb.StoreAppend.commit",1,5,5,6
+Public Method,"org.mapdb.StoreAppend.compact",5,7,7,8
+Public Generic Method,"org.mapdb.StoreAppend.compareAndSwap",1,3,3,4
+Public Generic Method,"org.mapdb.StoreAppend.delete",1,1,1,1
+Public Generic Method,"org.mapdb.StoreAppend.get",1,2,2,2
+Public Method,"org.mapdb.StoreAppend.getCurrSize",1,1,1,1
+Protected Method,"org.mapdb.StoreAppend.getFileFromNum",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.getFreeRecids",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.getFreeSize",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.getMaxRecid",1,1,1,1
+Protected Generic Method,"org.mapdb.StoreAppend.getNoLock",4,4,4,4
+Public Method,"org.mapdb.StoreAppend.getRaw",1,2,2,2
+Public Method,"org.mapdb.StoreAppend.getSizeLimit",1,1,1,1
+Protected Method,"org.mapdb.StoreAppend.indexVal",3,3,3,3
+Public Method,"org.mapdb.StoreAppend.isClosed",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.preallocate",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.preallocate",1,2,2,2
+Public Generic Method,"org.mapdb.StoreAppend.put",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.rollback",1,2,2,2
+Protected Method,"org.mapdb.StoreAppend.rollover",1,3,3,4
+Protected Method,"org.mapdb.StoreAppend.setIndexVal",1,2,2,2
+Public Generic Method,"org.mapdb.StoreAppend.update",1,1,1,1
+Protected Method,"org.mapdb.StoreAppend.updateNoLock",1,1,1,1
+Public Method,"org.mapdb.StoreAppend.updateRaw",1,2,2,2
+Public Method,"org.mapdb.StoreAppendTest.compact_file_deleted",1,2,2,2
+Public Method,"org.mapdb.StoreAppendTest.delete_files_after_close",1,1,1,1
+Public Method,"org.mapdb.StoreAppendTest.header_created",1,2,2,2
+Protected Method,"org.mapdb.StoreAppendTest.openEngine",1,1,1,1
+Public Method,"org.mapdb.StoreAppendTest.put",1,1,1,1
+Public Constructor,"org.mapdb.StoreDirect.StoreDirect",1,1,1,1
+Public Constructor,"org.mapdb.StoreDirect.StoreDirect",1,3,3,4
+Public Method,"org.mapdb.StoreDirect.calculateStatistics",1,3,3,3
+Public Method,"org.mapdb.StoreDirect.canRollback",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.checkHeaders",1,3,3,4
+Public Method,"org.mapdb.StoreDirect.clearCache",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.close",1,4,4,5
+Public Method,"org.mapdb.StoreDirect.commit",1,4,4,5
+Public Method,"org.mapdb.StoreDirect.compact",1,14,14,17
+Public Generic Method,"org.mapdb.StoreDirect.compareAndSwap",3,3,3,7
+Protected Method,"org.mapdb.StoreDirect.countLongStackItems",3,3,3,3
+Protected Method,"org.mapdb.StoreDirect.createStructure",1,2,2,2
+Public Generic Method,"org.mapdb.StoreDirect.delete",1,5,5,6
+Protected Method,"org.mapdb.StoreDirect.freeIoRecidPut",1,2,2,2
+Protected Method,"org.mapdb.StoreDirect.freeIoRecidTake",3,4,4,4
+Protected Method,"org.mapdb.StoreDirect.freePhysPut",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.freePhysTake",7,9,9,10
+Public Generic Method,"org.mapdb.StoreDirect.get",1,2,2,2
+Protected Generic Method,"org.mapdb.StoreDirect.get2",5,7,7,7
+Public Method,"org.mapdb.StoreDirect.getCurrSize",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.getFreeRecids",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.getFreeSize",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.getLinkedRecordsIndexVals",4,5,5,5
+Public Method,"org.mapdb.StoreDirect.getMaxRecid",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.getRaw",1,2,2,2
+Public Method,"org.mapdb.StoreDirect.getSizeLimit",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.indexHeaderChecksum",3,3,3,3
+Public Method,"org.mapdb.StoreDirect.isClosed",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.isReadOnly",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.longStackPut",1,7,7,8
+Protected Method,"org.mapdb.StoreDirect.longStackTake",1,7,7,9
+Protected Method,"org.mapdb.StoreDirect.physAllocate",3,8,8,8
+Public Method,"org.mapdb.StoreDirect.preallocate",1,1,1,1
+Public Method,"org.mapdb.StoreDirect.preallocate",1,3,3,3
+Public Generic Method,"org.mapdb.StoreDirect.put",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.put2",1,7,7,8
+Public Method,"org.mapdb.StoreDirect.rollback",1,1,1,1
+Protected Static Method,"org.mapdb.StoreDirect.roundTo16",1,2,2,2
+Protected Static Method,"org.mapdb.StoreDirect.size2ListIoRecid",1,1,1,1
+Public Generic Method,"org.mapdb.StoreDirect.update",1,1,1,1
+Protected Method,"org.mapdb.StoreDirect.update2",1,7,7,11
+Public Method,"org.mapdb.StoreDirect.updateRaw",1,3,3,3
+Protected Method,"org.mapdb.StoreDirectFreeSpaceTest.(Anon_1).longStackPut",1,1,1,1
+Protected Method,"org.mapdb.StoreDirectFreeSpaceTest.(Anon_1).longStackTake",1,2,2,2
+Private Method,"org.mapdb.StoreDirectFreeSpaceTest.(Anon_1).stackList",1,2,2,2
+Method,"org.mapdb.StoreDirectFreeSpaceTest.assertLongStacksEmpty",1,3,3,3
+Method,"org.mapdb.StoreDirectFreeSpaceTest.check",1,3,3,3
+Method,"org.mapdb.StoreDirectFreeSpaceTest.fill",1,2,2,2
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.largeGrow",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.multi_linked",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.reuse_after_full",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.simpleGrow",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.simpleSpaceAlloc",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.simpleTake",1,1,1,1
+Method,"org.mapdb.StoreDirectFreeSpaceTest.size",1,1,1,1
+Public Method,"org.mapdb.StoreDirectFreeSpaceTest.split_after_full",1,1,1,1
+Method,"org.mapdb.StoreDirectTest.canRollback",1,1,1,1
+Method,"org.mapdb.StoreDirectTest.countIndexRecords",1,3,3,4
+Public Method,"org.mapdb.StoreDirectTest.delete_files_after_close",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.freeSpaceWorks",1,1,1,1
+Method,"org.mapdb.StoreDirectTest.getLongStack",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.long_stack_page_created_after_put",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.long_stack_page_deleted_after_take",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.long_stack_page_overflow",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.long_stack_put_five",1,1,1,1
+Protected Method,"org.mapdb.StoreDirectTest.openEngine",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.phys_append_alloc",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.phys_append_alloc_link2",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.phys_append_alloc_link3",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.prealloc",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.second_rec_pos_round_to_16",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_basic_long_stack",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.test_basic_long_stack_no_commit",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.test_constants",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_index_record_delete",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_index_record_delete_and_reuse_large",1,4,4,4
+Public Method,"org.mapdb.StoreDirectTest.test_index_record_delete_and_reusef",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_index_stores_record_size",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_large_long_stack",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.test_large_long_stack_no_commit",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.test_long_stack_put_take",1,3,3,3
+Public Method,"org.mapdb.StoreDirectTest.test_long_stack_put_take_simple",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_long_stack_puts_record_offset_into_index",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_phys_record_reused",1,1,1,1
+Public Method,"org.mapdb.StoreDirectTest.test_size2IoList",1,3,3,3
+Public Constructor,"org.mapdb.StoreHeap.StoreHeap",1,2,2,2
+Public Method,"org.mapdb.StoreHeap.calculateStatistics",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.canRollback",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.clearCache",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.close",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.commit",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.compact",1,1,1,1
+Public Generic Method,"org.mapdb.StoreHeap.compareAndSwap",1,2,2,3
+Public Generic Method,"org.mapdb.StoreHeap.delete",1,2,2,2
+Public Generic Method,"org.mapdb.StoreHeap.get",1,2,2,2
+Public Method,"org.mapdb.StoreHeap.getCurrSize",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.getFreeRecids",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.getFreeSize",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.getMaxRecid",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.getRaw",1,2,2,3
+Public Method,"org.mapdb.StoreHeap.getSizeLimit",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.isClosed",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.StoreHeap.preallocate",1,2,2,2
+Public Method,"org.mapdb.StoreHeap.preallocate",1,3,3,3
+Public Generic Method,"org.mapdb.StoreHeap.put",1,2,2,2
+Public Method,"org.mapdb.StoreHeap.rollback",1,3,3,3
+Public Generic Method,"org.mapdb.StoreHeap.update",1,2,2,2
+Public Method,"org.mapdb.StoreHeap.updateRaw",1,1,1,1
+Method,"org.mapdb.StoreHeapTest.canReopen",1,1,1,1
+Method,"org.mapdb.StoreHeapTest.canRollback",1,1,1,1
+Protected Method,"org.mapdb.StoreHeapTest.openEngine",1,1,1,1
+Public Constructor,"org.mapdb.StoreWAL.StoreWAL",1,1,1,1
+Public Constructor,"org.mapdb.StoreWAL.StoreWAL",1,1,1,1
+Public Method,"org.mapdb.StoreWAL.canRollback",1,1,1,1
+Protected Method,"org.mapdb.StoreWAL.checkHeaders",1,2,2,2
+Protected Method,"org.mapdb.StoreWAL.checkLogRounding",1,2,2,2
+Public Method,"org.mapdb.StoreWAL.close",1,5,5,6
+Public Method,"org.mapdb.StoreWAL.commit",4,10,10,12
+Public Method,"org.mapdb.StoreWAL.compact",1,2,2,3
+Public Generic Method,"org.mapdb.StoreWAL.compareAndSwap",3,7,7,12
+Public Generic Method,"org.mapdb.StoreWAL.delete",3,6,6,7
+Public Generic Method,"org.mapdb.StoreWAL.get",1,2,2,2
+Protected Generic Method,"org.mapdb.StoreWAL.get2",4,9,9,11
+Protected Method,"org.mapdb.StoreWAL.getLinkedRecordsFromLog",3,4,4,5
+Private Method,"org.mapdb.StoreWAL.getLongStackPage",1,4,4,4
+Protected Method,"org.mapdb.StoreWAL.logAllocate",1,2,2,2
+Protected Method,"org.mapdb.StoreWAL.longStackPut",1,7,7,8
+Protected Method,"org.mapdb.StoreWAL.longStackTake",1,7,7,8
+Protected Method,"org.mapdb.StoreWAL.openLogIfNeeded",1,2,2,2
+Public Method,"org.mapdb.StoreWAL.preallocate",1,1,1,1
+Public Method,"org.mapdb.StoreWAL.preallocate",1,3,3,3
+Public Generic Method,"org.mapdb.StoreWAL.put",1,1,1,1
+Protected Method,"org.mapdb.StoreWAL.reloadIndexFile",1,3,3,4
+Protected Method,"org.mapdb.StoreWAL.replayLogFile",1,10,10,13
+Public Method,"org.mapdb.StoreWAL.rollback",1,2,2,2
+Public Generic Method,"org.mapdb.StoreWAL.update",1,6,6,7
+Protected Method,"org.mapdb.StoreWAL.walIndexVal",1,1,1,1
+Protected Method,"org.mapdb.StoreWAL.walPhysArray",1,5,5,5
+Method,"org.mapdb.StoreWALTest.canRollback",1,1,1,1
+Public Method,"org.mapdb.StoreWALTest.delete_files_after_close2",1,1,1,1
+Protected Method,"org.mapdb.StoreWALTest.openEngine",1,1,1,1
+Public Method,"org.mapdb.TestFile.after",1,4,4,4
+Public Method,"org.mapdb.TreeMapExtendTest.MockComparator.compare",3,3,3,4
+Protected Method,"org.mapdb.TreeMapExtendTest.setUp",1,2,2,2
+Protected Method,"org.mapdb.TreeMapExtendTest.tearDown",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_ceiling",1,25,25,25
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_comparator",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_descendingIterator",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_descendingSet",1,9,9,9
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_floor",1,25,25,25
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_headSet",1,33,33,33
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_higher",1,26,26,26
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_lower",1,26,26,26
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startExcluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startExcluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startIncluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollFirst_startIncluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startExcluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startExcluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startIncluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_pollLast_startIncluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_subSet",1,16,16,16
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapEntrySet_tailSet",1,33,33,33
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_ceiling",1,6,6,6
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_comparator",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_descendingIterator",1,9,9,9
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_descendingSet",1,9,9,9
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_first",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_floor",1,6,6,6
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_headSet",1,129,129,129
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_higher",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_last",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_lower",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollFirst_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollLast",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_pollLast_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_remove",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_subSet",1,65,65,65
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMapKeySet_tailSet",1,114,114,114
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_ceilingEntry",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_descendingMap",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_entrySet",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_floorEntry",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_pollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_pollLastEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_AscendingSubMap_subMap",1,14,14,14
+Public Method,"org.mapdb.TreeMapExtendTest.test_BoundedEntryIterator_next",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_BoundedKeyIterator_next",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_BoundedValueIterator_next",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_ceiling",1,16,16,16
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_comparator",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_descendingIterator",1,14,14,14
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_descendingSet",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_first",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_floor",1,27,27,27
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_headSet",1,34,34,34
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_higher",1,17,17,17
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_last",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_lower",1,14,14,14
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollFirst",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollFirst_startExcluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollFirst_startExcluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollFirst_startIncluded_endExcluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollFirst_startIncluded_endIncluded",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollLast",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollLast_startExcluded_endExclued",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollLast_startExcluded_endInclued",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollLast_startIncluded_endExclued",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_pollLast_startIncluded_endInclued",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_subSet",1,30,30,30
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapEntrySet_tailSet",1,34,34,34
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_ceiling",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_comparator",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_descendingIterator",1,15,15,15
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_descendingSet",1,9,9,9
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_floor",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_headSet",1,77,77,77
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_higher",1,19,19,19
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_lower",1,18,18,18
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollFirst",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollFirst_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollFirst_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollFirst_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollFirst_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollLast",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollLast_startExcluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollLast_startExcluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollLast_startIncluded_endExcluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_pollLast_startIncluded_endIncluded",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_subSet",1,32,32,32
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMapKeySet_tailSet",1,69,69,69
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_ceilingEntry",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_descendingMap",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_firstEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_floorEntry",1,10,10,10
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_headMap",1,14,14,14
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_higherEntry",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_lastEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_lowerEntry",1,9,9,9
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_pollFirstEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_pollLastEntry",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_subMap",1,7,7,7
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_tailMap",1,52,52,52
+Public Method,"org.mapdb.TreeMapExtendTest.test_DescendingSubMap_values",1,8,8,8
+Public Method,"org.mapdb.TreeMapExtendTest.test_Entry_setValue",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_Constructor",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_contains",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_isEmpty",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_iterator",1,26,26,26
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_remove",1,6,6,6
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapEntrySet_size",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_Constructor",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_contains",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_isEmpty",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_iterator",1,21,21,21
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_remove",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMapKeySet_size",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_Constructor",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_clear",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_comparator",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_containsKey",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_containsValue",1,2,2,2
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_entrySet",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_firstKey",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_get",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_headMap",1,23,23,23
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_isEmpty",1,3,3,3
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_keySet",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_lastKey",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_put",1,6,6,6
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_readObject",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_remove",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_size",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_subMap_Comparator",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_subMap_NoComparator",1,11,11,11
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_tailMap",1,17,17,17
+Public Method,"org.mapdb.TreeMapExtendTest.test_SubMap_values",1,6,6,6
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_Constructor_Comparator",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_Constructor_Default",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_Constructor_Map",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_Constructor_SortedMap",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_clear",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_TreeMap_clone",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_contains",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_contains_null",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_headMap",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_lower",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_lower_null",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_lower_tail",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.test_lowerkey",1,5,5,5
+Public Method,"org.mapdb.TreeMapExtendTest.test_size",1,8,8,8
+Public Method,"org.mapdb.TreeMapExtendTest.testname",1,1,1,1
+Public Method,"org.mapdb.TreeMapExtendTest.testname.(Anon_1).compare",1,3,3,3
+Abstract Method,"org.mapdb.TxBlock.tx",1,1,1,1
+Public Constructor,"org.mapdb.TxEngine.TX.TX",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.canRollback",1,1,1,1
+Protected Method,"org.mapdb.TxEngine.TX.checkFullTx",1,2,2,2
+Public Method,"org.mapdb.TxEngine.TX.clearCache",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.close",1,2,2,2
+Public Method,"org.mapdb.TxEngine.TX.commit",4,10,10,11
+Public Method,"org.mapdb.TxEngine.TX.compact",1,1,1,1
+Public Generic Method,"org.mapdb.TxEngine.TX.compareAndSwap",1,3,3,5
+Public Generic Method,"org.mapdb.TxEngine.TX.delete",1,2,2,2
+Public Generic Method,"org.mapdb.TxEngine.TX.get",1,1,1,1
+Private Generic Method,"org.mapdb.TxEngine.TX.getNoLock",4,7,7,7
+Public Method,"org.mapdb.TxEngine.TX.getSerializerPojo",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.isClosed",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.isReadOnly",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.preallocate",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.preallocate",1,1,1,1
+Public Generic Method,"org.mapdb.TxEngine.TX.put",1,1,1,1
+Public Method,"org.mapdb.TxEngine.TX.rollback",1,3,3,3
+Public Generic Method,"org.mapdb.TxEngine.TX.update",1,2,2,2
+Protected Constructor,"org.mapdb.TxEngine.TxEngine",1,1,1,1
+Public Method,"org.mapdb.TxEngine.close",1,3,3,3
+Public Method,"org.mapdb.TxEngine.commit",1,3,3,3
+Private Method,"org.mapdb.TxEngine.commitNoLock",1,1,1,1
+Public Generic Method,"org.mapdb.TxEngine.compareAndSwap",4,4,4,4
+Public Static Method,"org.mapdb.TxEngine.createSnapshotFor",3,4,4,4
+Public Generic Method,"org.mapdb.TxEngine.delete",1,1,1,1
+Private Generic Method,"org.mapdb.TxEngine.deleteNoLock",3,4,4,4
+Public Generic Method,"org.mapdb.TxEngine.get",1,1,1,1
+Public Generic Method,"org.mapdb.TxEngine.put",3,3,3,3
+Public Method,"org.mapdb.TxEngine.rollback",1,3,3,3
+Public Method,"org.mapdb.TxEngine.snapshot",1,4,4,5
+Protected Method,"org.mapdb.TxEngine.txsCleanup",1,2,2,2
+Public Generic Method,"org.mapdb.TxEngine.update",1,1,1,1
+Private Generic Method,"org.mapdb.TxEngine.updateNoLock",3,4,4,4
+Public Method,"org.mapdb.TxEngineTest.BTreeMap_snapshot",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.DB_snapshot",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.DB_snapshot2",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.HTreeMap_snapshot",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.compareAndSwap",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.create_snapshot",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.delete",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.notExist",1,1,1,1
+Public Method,"org.mapdb.TxEngineTest.update",1,1,1,1
+Public Constructor,"org.mapdb.TxMaker.TxMaker",1,4,4,4
+Public Method,"org.mapdb.TxMaker.close",1,1,1,1
+Public Method,"org.mapdb.TxMaker.execute",3,5,5,5
+Public Method,"org.mapdb.TxMaker.makeTx",1,1,1,1
+Public Method,"org.mapdb.TxMakerTest.cas",1,4,4,5
+Public Method,"org.mapdb.TxMakerTest.cas.(for_loop_6).(Anon_5).run",1,3,3,3
+Public Method,"org.mapdb.TxMakerTest.cas.(for_loop_6).(Anon_5).run.(for_loop_7).(Anon_6).tx",1,2,2,2
+Public Method,"org.mapdb.TxMakerTest.commit_conflict",1,2,2,2
+Public Method,"org.mapdb.TxMakerTest.concurrent_tx",1,5,5,6
+Public Method,"org.mapdb.TxMakerTest.concurrent_tx.(for_loop_1).(Anon_1).run",1,3,3,3
+Public Method,"org.mapdb.TxMakerTest.concurrent_tx.(for_loop_1).(Anon_1).run.(for_loop_2).(Anon_2).tx",1,2,2,2
+Public Method,"org.mapdb.TxMakerTest.increment",1,4,4,5
+Public Method,"org.mapdb.TxMakerTest.increment.(for_loop_4).(Anon_3).run",1,3,3,3
+Public Method,"org.mapdb.TxMakerTest.increment.(for_loop_4).(Anon_3).run.(for_loop_5).(Anon_4).tx",1,1,1,1
+Public Method,"org.mapdb.TxMakerTest.simple_commit",1,1,1,1
+Public Method,"org.mapdb.TxMakerTest.simple_rollback",1,1,1,1
+Public Method,"org.mapdb.Utils.(Anon_1).compare",1,1,1,1
+Public Method,"org.mapdb.Utils.(Anon_2).compare",1,3,3,5
+Public Static Method,"org.mapdb.Utils.JVMSupportsLargeMappedFiles",1,2,2,3
+Public Static Method,"org.mapdb.Utils.arrayLongPut",1,2,2,2
+Public Static Method,"org.mapdb.Utils.arrayPut",1,2,2,2
+Public Static Method,"org.mapdb.Utils.assertNoLocks",1,3,3,3
+Public Static Method,"org.mapdb.Utils.checkMapValueIsNotCollecion",1,3,3,5
+Public Static Generic Method,"org.mapdb.Utils.clone",1,2,2,2
+Public Static Method,"org.mapdb.Utils.isAndroid",1,1,1,1
+Public Static Method,"org.mapdb.Utils.isWindows",1,1,1,2
+Public Static Method,"org.mapdb.Utils.lock",1,3,3,3
+Public Static Method,"org.mapdb.Utils.longHash",1,1,1,1
+Public Static Method,"org.mapdb.Utils.newLocks",1,2,2,2
+Public Static Method,"org.mapdb.Utils.newReadWriteLocks",1,2,2,2
+Public Static Method,"org.mapdb.Utils.nextPowTwo",1,2,2,2
+Public Static Method,"org.mapdb.Utils.packInt",1,2,2,2
+Public Static Method,"org.mapdb.Utils.packLong",1,2,2,2
+Public Static Method,"org.mapdb.Utils.packedLongSize",1,2,2,2
+Public Static Method,"org.mapdb.Utils.randomString",1,2,2,2
+Public Static Method,"org.mapdb.Utils.tempDbFile",1,2,2,2
+Public Static Method,"org.mapdb.Utils.unlock",1,2,2,2
+Public Static Method,"org.mapdb.Utils.unlockAll",1,3,3,3
+Public Static Method,"org.mapdb.Utils.unpackInt",3,3,3,3
+Public Static Method,"org.mapdb.Utils.unpackLong",3,3,3,3
+Public Method,"org.mapdb.UtilsTest.(Anon_1).deserialize",1,1,1,1
+Public Method,"org.mapdb.UtilsTest.(Anon_1).serialize",1,1,1,1
+Public Static Generic Method,"org.mapdb.UtilsTest.clone",1,2,2,2
+Public Method,"org.mapdb.UtilsTest.testArrayPut",1,1,1,1
+Public Method,"org.mapdb.UtilsTest.testNextPowTwo",1,1,1,1
+Public Method,"org.mapdb.UtilsTest.testPackInt",1,2,2,2
+Public Method,"org.mapdb.UtilsTest.testPackLong",1,2,2,2
+Protected Constructor,"org.mapdb.Volume.ByteBufferVol.ByteBufferVol",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.getByte",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.getDataInput",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.getInt",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.getLong",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.isEmpty",1,1,1,2
+Public Method,"org.mapdb.Volume.ByteBufferVol.isSliced",1,1,1,1
+Protected Abstract Method,"org.mapdb.Volume.ByteBufferVol.makeNewBuffer",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.putByte",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.putData",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.putData",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.putInt",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.putLong",1,1,1,1
+Public Method,"org.mapdb.Volume.ByteBufferVol.tryAvailable",4,9,9,15
+Protected Method,"org.mapdb.Volume.ByteBufferVol.unmap",1,6,6,6
+Abstract Method,"org.mapdb.Volume.Factory.createIndexVolume",1,1,1,1
+Abstract Method,"org.mapdb.Volume.Factory.createPhysVolume",1,1,1,1
+Abstract Method,"org.mapdb.Volume.Factory.createTransLogVolume",1,1,1,1
+Public Constructor,"org.mapdb.Volume.FileChannelVol.FileChannelVol",1,3,3,3
+Public Method,"org.mapdb.Volume.FileChannelVol.close",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.deleteFile",1,1,1,1
+Public Method,"org.mapdb.Volume.FileChannelVol.getByte",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.getDataInput",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.getFile",1,1,1,1
+Public Method,"org.mapdb.Volume.FileChannelVol.getInt",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.getLong",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.getSixLong",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.isEmpty",1,2,2,3
+Public Method,"org.mapdb.Volume.FileChannelVol.isSliced",1,1,1,1
+Public Method,"org.mapdb.Volume.FileChannelVol.putByte",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.putData",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.putData",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.putInt",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.putLong",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.putSixLong",1,4,4,4
+Protected Method,"org.mapdb.Volume.FileChannelVol.readFully",1,3,3,3
+Public Method,"org.mapdb.Volume.FileChannelVol.sync",1,2,2,2
+Public Method,"org.mapdb.Volume.FileChannelVol.tryAvailable",1,4,4,5
+Protected Method,"org.mapdb.Volume.FileChannelVol.writeFully",1,3,3,3
+Public Constructor,"org.mapdb.Volume.MappedFileVol.MappedFileVol",1,7,7,7
+Public Method,"org.mapdb.Volume.MappedFileVol.close",1,8,8,10
+Public Method,"org.mapdb.Volume.MappedFileVol.deleteFile",1,1,1,1
+Public Method,"org.mapdb.Volume.MappedFileVol.getFile",1,1,1,1
+Public Method,"org.mapdb.Volume.MappedFileVol.isEmpty",1,1,1,2
+Protected Method,"org.mapdb.Volume.MappedFileVol.makeNewBuffer",1,4,4,5
+Public Method,"org.mapdb.Volume.MappedFileVol.sync",1,4,4,5
+Public Constructor,"org.mapdb.Volume.MemoryVol.MemoryVol",1,1,1,1
+Public Method,"org.mapdb.Volume.MemoryVol.close",1,3,3,4
+Public Method,"org.mapdb.Volume.MemoryVol.deleteFile",1,1,1,1
+Public Method,"org.mapdb.Volume.MemoryVol.getFile",1,1,1,1
+Protected Method,"org.mapdb.Volume.MemoryVol.makeNewBuffer",1,3,3,3
+Public Method,"org.mapdb.Volume.MemoryVol.sync",1,1,1,1
+Public Method,"org.mapdb.Volume.MemoryVol.toString",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.close",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.deleteFile",1,1,1,1
+Public Method,"org.mapdb.Volume.ensureAvailable",1,2,2,2
+Public Static Method,"org.mapdb.Volume.fileFactory",1,1,1,1
+Public Static Method,"org.mapdb.Volume.fileFactory",1,1,1,1
+Public Method,"org.mapdb.Volume.fileFactory.(Anon_1).createIndexVolume",1,1,1,1
+Public Method,"org.mapdb.Volume.fileFactory.(Anon_1).createPhysVolume",1,1,1,1
+Public Method,"org.mapdb.Volume.fileFactory.(Anon_1).createTransLogVolume",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.getByte",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.getDataInput",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.getFile",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.getInt",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.getLong",1,1,1,1
+Public Method,"org.mapdb.Volume.getPackedLong",3,3,3,3
+Public Method,"org.mapdb.Volume.getSixLong",1,1,1,1
+Public Method,"org.mapdb.Volume.getUnsignedByte",1,1,1,1
+Public Method,"org.mapdb.Volume.getUnsignedShort",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.isEmpty",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.isSliced",1,1,1,1
+Public Static Method,"org.mapdb.Volume.memoryFactory",1,1,1,1
+Public Method,"org.mapdb.Volume.memoryFactory.(Anon_2).createIndexVolume",1,1,1,1
+Public Method,"org.mapdb.Volume.memoryFactory.(Anon_2).createPhysVolume",1,1,1,1
+Public Method,"org.mapdb.Volume.memoryFactory.(Anon_2).createTransLogVolume",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.putByte",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.putData",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.putData",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.putInt",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.putLong",1,1,1,1
+Public Method,"org.mapdb.Volume.putPackedLong",1,3,3,3
+Public Method,"org.mapdb.Volume.putSixLong",1,3,3,3
+Public Method,"org.mapdb.Volume.putUnsignedByte",1,1,1,1
+Public Method,"org.mapdb.Volume.putUnsignedShort",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.sync",1,1,1,1
+Public Abstract Method,"org.mapdb.Volume.tryAvailable",1,1,1,1
+Public Static Method,"org.mapdb.Volume.volumeForFile",1,2,2,2
+Method,"org.mapdb.VolumeTest.MappedFileVolumeTest.getVolume",1,1,1,1
+Method,"org.mapdb.VolumeTest.MemoryVolumeTest.getVolume",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.RAF_bytes",1,1,1,1
+Method,"org.mapdb.VolumeTest.RandomAccessVolumeTest.getVolume",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.concurrent_write",1,3,3,3
+Public Method,"org.mapdb.VolumeTest.concurrent_write.(for_loop_1).(Anon_1).run",1,4,4,4
+Abstract Method,"org.mapdb.VolumeTest.getVolume",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.read_beyond_end_mapped_byte",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.read_beyond_end_mapped_long",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.read_beyond_end_raf_byte",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.read_beyond_end_raf_long",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.sixLong",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.testConstants",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testEnsureAvailable",1,3,3,3
+Public Method,"org.mapdb.VolumeTest.testMappedSizeLimit",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testMemorySizeLimit",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testPutData",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testPutLong",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testPutUnsignedByte",1,1,1,1
+Public Method,"org.mapdb.VolumeTest.testRAFSizeLimit",1,1,1,1
+Method,"org.mapdb.VolumeTest.testSizeLimit",1,2,2,2
+Public Method,"org.mapdb.VolumeTest.unsignedShort",1,1,1,1
